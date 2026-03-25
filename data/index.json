@@ -21,7 +21,7 @@
   },
   {
     "id": "dsa-enforcement",
-    "title": "DSA Enforcement",
+    "title": "Digital Services Act — Enforcement actions",
     "flag": "🇪🇺",
     "category": "Platform regulation",
     "current_state": "DSA fully applicable since Feb 2024. Commission conducting formal proceedings against X, TikTok, Meta, and now Shein. Generative AI integration in ranking systems is the Commission's stated 2026 enforcement priority. EP committees fighting over competence division for Digital Omnibus, which includes DSA simplification. Political preference for negotiated compliance over headline fines.",
@@ -31,7 +31,7 @@
   },
   {
     "id": "dsa-law",
-    "title": "Digital Services Act — Law & Secondary Legislation",
+    "title": "Digital Services Act — Legislative history",
     "flag": "🇪🇺",
     "category": "Platform regulation",
     "current_state": "DSA fully applicable since February 2024. All online platforms must comply with notice-and-action systems, trader traceability (Article 31), and random product safety checks (Article 32). Secondary legislation on VLOP audit methodology and advertising transparency database in force. Digital Omnibus (Nov 2025) proposes DSA simplification measures.",
@@ -61,7 +61,7 @@
   },
   {
     "id": "dma-law",
-    "title": "EU Digital Markets Act — Law & Secondary Legislation",
+    "title": "Digital Markets Act — Legislative history",
     "flag": "🇪🇺",
     "category": "Competition",
     "current_state": "Fully applicable since May 2023. Seven gatekeepers designated (Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft, Booking.com). Commission is sole enforcer — no national parallel enforcement. Implementing Regulation on gatekeeper notification and reporting format in force. DMA review not expected before 2027.",
@@ -71,7 +71,7 @@
   },
   {
     "id": "dma-enforcement",
-    "title": "EU Digital Markets Act — Enforcement",
+    "title": "Digital Markets Act — Enforcement actions",
     "flag": "🇪🇺",
     "category": "Competition",
     "current_state": "Commission issued first enforcement actions March 2025: binding specifications for Apple iOS interoperability (nine features), preliminary non-compliance findings against Google Search and Play Store. Formal non-compliance decisions expected H2 2026. Active proceedings against Apple (App Store, browser, sideloading), Meta (pay or consent model), and Microsoft (Teams tying).",
