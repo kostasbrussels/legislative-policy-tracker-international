@@ -152,7 +152,7 @@
   {
     "id": "eu-us-trade",
     "title": "EU–US Trade & Tech Relations",
-    "flag": "🇺🇸",
+    "flag": "🇪🇺🇺🇸",
     "category": "Trade",
     "current_state": "No formal FTA in negotiation. Trade and Technology Council (TTC) established in 2021 but paused under Trump administration from Jan 2025. US imposing tariffs on EU goods (steel, aluminium, Section 232 measures). EU preparing countermeasures. US threatening additional tariffs in response to EU digital regulations targeting US tech companies.",
     "next_milestone": "EU countermeasures decision on US tariffs — ongoing",
@@ -162,7 +162,7 @@
   {
     "id": "eu-canada-dta",
     "title": "EU–Canada Digital Trade Agreement",
-    "flag": "🇨🇦",
+    "flag": "🇪🇺🇨🇦",
     "category": "Trade",
     "current_state": "Negotiations formally launched at 5 March 2026 CETA Ministerial in Ottawa. First technical round held in February 2026. Agreement expected to cover: data flows, cross-border data localisation prohibitions, e-commerce facilitation, customs cooperation on small parcels, digital identity, and AI governance cooperation.",
     "next_milestone": "First formal negotiating round — expected Q2 2026",
