@@ -1,0 +1,86 @@
+{
+  "id": "eu-us-trade",
+  "title": "EU–US Trade & Tech Relations",
+  "entries": [
+    {
+      "date": "2026-03-20",
+      "title": "EU countermeasures on US tariffs — political decision expected",
+      "what_happened": "The European Commission presented member states with a package of proposed countermeasures in response to ongoing US Section 232 tariffs on steel and aluminium and the threat of additional tariffs on EU digital services exports. Member states are divided on the scale of retaliation. The US has signalled that any EU countermeasures targeting US tech companies will be met with additional tariffs on EU goods. The prospect of a transatlantic tariff escalation has created significant uncertainty for cross-border digital trade.",
+      "shopify_angle": "EU-US trade tensions create currency and customs volatility that affects Shopify merchants selling across the Atlantic. If US tariffs extend to digital services, Shopify's subscription revenue from US-based merchants (the largest market) could face retaliatory pressure. EU countermeasures targeting US tech platforms could disrupt the advertising and marketplace infrastructure that Shopify merchants depend on.",
+      "tags": ["countermeasures", "tariffs", "digital-services", "trade-war", "pending"],
+      "sources": []
+    },
+    {
+      "date": "2025-04-01",
+      "title": "US threatens tariffs against countries applying UTPR to US multinationals",
+      "what_happened": "The Trump administration issued a formal statement threatening retaliatory tariffs and regulatory measures against EU member states that apply the Undertaxed Profits Rule (UTPR) — a Pillar Two mechanism — to US multinational subsidiaries whose parent groups are subject to GILTI rather than the GloBE minimum tax rules. The US Treasury argued that the UTPR constitutes unlawful extraterritorial taxation of US companies.",
+      "shopify_angle": "As a Canadian company, Shopify is not directly targeted by US UTPR retaliation threats. However, the US-EU tax dispute demonstrates the broader instability of the international regulatory framework for digital companies. EU member states facing US tariff pressure may adjust UTPR enforcement posture — which indirectly affects the competitive tax environment Shopify operates in.",
+      "tags": ["utpr", "pillar-two", "retaliation", "tariffs", "tax-tension"],
+      "sources": []
+    },
+    {
+      "date": "2025-01-20",
+      "title": "Trump administration takes office — TTC effectively suspended, trade tension resumes",
+      "what_happened": "The Trump administration's inauguration effectively paused the Trade and Technology Council. The new administration indicated it would not continue the TTC format and signalled an adversarial posture toward EU digital regulations — including the DSA, DMA, and GDPR — characterising them as targeting US technology companies. The US Trade Representative launched a review of EU digital trade barriers under Section 301 of the Trade Act of 1974.",
+      "shopify_angle": "The suspension of the TTC removes the main institutional forum for EU-US coordination on AI governance, digital standards, and trade facilitation. For Shopify, the divergence in digital regulation between the EU and US creates a more complex dual-compliance environment and reduces the likelihood of a transatlantic alignment on AI or platform rules.",
+      "tags": ["trump", "ttc-suspended", "section-301", "digital-regulations"],
+      "sources": []
+    },
+    {
+      "date": "2024-04-05",
+      "title": "TTC fourth ministerial meeting in Leuven — final meeting before US election",
+      "what_happened": "The fourth Trade and Technology Council ministerial meeting took place in Leuven, Belgium. Outcomes: joint statement on AI governance principles, progress on semiconductor supply chain coordination, and agreement on mutual recognition of digital identity frameworks. The Leuven meeting was expected to be the last TTC meeting before the November 2024 US presidential election, given the likelihood of a change in administration.",
+      "shopify_angle": "The TTC's AI governance work — aligning EU and US approaches to AI risk classification and standards — creates a more stable regulatory environment for Shopify's AI feature development. A transatlantic alignment on AI standards reduces the compliance divergence risk that would otherwise require separate product variants for EU and US markets.",
+      "tags": ["ttc", "ministerial", "leuven", "ai-governance", "digital-identity"],
+      "sources": []
+    },
+    {
+      "date": "2023-05-31",
+      "title": "TTC third ministerial in Lulea — semiconductor supply chain and AI standards",
+      "what_happened": "The third TTC ministerial meeting in Lulea, Sweden focused on: semiconductor supply chain resilience (US CHIPS Act and EU Chips Act coordination), AI standards alignment (NIST AI Risk Management Framework and EU AI Act interoperability), and digital connectivity for Ukraine. The meeting produced a joint AI governance roadmap and agreement on common terminology for AI risk.",
+      "shopify_angle": "The EU-US AI standards alignment work directly affects Shopify's AI product development. If the NIST AI RMF and EU AI Act use compatible risk classifications, Shopify can build AI features once against a common framework rather than maintaining separate compliance stacks for US and EU deployments.",
+      "tags": ["ttc", "ai-standards", "nist", "chips-act", "semiconductor"],
+      "sources": []
+    },
+    {
+      "date": "2022-05-25",
+      "title": "TTC second ministerial in Paris — data flows and technology standards in focus",
+      "what_happened": "The second TTC meeting in Paris agreed a joint roadmap on transatlantic data flows, following the Schrems II ruling that had invalidated Privacy Shield. The Commission and US government announced progress toward a new data transfer framework. The meeting also produced joint principles on digital infrastructure security and 5G supply chain integrity.",
+      "shopify_angle": "The TTC's data flows work directly underpinned the EU-US Data Privacy Framework adopted in July 2023. Shopify relies on DPF as its primary mechanism for US-EU data transfers — the political work at TTC level was a prerequisite for that legal framework.",
+      "tags": ["ttc", "data-flows", "privacy-shield", "dpf", "digital-infrastructure"],
+      "sources": []
+    },
+    {
+      "date": "2021-09-29",
+      "title": "TTC inaugural meeting in Pittsburgh — trade and technology coordination launched",
+      "what_happened": "The inaugural Trade and Technology Council ministerial meeting took place in Pittsburgh, Pennsylvania. The TTC established ten working groups covering: AI and emerging technology, semiconductor supply chains, data governance, digital standards, export controls, investment screening, and SME access to digital tools. The Pittsburgh meeting was framed as a reset of transatlantic tech relations after the TTIP failure.",
+      "shopify_angle": "The TTC's working group on SME access to digital tools is directly relevant to Shopify's merchant base — it addresses market access barriers and regulatory divergence that affect small businesses trading across the Atlantic. The TTC created a venue where Shopify's advocacy on digital trade facilitation could engage at the highest level.",
+      "tags": ["ttc", "pittsburgh", "working-groups", "sme", "inaugural"],
+      "sources": []
+    },
+    {
+      "date": "2021-06-15",
+      "title": "Biden–von der Leyen summit announces TTC — new era in transatlantic digital relations",
+      "what_happened": "President Biden and European Commission President von der Leyen announced the establishment of the EU-US Trade and Technology Council at the Brussels Summit, framing it as a mechanism for coordinating on technology standards, digital trade, and supply chain resilience. The TTC was positioned as a response to shared concerns about China's technological assertiveness and as a vehicle for rebuilding transatlantic trust after the Trump years.",
+      "shopify_angle": "The TTC's establishment signalled a US willingness to engage constructively on EU digital regulations — including GDPR, DSA, and the then-nascent AI Act — rather than treating them purely as trade barriers. For Shopify, operating under both Canadian and EU frameworks, a functional EU-US digital trade dialogue reduces the risk of transatlantic regulatory fragmentation.",
+      "tags": ["ttc", "announcement", "biden", "von-der-leyen", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2019-10-02",
+      "title": "WTO Airbus ruling allows US to impose tariffs on EU goods — $7.5bn authorised",
+      "what_happened": "The WTO authorised the US to impose retaliatory tariffs of up to $7.5 billion on EU goods following the Airbus subsidies dispute. The US imposed 25% tariffs on aircraft and a range of EU agricultural and industrial goods (French wine, Scottish whisky, German machine tools). This was the largest WTO retaliatory package in history and ratcheted up transatlantic trade tensions significantly.",
+      "shopify_angle": "US tariffs on EU goods — even when focused on industrial sectors — affect the broader transatlantic trade environment that Shopify merchants operate in. The escalation pattern (US tariffs → EU countermeasures → US escalation) is the same playbook that later shaped digital services tax disputes. The Airbus case established the US willingness to use WTO-authorised tariffs aggressively as a trade lever against EU partners.",
+      "tags": ["wto", "tariffs", "airbus", "retaliation", "trade-escalation"],
+      "sources": []
+    },
+    {
+      "date": "2018-06-22",
+      "title": "EU retaliates against US Section 232 steel and aluminium tariffs",
+      "what_happened": "The EU imposed retaliatory tariffs on €2.8 billion of US goods in response to the US Section 232 tariffs on EU steel and aluminium. The EU targeted US products including Harley Davidson motorcycles, bourbon whiskey, and orange juice — chosen for maximum political impact on US congressional districts. The confrontation was the first major transatlantic trade dispute in the modern digital era and established the template for future retaliatory tariff exchanges.",
+      "shopify_angle": "While focused on industrial goods, the 2018 tariff confrontation established the template for EU-US trade escalation — including in digital services. The same mechanism (US unilateral action → EU retaliation → US threats of counter-escalation) has shaped the later dispute over digital services taxes and, from 2025, digital regulation. Understanding the precedent matters for how Shopify assesses EU-US trade risk.",
+      "tags": ["section-232", "tariffs", "steel", "aluminium", "retaliation"],
+      "sources": []
+    }
+  ]
+}

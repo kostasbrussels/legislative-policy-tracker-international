@@ -1,0 +1,86 @@
+{
+  "id": "oecd-pillar-2",
+  "title": "OECD Pillar Two — Global Minimum Tax",
+  "entries": [
+    {
+      "date": "2026-03-01",
+      "title": "OECD publishes further Administrative Guidance — UTPR and US entities",
+      "what_happened": "The OECD/G20 Inclusive Framework published its fifth set of Administrative Guidance on Pillar Two, addressing the interaction between the Undertaxed Profits Rule (UTPR) and US entities whose parent companies have not implemented Pillar Two. The guidance attempts to clarify how UTPR applies when the US imposes its existing GILTI regime rather than a Pillar Two-compliant minimum tax. US Congress has not implemented Pillar Two and has threatened retaliatory measures against countries applying UTPR to US MNEs.",
+      "shopify_angle": "Shopify Inc. is a Canadian MNE with substantial operations in the US and EU. Shopify's effective tax rate and transfer pricing arrangements must be assessed against the 15% global minimum threshold. Shopify's EU-operating entities could be subject to QDMTT in EU member states if Shopify's effective rate in any jurisdiction falls below 15%.",
+      "tags": ["utpr", "administrative-guidance", "oecd", "us-tension"],
+      "sources": []
+    },
+    {
+      "date": "2025-01-01",
+      "title": "Undertaxed Profits Rule (UTPR) applies in EU — backstop mechanism operational",
+      "what_happened": "The UTPR (Undertaxed Profits Rule) — the backstop mechanism that allows countries to collect top-up tax from subsidiaries of low-taxed MNEs when the parent company's home country has not collected the minimum tax — became applicable in the EU from 1 January 2025. The UTPR is particularly relevant where a parent company is headquartered in a country (notably the US) that has not implemented Pillar Two.",
+      "shopify_angle": "The UTPR's interaction with US MNEs is the most politically contentious aspect of Pillar Two. As a Canadian company, Shopify's UTPR exposure is determined by Canada's implementation of Pillar Two (enacted 2023). Shopify's EU subsidiaries could face QDMTT in any EU member state where the group's effective tax rate falls below 15% on profits attributable to that jurisdiction.",
+      "tags": ["utpr", "in-force", "eu", "backstop"],
+      "sources": []
+    },
+    {
+      "date": "2024-01-01",
+      "title": "Qualified Domestic Minimum Top-up Tax operational in major EU jurisdictions",
+      "what_happened": "Major EU member states implementing Qualified Domestic Minimum Top-up Tax (QDMTT) — the domestic variant of Pillar Two — went live from 1 January 2024. Germany, France, Netherlands, Ireland, and others enacted domestic legislation. QDMTT allows member states to collect any top-up tax on their resident entities before other countries can do so under the income inclusion or UTPR rules.",
+      "shopify_angle": "Ireland — Shopify's EU tax home — enacted QDMTT from 1 January 2024 at 15%, replacing the previous 12.5% headline rate for large MNEs. For groups above the €750m revenue threshold, the effective minimum rate in Ireland is now 15%, not 12.5%. Shopify's Ireland entity needs to assess its effective rate on Irish profits under the GloBE rules.",
+      "tags": ["qdmtt", "ireland", "in-force", "compliance"],
+      "sources": []
+    },
+    {
+      "date": "2023-12-31",
+      "title": "EU Minimum Tax Directive transposed by member states — deadline",
+      "what_happened": "EU member states were required to transpose Council Directive 2022/2523 (the EU Minimum Tax Directive implementing Pillar Two) into national law by 31 December 2023. The Directive requires application of a Qualified Income Inclusion Rule (QIIR) and QDMTT from 1 January 2024, and UTPR from 1 January 2025. All 27 member states met the transposition deadline.",
+      "shopify_angle": "Full EU-wide transposition means there are no safe harbours within the EU for groups below 15% effective tax rate. Shopify's legal and tax teams need to maintain GloBE information returns for each EU jurisdiction where Shopify has constituent entities.",
+      "tags": ["transposition", "eu-directive", "member-states", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2022-12-15",
+      "title": "EU Minimum Tax Directive adopted — fastest EU legislative process in digital tax history",
+      "what_happened": "The Council of the EU adopted Directive 2022/2523 on ensuring a global minimum level of taxation for MNE groups and large-scale domestic groups. The Directive implements the OECD Pillar Two model rules at EU level with legally binding effect. Agreed unanimously despite initial blocking by Hungary, which ultimately voted in favour after securing implementation flexibility.",
+      "shopify_angle": "The EU Minimum Tax Directive applies to MNE groups with annual revenue of €750 million or more in at least two of the preceding four years. Shopify's revenue growth trajectory means this threshold is relevant for current planning purposes. Groups above the threshold face GloBE information return filing obligations across all EU jurisdictions where they have constituent entities.",
+      "tags": ["eu-directive", "adoption", "milestone", "unanimous"],
+      "sources": []
+    },
+    {
+      "date": "2022-11-20",
+      "title": "OECD publishes Pillar Two Administrative Guidance — safe harbour provisions",
+      "what_happened": "The OECD Inclusive Framework published the first Administrative Guidance on Pillar Two, including the Transitional CbCR Safe Harbour — which provides simplified compliance for entities meeting Country-by-Country Reporting thresholds. The safe harbour significantly reduces compliance burden for the first years of Pillar Two implementation.",
+      "shopify_angle": "The Transitional CbCR Safe Harbour is significant for Shopify's compliance approach. If Shopify's CbCR data shows effective tax rates above 15% in each jurisdiction (using simplified CbCR data rather than full GloBE computations), it can use the safe harbour to avoid detailed GloBE calculations for those jurisdictions.",
+      "tags": ["administrative-guidance", "safe-harbour", "cbcr", "oecd"],
+      "sources": []
+    },
+    {
+      "date": "2021-12-20",
+      "title": "OECD Pillar Two Model Rules published — the GloBE rules in full",
+      "what_happened": "The OECD published the detailed Model Rules for Pillar Two (the Global Anti-Base Erosion rules — GloBE). The Model Rules set out the mechanics of the 15% minimum effective tax rate: the Income Inclusion Rule (IIR), the Undertaxed Profits Rule (UTPR), the Qualified Domestic Minimum Top-up Tax (QDMTT), and the covered tax calculation methodology. Countries will transpose these rules into domestic law.",
+      "shopify_angle": "The GloBE rules' definition of 'covered taxes' and the Effective Tax Rate calculation methodology will determine Shopify's minimum tax exposure jurisdiction by jurisdiction. The rules' treatment of deferred tax assets, R&D credits, and stock-based compensation are particularly relevant for Shopify's tax planning.",
+      "tags": ["model-rules", "globe", "oecd", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2021-10-08",
+      "title": "OECD/G20 Inclusive Framework agrees Two-Pillar Solution — 137 countries sign",
+      "what_happened": "137 countries of the OECD/G20 Inclusive Framework agreed to the Two-Pillar Solution to address tax challenges arising from the digitalisation of the economy. Pillar Two: 15% global minimum effective corporate tax rate for MNEs with annual revenue exceeding €750 million. Pillar One: reallocation of taxing rights for the largest and most profitable MNEs to market jurisdictions (later suspended). The agreement replaced the unilateral digital services tax measures that had caused bilateral trade disputes.",
+      "shopify_angle": "The Two-Pillar agreement was intended to stabilise the international tax framework and prevent digital services taxes (DSTs) — the unilateral levies on digital revenue that affect tech companies disproportionately — from proliferating. For Shopify, the 15% minimum rate is the primary compliance consideration; Pillar One's suspension means the DST replacement mechanism remains incomplete.",
+      "tags": ["oecd", "g20", "agreement", "milestone", "two-pillar"],
+      "sources": []
+    },
+    {
+      "date": "2025-04-01",
+      "title": "US signals non-cooperation with Pillar Two — retaliatory DST threat",
+      "what_happened": "The US Treasury Department signalled that the Trump administration will not implement Pillar Two legislation in the US and threatened retaliatory measures — including tariffs and regulatory pressure — against countries that apply the UTPR to US MNEs. EU member states face legal and political pressure as they begin applying UTPR to US subsidiaries whose parent groups are subject to GILTI (not a Pillar Two-compliant regime) rather than the GloBE rules.",
+      "shopify_angle": "US non-implementation creates asymmetric application of Pillar Two in which EU member states apply UTPR to US MNEs' EU subsidiaries, while the US does not apply reciprocal top-up tax on EU MNEs' US operations. As a Canadian company, Shopify is insulated from direct US UTPR retaliation, but the broader international tax instability is relevant for Shopify's US operations.",
+      "tags": ["us", "utpr", "retaliation", "gilti", "non-implementation"],
+      "sources": []
+    },
+    {
+      "date": "2019-01-29",
+      "title": "EU digital services tax proposal stalls — but national DSTs proliferate",
+      "what_happened": "The EU's proposed 3% digital services tax (DST) on digital revenue failed to reach unanimous Council agreement, blocked primarily by Ireland, Sweden, Denmark, and Finland. Despite the failed EU proposal, France, Italy, Spain, Austria, and the UK proceeded with national DSTs. The proliferation of national DSTs — and associated US retaliatory tariff threats — was the primary political driver for the OECD/G20 Two-Pillar process.",
+      "shopify_angle": "National DSTs target companies with global digital revenues above €750m (France: 25m French revenue threshold). Shopify's revenue scale and growth trajectory means DST thresholds are relevant for medium-term planning. The OECD Pillar One agreement was intended to supersede DSTs, but its suspension means some national DSTs remain in force.",
+      "tags": ["dst", "national-tax", "eu-dst-failure", "france", "italy"],
+      "sources": []
+    }
+  ]
+}

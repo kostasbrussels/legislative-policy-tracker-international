@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy Thread Tracker — Shopify Government Affairs</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="brand-logo">⚖</span>
+        <div>
+          <h1>Policy Thread Tracker</h1>
+          <p>Shopify Government Affairs — EU &amp; International</p>
+        </div>
+      </div>
+      <div class="header-search">
+        <input type="text" id="search-input" placeholder="Search threads, entries, Shopify angles…" autocomplete="off" spellcheck="false">
+      </div>
+    </div>
+  </header>
+
+  <div class="filter-bar">
+    <div class="filter-inner">
+      <span class="filter-label">Filter:</span>
+      <div class="filter-pills" id="category-filters">
+        <button class="pill active" data-category="">All</button>
+        <button class="pill" data-category="AI">AI</button>
+        <button class="pill" data-category="Platform regulation">Platform</button>
+        <button class="pill" data-category="Trade">Trade</button>
+        <button class="pill" data-category="Privacy">Privacy</button>
+        <button class="pill" data-category="Competition">Competition</button>
+        <button class="pill" data-category="Tax">Tax</button>
+        <button class="pill" data-category="Payments">Payments</button>
+        <button class="pill" data-category="Consumer protection">Consumer</button>
+      </div>
+    </div>
+  </div>
+
+  <main id="app">
+    <div class="loading">Loading threads…</div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

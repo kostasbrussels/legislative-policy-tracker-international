@@ -1,0 +1,70 @@
+{
+  "id": "uk-dmcc-act",
+  "title": "UK Digital Markets, Competition and Consumers Act",
+  "entries": [
+    {
+      "date": "2026-01-15",
+      "title": "CMA begins SMS designation process — Alphabet, Apple, Meta under review",
+      "what_happened": "The CMA formally opened Strategic Market Status (SMS) designation investigations for Alphabet (Google Search, Chrome, Android), Apple (iOS, App Store, Safari), and Meta (Facebook, Instagram, WhatsApp) following the commencement of the DMCC Act's digital markets provisions. SMS designation carries mandatory conduct requirements and exposure to pro-competition interventions. The CMA has nine months to complete each designation investigation, putting initial SMS decisions expected Q4 2026.",
+      "shopify_angle": "SMS designation for Alphabet, Apple, and Meta — Shopify's primary digital distribution platforms — will impose conduct requirements similar to the EU's DMA obligations. If the CMA imposes conduct requirements restricting App Store fees, self-preferencing, or data combination, it would benefit Shopify's UK merchant ecosystem similarly to DMA outcomes. The CMA's specific remedies may diverge from EU rules, creating a UK-specific compliance environment.",
+      "tags": ["sms", "designation", "cma", "alphabet", "apple", "meta", "investigation"],
+      "sources": []
+    },
+    {
+      "date": "2025-12-01",
+      "title": "DMCC consumer provisions enforceable — CMA direct enforcement powers active",
+      "what_happened": "The consumer provisions of the DMCC Act came into full force, giving the CMA direct enforcement powers without requiring court approval. Key new consumer obligations: prohibition on fake or misleading reviews; mandatory pre-contract disclosure for subscription services including auto-renewal terms and cancellation rights; prohibition on drip pricing (adding mandatory fees late in a checkout flow); and the CMA's power to impose fines up to 10% of global turnover for non-compliance.",
+      "shopify_angle": "The DMCC's consumer provisions directly affect Shopify merchants selling to UK consumers. Fake review prohibitions affect review app integrations. The subscription disclosure requirements apply to Shopify merchants offering recurring billing. The drip pricing prohibition affects any UK checkout flow that adds mandatory charges after the initial price display. Shopify's default checkout and App Store guidelines need to reflect DMCC requirements for UK merchants.",
+      "tags": ["consumer-provisions", "in-force", "drip-pricing", "subscriptions", "cma-enforcement"],
+      "sources": []
+    },
+    {
+      "date": "2025-01-01",
+      "title": "DMCC Act digital markets provisions come into force",
+      "what_happened": "The digital markets provisions of the Digital Markets, Competition and Consumers Act entered into force on 1 January 2025, enabling the CMA to begin SMS designation investigations. The provisions establish: the SMS designation process; the conduct requirements framework; pro-competition intervention (PCI) powers; and mandatory transparency obligations for SMS firms on third-party access and data portability. The CMA published its guidance on the designation criteria and investigation process.",
+      "shopify_angle": "The commencement of the DMCC's digital markets provisions marks the UK's equivalent of the EU DMA becoming operational. For Shopify, the most significant potential outcomes are conduct requirements on Apple App Store fees and Google Search self-preferencing — both of which affect the cost and visibility environment for Shopify's merchant tools and storefronts in the UK market.",
+      "tags": ["digital-markets", "in-force", "sms", "conduct-requirements", "pci", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2024-05-24",
+      "title": "Digital Markets, Competition and Consumers Act receives Royal Assent",
+      "what_happened": "The UK DMCC Act received Royal Assent on 24 May 2024, creating the UK's most significant competition and consumer law reform in decades. The Act: establishes a strategic market status (SMS) regime for digital markets (UK equivalent of DMA); gives the CMA new pro-competition intervention powers; creates new consumer rights for subscriptions, fake reviews, and drip pricing; and significantly increases the CMA's enforcement powers (direct fines without court approval, up to 10% of global turnover). Implementation in phases from 2025.",
+      "shopify_angle": "The DMCC Act is the most consequential piece of UK regulation for Shopify in the 2020s. The SMS regime will regulate how Apple App Store, Google Play, and potentially Amazon operate in the UK — directly affecting Shopify's distribution costs and merchant reach. The consumer provisions create new UK-specific compliance obligations for Shopify merchants' checkout flows, subscription offerings, and review practices.",
+      "tags": ["royal-assent", "milestone", "sms", "consumer-rights", "cma"],
+      "sources": []
+    },
+    {
+      "date": "2024-01-19",
+      "title": "DMCC Bill completes Lords passage — digital markets chapter strengthened",
+      "what_happened": "The DMCC Bill completed its passage through the House of Lords, with amendments strengthening the digital markets chapter. Lords amendments clarified the SMS conduct requirements framework, strengthened the CMA's pro-competition intervention powers, and added provisions requiring SMS firms to maintain records of third-party access requests and decisions. The Bill returned to the Commons for final approval before Royal Assent.",
+      "shopify_angle": "The Lords' strengthening of SMS conduct requirements — including requirements on third-party access — is positive for Shopify's App Store ecosystem. If Apple and Google are required to provide detailed records of third-party access decisions, it creates an audit trail for challenging discriminatory treatment of Shopify's apps.",
+      "tags": ["lords", "dmcc", "amendments", "sms", "third-party-access"],
+      "sources": []
+    },
+    {
+      "date": "2023-04-25",
+      "title": "DMCC Bill introduced — UK's answer to DMA and consumer law reform",
+      "what_happened": "The UK government introduced the Digital Markets, Competition and Consumers Bill, described as the UK's most significant competition and consumer legislation since the Competition Act 1998. The Bill introduced: the SMS regime for digital gatekeepers (CMA-led, UK-specific); pro-competition interventions for digital markets; consumer protection reforms covering fake reviews, subscription traps, and drip pricing; and a significant expansion of the CMA's enforcement powers to impose fines without court proceedings.",
+      "shopify_angle": "The DMCC Bill's introduction marked the start of a UK-specific digital competition and consumer framework — distinct from the EU DMA and EU consumer law. For Shopify, operating in both UK and EU markets, this creates a second set of platform obligations to monitor. The consumer provisions — particularly on subscriptions and drip pricing — apply to all merchants selling to UK consumers, regardless of where the merchant is based.",
+      "tags": ["introduction", "dmcc", "sms", "consumer-law", "drip-pricing", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2022-07-20",
+      "title": "CMA publishes final report on mobile ecosystems — pre-DMCC foundation",
+      "what_happened": "The CMA published its final market study report on mobile ecosystems, finding that Apple and Google have a duopoly in mobile operating systems and that their control of app distribution, browser engines, and in-app payment systems harms competition and consumer choice. The report made recommendations including: mandatory third-party app stores, browser engine choice, and payment system interoperability. The findings directly informed the DMCC Bill's SMS regime design.",
+      "shopify_angle": "The CMA's mobile ecosystems report explicitly identified app store fees and restrictions as harmful to business users — including commerce app developers like Shopify. The report's findings on Apple's in-app purchase restrictions and Google Play's fee structure informed the conduct requirements now codified in the DMCC Act.",
+      "tags": ["cma", "mobile-ecosystems", "market-study", "apple", "google", "app-store"],
+      "sources": []
+    },
+    {
+      "date": "2021-11-30",
+      "title": "CMA launches digital markets investigation — pre-DMCC competition powers used",
+      "what_happened": "The CMA launched a formal investigation into Google's Privacy Sandbox (replacing third-party cookies in Chrome) under its existing competition powers. The investigation — which concluded with legally binding commitments from Google in 2022 — demonstrated the CMA's appetite to use existing competition law against digital platforms ahead of the new DMCC powers. The Privacy Sandbox commitments require Google to consult the CMA before making Chrome changes that affect the advertising ecosystem.",
+      "shopify_angle": "The CMA's Privacy Sandbox commitments from Google affect how online advertising infrastructure evolves in the UK — directly relevant to Shopify merchants' digital marketing. Google's commitment not to remove third-party cookies without CMA approval provides Shopify merchants' ad tools a degree of stability pending the broader move to privacy-preserving alternatives.",
+      "tags": ["cma", "google", "privacy-sandbox", "cookies", "competition"],
+      "sources": []
+    }
+  ]
+}

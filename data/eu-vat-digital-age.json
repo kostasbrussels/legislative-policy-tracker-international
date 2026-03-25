@@ -1,0 +1,86 @@
+{
+  "id": "eu-vat-digital-age",
+  "title": "EU VAT in the Digital Age (ViDA)",
+  "entries": [
+    {
+      "date": "2026-03-01",
+      "title": "Commission publishes implementing act guidance on ViDA platform deemed supplier rules",
+      "what_happened": "The European Commission published technical guidance on how the platform deemed supplier rules (Pillar 2 of ViDA) will apply to accommodation and passenger transport platforms from July 2028. The guidance clarifies when a platform is the deemed supplier, how VAT liability is calculated and remitted, and what records platforms must retain.",
+      "shopify_angle": "The deemed supplier rules in their current form do not cover general e-commerce marketplaces — they are limited to accommodation (Airbnb-type) and passenger transport (Uber-type) services. Shopify's marketplace is not in scope for this pillar. However, any future extension of deemed supplier rules to general e-commerce (floated in ViDA discussions) would fundamentally shift VAT liability for Shopify's merchant sales.",
+      "tags": ["deemed-supplier", "platforms", "guidance", "implementing-act"],
+      "sources": []
+    },
+    {
+      "date": "2024-11-05",
+      "title": "Council adopts ViDA regulation — three-pillar digital VAT reform agreed",
+      "what_happened": "The Council of the EU formally adopted the VAT in the Digital Age (ViDA) regulation after prolonged negotiations. The final text covers three pillars: (1) digital VAT reporting and mandatory e-invoicing from 1 January 2030 (with member state transition from national e-invoicing systems); (2) platform economy deemed supplier rules for short-term accommodation and passenger transport from 1 July 2028; (3) single VAT registration expansion (OSS for domestic B2C and reverse charge for B2B) from 1 July 2027.",
+      "shopify_angle": "The OSS expansion (Pillar 3) is significant for Shopify merchants selling cross-border within the EU — it extends the single registration principle to more transaction types, reducing the need for multiple national VAT registrations. The e-invoicing mandate (Pillar 1) will require Shopify's invoicing infrastructure to produce structured digital invoices compliant with EU standards by 2030.",
+      "tags": ["council-adoption", "milestone", "oss", "e-invoicing", "deemed-supplier"],
+      "sources": []
+    },
+    {
+      "date": "2024-03-14",
+      "title": "Council agrees general approach on ViDA — deemed supplier scope narrowed",
+      "what_happened": "The Council of the EU agreed its general approach on ViDA, narrowing the platform deemed supplier rules compared to the Commission proposal. The Council limited Pillar 2 (deemed supplier) to accommodation and passenger transport services only, explicitly excluding general e-commerce marketplaces. This was a significant concession to member states concerned about supply chain disruption for goods marketplaces.",
+      "shopify_angle": "The Council's explicit exclusion of general e-commerce from deemed supplier rules is directly protective of Shopify's current marketplace model. Under the original Commission proposal, Shopify could potentially have been deemed the VAT supplier for merchant sales — creating a fundamental shift in liability. The narrowed scope preserves the current model where merchants remain the VAT-liable supplier.",
+      "tags": ["council", "general-approach", "deemed-supplier", "e-commerce-exclusion"],
+      "sources": []
+    },
+    {
+      "date": "2023-11-16",
+      "title": "European Parliament adopts position on ViDA — e-invoicing timelines adjusted",
+      "what_happened": "The European Parliament adopted its position on ViDA, adjusting the mandatory e-invoicing timeline from the Commission's 2024 proposal to a phased implementation starting 2028. Parliament also proposed extending the deemed supplier rules to goods sold through e-commerce marketplaces by 2025, which was rejected by industry and ultimately not retained in the Council general approach.",
+      "shopify_angle": "Parliament's proposal to extend deemed supplier rules to goods marketplaces (rejected in Council) was the most significant risk in the ViDA negotiations for Shopify. Had it been adopted, it would have made Shopify the VAT-liable supplier for all B2C sales through its platform — a fundamental business model change.",
+      "tags": ["parliament", "position", "e-invoicing", "deemed-supplier"],
+      "sources": []
+    },
+    {
+      "date": "2023-02-16",
+      "title": "Commission consults on One Stop Shop extension — Pillar 3 detail",
+      "what_happened": "The Commission opened a consultation on technical details of the One Stop Shop expansion under ViDA Pillar 3. The consultation covered: extension of OSS to domestic B2C supplies; single VAT registration for import VAT; and the 'deemed supplier' concept for platforms facilitating intra-EU goods supplies by non-EU sellers.",
+      "shopify_angle": "The OSS extension is operationally significant for Shopify: merchants using Shopify's platform for EU-wide sales could potentially handle all EU VAT compliance through a single member state registration. Shopify's tax calculation and reporting tools need to support OSS-compliant reporting once the 2027 changes apply.",
+      "tags": ["oss", "consultation", "pillar-3", "single-registration"],
+      "sources": []
+    },
+    {
+      "date": "2022-12-08",
+      "title": "Commission publishes ViDA proposal — three-pillar digital VAT reform",
+      "what_happened": "The European Commission published the VAT in the Digital Age proposal (COM/2022/701). The proposal covered: mandatory e-invoicing and digital VAT reporting; platform economy VAT treatment (deemed supplier for accommodation and transport, and proposed extension to goods); and OSS expansion for single VAT registration. Proposed to apply progressively from 2024 to 2028.",
+      "shopify_angle": "The ViDA proposal has direct implications for Shopify as both a platform (potential deemed supplier rules) and an infrastructure provider (e-invoicing mandate affects Shopify's invoicing product). The goods marketplace deemed supplier proposal was the most commercially significant element — Shopify would become the VAT collector and remitter for merchant sales, fundamentally changing the commercial and compliance model.",
+      "tags": ["proposal", "commission", "milestone", "e-invoicing", "deemed-supplier"],
+      "sources": []
+    },
+    {
+      "date": "2021-07-01",
+      "title": "EU VAT e-commerce package applies — IOSS and OSS launched",
+      "what_happened": "The EU VAT e-commerce package entered into force. Key measures: Import One Stop Shop (IOSS) for non-EU sellers of low-value goods (under €150) to EU consumers; OSS expanded for intra-EU B2C distance sales; removal of €22 VAT exemption for low-value imports; marketplace facilitation rules making platforms responsible for VAT on third-party B2C sales from non-EU sellers.",
+      "shopify_angle": "The marketplace facilitation rules — making Shopify responsible for VAT on sales by non-EU merchants to EU consumers for goods under €150 — are the most operationally significant EU tax change for Shopify's platform. Shopify had to build infrastructure to calculate, collect, and remit VAT for qualifying transactions, and register for IOSS.",
+      "tags": ["ioss", "oss", "marketplace-facilitation", "in-force", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2020-12-18",
+      "title": "Council adopts e-commerce VAT package — delayed to 2021 due to COVID",
+      "what_happened": "The Council of the EU adopted the e-commerce VAT package (Council Directives 2017/2455 and 2019/1995), originally due to apply in January 2021 but delayed to July 2021 due to COVID-19 IT system preparation issues. The package abolished the €22 VAT exemption for low-value imports, introduced IOSS, and created marketplace facilitation liability for platforms.",
+      "shopify_angle": "The COVID delay gave Shopify additional time to build the technical infrastructure for IOSS compliance and marketplace VAT collection. The facilitation liability model — making Shopify the deemed supplier for certain transactions — established a precedent that ViDA would later seek to extend.",
+      "tags": ["council-adoption", "covid-delay", "ioss", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Member states begin national e-invoicing mandates under ViDA transition",
+      "what_happened": "Several EU member states (Germany, France, Belgium, Romania) began rollout of national mandatory e-invoicing systems as part of the ViDA transition, ahead of the 2030 EU-wide mandate. National systems vary in technical standards, with Germany adopting EN16931 (European standard) and Italy's SDI system already operational since 2019. Commission working on interoperability framework.",
+      "shopify_angle": "Shopify merchants operating in Germany, France, Belgium and other early adopter markets face national e-invoicing obligations ahead of the 2030 EU-wide standard. Shopify's invoicing infrastructure needs to support B2B invoices in national formats — a fragmented compliance challenge until EU-wide standards are finalised.",
+      "tags": ["e-invoicing", "national-mandate", "germany", "france", "transition"],
+      "sources": []
+    },
+    {
+      "date": "2027-07-01",
+      "title": "ViDA Pillar 3 applies — Single VAT Registration expanded",
+      "what_happened": "ViDA Pillar 3 (Single VAT Registration) is scheduled to apply from 1 July 2027. The expansion covers: OSS for all B2C domestic supplies by non-established businesses; reverse charge for B2B intra-EU supplies by non-established businesses; and extension of the import scheme. Businesses that currently need multiple EU VAT registrations for domestic sales in multiple member states can consolidate through a single OSS registration.",
+      "shopify_angle": "The OSS expansion will materially simplify VAT compliance for Shopify merchants selling across multiple EU markets. Rather than maintaining 27 national VAT registrations for domestic B2C sales, merchants can use a single OSS registration. Shopify's tax products need to support the expanded OSS reporting format from July 2027.",
+      "tags": ["oss", "single-registration", "pillar-3", "milestone"],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "eu-canada-dta",
+  "title": "EU–Canada Digital Trade Agreement",
+  "entries": [
+    {
+      "date": "2026-03-05",
+      "title": "DTA negotiations officially launched at CETA Ministerial in Ottawa",
+      "what_happened": "The EU and Canada formally launched negotiations for a standalone EU-Canada Digital Trade Agreement at the CETA Ministerial meeting in Ottawa on 5 March 2026. The launch mandate covers: cross-border data flows and data localisation prohibitions; e-commerce facilitation (customs duties moratorium on digital transmissions, electronic contracts); customs cooperation on small parcels; digital identity and trust services mutual recognition; and AI governance cooperation. Canada's CUSMA (USMCA) commitments provided the baseline for some provisions.",
+      "shopify_angle": "Shopify is a Canadian company with its EU operations headquartered in Ireland. A Canada-EU Digital Trade Agreement that prohibits data localisation requirements and ensures cross-border data flow certainty directly benefits Shopify's architecture — which processes merchant and consumer data across Canadian and Irish entities. The customs cooperation chapter on small parcels is directly relevant to Shopify merchants' cross-border EU sales.",
+      "tags": ["launch", "negotiation", "ottawa", "ceta-ministerial", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2026-02-10",
+      "title": "First technical negotiating round — scope and mandate confirmed",
+      "what_happened": "Canada's Global Affairs ministry and the European Commission's DG TRADE held the first technical round of discussions on the Digital Trade Agreement in February 2026, ahead of the formal political launch at the March CETA Ministerial. The technical round focused on aligning definitions, identifying areas of divergence between Canada's CUSMA digital chapter and EU digital regulation frameworks, and scoping the AI governance cooperation provisions.",
+      "shopify_angle": "The technical alignment work — particularly around AI governance cooperation — is significant for Shopify. If Canada and the EU agree on mutual recognition or interoperability of their AI regulatory frameworks (Canada's AIDA and the EU AI Act), it could reduce the dual-compliance burden for Shopify's AI feature development across its Canadian and EU entities.",
+      "tags": ["technical-round", "dg-trade", "cusma", "ai-governance", "scope"],
+      "sources": []
+    },
+    {
+      "date": "2025-09-15",
+      "title": "Canada and EU announce intent to negotiate standalone digital trade agreement",
+      "what_happened": "At a bilateral Canada-EU summit, Prime Minister Carney and Commission President von der Leyen announced that Canada and the EU would negotiate a dedicated Digital Trade Agreement — a first for the EU, which had previously included digital trade provisions within broader FTAs. The announcement noted that CETA's digital chapter, concluded in 2014, did not cover modern issues such as AI governance, cloud computing, or the e-commerce platform economy.",
+      "shopify_angle": "A Canada-EU Digital Trade Agreement with specific provisions on the platform economy is directly relevant to Shopify. The 2014 CETA digital chapter predates modern marketplace and platform business models. Updated provisions on e-commerce platform liability, cross-border dispute resolution for online transactions, and digital identity would all affect Shopify's operational framework across both jurisdictions.",
+      "tags": ["announcement", "canada-eu-summit", "ceta-modernisation", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2024-06-12",
+      "title": "CETA Joint Committee reviews digital services barriers — e-commerce facilitation discussion",
+      "what_happened": "The CETA Joint Committee — the bilateral body that oversees CETA's implementation — reviewed outstanding digital services trade barriers between Canada and the EU. The review identified: divergent data protection regimes as a barrier to digital services trade; EU member state varying implementation of e-commerce rules creating market access inconsistency; and the absence of CETA provisions on cross-border cloud services and AI.",
+      "shopify_angle": "The CETA Joint Committee review confirmed the practical gaps in the Canada-EU trade relationship for digital companies like Shopify. The identification of data protection regime divergence as a trade barrier is particularly relevant — Shopify's US-EU data transfers are already covered by the DPF, but Canada-EU transfers rely on Canada's adequacy decision, which faces its own renewal risk.",
+      "tags": ["ceta-joint-committee", "digital-services", "data-barriers", "review"],
+      "sources": []
+    },
+    {
+      "date": "2022-11-15",
+      "title": "WTO Joint Statement Initiative on e-commerce — Canada and EU co-sponsors",
+      "what_happened": "Canada and the EU are both active co-sponsors of the WTO Joint Statement Initiative (JSI) on e-commerce, which concluded negotiations on a plurilateral agreement covering customs duties on digital transmissions, electronic contracts, consumer protection, and transparency. The JSI text — not yet formally adopted — represents the highest common denominator for WTO-level digital trade rules and provided template language for later bilateral agreements.",
+      "shopify_angle": "The WTO JSI provisions on electronic contracts, spam, and consumer protection represent the baseline that the Canada-EU DTA would build on. Shopify's cross-border merchant sales benefit from harmonised rules on electronic contract formation and consumer rights — reducing the risk that different national laws invalidate Shopify's standard merchant and consumer terms.",
+      "tags": ["wto", "jsi", "e-commerce", "plurilateral", "digital-trade"],
+      "sources": []
+    },
+    {
+      "date": "2017-09-21",
+      "title": "CETA enters into provisional application — limited digital trade chapter",
+      "what_happened": "The Comprehensive Economic and Trade Agreement between the EU and Canada entered into provisional application on 21 September 2017. CETA's digital trade provisions are limited: a commitment not to impose customs duties on electronic transmissions, provisions on electronic signatures and contracts, and a non-binding cooperation framework on e-commerce. The agreement predates the modern platform economy and contains no provisions on data flows, data localisation, AI, or marketplace platforms.",
+      "shopify_angle": "CETA's minimal digital trade chapter means there is no strong bilateral framework governing Shopify's EU-Canada operations. In the absence of CETA protections, Shopify relies on domestic frameworks (GDPR, Canada's PIPEDA/Bill C-27, adequacy decisions) to govern cross-border data flows and e-commerce compliance. A modernised digital trade chapter would provide a stronger foundation.",
+      "tags": ["ceta", "provisional-application", "milestone", "digital-chapter"],
+      "sources": []
+    }
+  ]
+}

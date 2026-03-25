@@ -1,0 +1,150 @@
+{
+  "id": "eu-ai-act",
+  "title": "EU AI Act",
+  "entries": [
+    {
+      "date": "2026-03-20",
+      "title": "AI Office publishes guidance on GPAI model evaluation methodology",
+      "what_happened": "The EU AI Office released technical guidance on how it will evaluate general-purpose AI models for systemic risk classification. The methodology focuses on computational thresholds (training FLOP), downstream deployment reach, and integration into critical infrastructure. The threshold of 10^25 FLOPs remains the primary trigger for enhanced obligations.",
+      "shopify_angle": "Shopify's internal AI models are far below systemic risk thresholds. The guidance is relevant for Shopify's use of foundation models from OpenAI, Anthropic, and others — those providers will bear primary compliance obligations, but enterprise deployers should document their integration use cases.",
+      "tags": ["gpai", "enforcement", "ai-office", "systemic-risk"],
+      "sources": []
+    },
+    {
+      "date": "2025-11-12",
+      "title": "GPAI Code of Practice — second draft published for consultation",
+      "what_happened": "The AI Office published a second draft of the Code of Practice for general-purpose AI model providers. The draft clarifies transparency obligations, copyright policy disclosure requirements, and incident reporting processes. Over 1,000 organisations participated in the consultation process. The third and final draft is expected in early 2026.",
+      "shopify_angle": "Shopify's use of third-party GPAI models (Sidekick, AI features in admin) means that provider-level CoP compliance flows through to Shopify indirectly. Merchants deploying AI tools through Shopify's App Store may need to surface provider CoP adherence claims.",
+      "tags": ["gpai", "code-of-practice", "consultation", "transparency"],
+      "sources": []
+    },
+    {
+      "date": "2025-08-02",
+      "title": "GPAI obligations apply — first substantive AI Act requirements in force",
+      "what_happened": "Obligations for providers of general-purpose AI models became applicable on 2 August 2025. Providers of GPAI models must publish summaries of training data, implement copyright policies, and cooperate with the AI Office. Providers of GPAI models with systemic risk face additional obligations including adversarial testing and incident reporting.",
+      "shopify_angle": "Foundation model providers used by Shopify (OpenAI, Anthropic, Google) are in scope. Shopify should confirm its major GPAI providers have documented compliance and obtain assurances via contractual updates. Direct obligation on Shopify is limited but supply chain due diligence is expected.",
+      "tags": ["gpai", "in-force", "obligations", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2025-05-15",
+      "title": "AI Office launches first formal inquiry into a GPAI model provider",
+      "what_happened": "The EU AI Office opened its first formal inquiry under the AI Act, targeting a major GPAI model provider over potential non-disclosure of training data composition. This is a signal inquiry to test enforcement processes ahead of GPAI obligations entering force in August 2025.",
+      "shopify_angle": "Enforcement actions against foundation model providers can disrupt Shopify's AI product roadmap if providers need to modify or restrict model availability in the EU. Monitor which providers are under scrutiny.",
+      "tags": ["enforcement", "ai-office", "gpai", "inquiry"],
+      "sources": []
+    },
+    {
+      "date": "2025-02-02",
+      "title": "Prohibited AI practices apply — unacceptable risk category in force",
+      "what_happened": "The prohibited AI practices provisions of the AI Act became applicable on 2 February 2025, exactly six months after entry into force. Banned systems include: social scoring by public authorities, real-time biometric surveillance in public spaces (with narrow exceptions), AI manipulation exploiting vulnerabilities, and certain predictive policing systems.",
+      "shopify_angle": "Shopify does not deploy any systems in these categories. The prohibition on manipulative AI is the closest watch area — Shopify's personalisation and recommendation tools must not be characterised as exploiting consumer vulnerabilities. Current product design is compliant, but any future AI-driven dark patterns would be in scope.",
+      "tags": ["prohibited-practices", "in-force", "milestone", "compliance"],
+      "sources": []
+    },
+    {
+      "date": "2025-01-22",
+      "title": "AI Office operational — staffed and issuing first guidance",
+      "what_happened": "The European AI Office, housed within the European Commission's DG CONNECT, confirmed it is fully staffed and operational. The Office has begun issuing technical guidance notes on prohibited practices and has published its enforcement priorities for 2025: GPAI models with systemic risk, manipulation techniques, and remote biometric identification.",
+      "shopify_angle": "The AI Office is Shopify's primary regulatory contact for EU AI Act compliance matters. DG CONNECT oversight means the AI Office is distinct from existing DMA/DSA enforcement structures (DG GROW and DG CNECT respectively).",
+      "tags": ["ai-office", "enforcement", "governance"],
+      "sources": []
+    },
+    {
+      "date": "2024-09-10",
+      "title": "First GPAI Code of Practice drafting process launched",
+      "what_happened": "The AI Office formally launched the process to develop the GPAI Code of Practice, inviting model providers, deployers, civil society, and researchers to participate. The process is structured in four thematic working groups: transparency and copyright, safety and security, risk classification, and SME/open-source considerations.",
+      "shopify_angle": "Shopify should monitor the transparency and copyright working group — training data disclosure norms set here will affect all providers whose models Shopify deploys. The open-source working group is relevant for any Shopify-internal AI tooling built on open-source models.",
+      "tags": ["gpai", "code-of-practice", "consultation", "ai-office"],
+      "sources": []
+    },
+    {
+      "date": "2024-08-01",
+      "title": "EU AI Act enters into force",
+      "what_happened": "The EU Artificial Intelligence Act entered into force on 1 August 2024, exactly 20 days after publication in the Official Journal. The Act introduces a tiered risk-based framework: prohibited practices (applies Feb 2025), GPAI obligations (applies Aug 2025), and high-risk AI system requirements (applies Aug 2026). The AI Office within the Commission takes on GPAI model supervision.",
+      "shopify_angle": "Shopify's exposure is primarily as a deployer of AI systems (Sidekick, product descriptions, fraud detection) rather than a foundation model provider. High-risk provisions (Aug 2026) are the critical horizon: Shopify's AI features in merchant creditworthiness or fraud contexts may qualify as high-risk. Legal and product teams should begin classification exercises.",
+      "tags": ["entry-into-force", "milestone", "risk-framework"],
+      "sources": []
+    },
+    {
+      "date": "2024-07-12",
+      "title": "AI Act published in the Official Journal of the EU",
+      "what_happened": "Regulation (EU) 2024/1689 — the AI Act — was published in the Official Journal of the European Union. The final text establishes a risk-based framework with four categories: unacceptable risk (prohibited), high-risk, limited risk (transparency obligations), and minimal risk. The AI Office is established within the European Commission.",
+      "shopify_angle": "Publication starts the clock on all compliance timelines. Shopify's legal team should begin a formal AI system inventory and risk classification exercise.",
+      "tags": ["publication", "official-journal", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2024-05-21",
+      "title": "Council of the EU formally adopts the AI Act",
+      "what_happened": "The Council of the EU gave its final formal adoption to the AI Act by written procedure. No Council member opposed the text. This is the final legislative step before publication in the Official Journal and entry into force.",
+      "shopify_angle": "Legislative process complete. The Act is now law — transition from lobbying to compliance mode.",
+      "tags": ["council", "adoption", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2024-03-13",
+      "title": "European Parliament adopts AI Act by large majority",
+      "what_happened": "The European Parliament voted 523 in favour, 46 against, and 49 abstentions to adopt the EU AI Act. The vote follows the December 2023 trilogue agreement. MEPs secured provisions on biometric surveillance, emotion recognition in workplaces, and transparency requirements for generative AI. The text must still receive formal Council approval before publication.",
+      "shopify_angle": "Key Parliament wins for Shopify merchants: the workplace emotion recognition ban prevents AI-powered manipulation of worker behaviour; GPAI transparency requirements will increase provider accountability. No direct impact on Shopify's current AI product suite.",
+      "tags": ["parliament", "vote", "adoption", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2023-12-09",
+      "title": "Trilogue reaches political agreement on AI Act",
+      "what_happened": "European Parliament and Council negotiators reached a political agreement on the AI Act after marathon negotiations. Key compromises: foundation models (GPAI) have tiered obligations based on systemic risk (threshold: 10^25 FLOPs training compute); general-purpose AI models with systemic risk face stricter requirements; biometric surveillance exceptions narrowed; law enforcement AI use governed by high-risk provisions.",
+      "shopify_angle": "The GPAI framework directly affects Shopify's use of foundation models. The systemic risk threshold means Shopify is not a regulated GPAI provider, but the providers of models it uses (OpenAI, Anthropic, Google) will be. Downstream deployers (Shopify) have lighter obligations but must ensure provider compliance.",
+      "tags": ["trilogue", "agreement", "gpai", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2023-06-14",
+      "title": "European Parliament adopts its negotiating position on AI Act",
+      "what_happened": "The European Parliament plenary adopted its position on the AI Act with 499 votes in favour. The Parliament strengthened the original Commission proposal by: adding foundation/general-purpose AI models as a new category requiring horizontal obligations; banning real-time biometric surveillance categorically (vs Commission's narrow exceptions); expanding the high-risk list; and adding prohibitions on predictive policing.",
+      "shopify_angle": "The Parliament's addition of foundation model requirements into the text was the key development for Shopify — it means the models Shopify licenses and deploys will face transparency, safety-testing, and documentation obligations, increasing costs and potentially restricting model availability.",
+      "tags": ["parliament", "position", "gpai", "biometrics"],
+      "sources": []
+    },
+    {
+      "date": "2022-12-06",
+      "title": "Council of EU adopts general approach on AI Act",
+      "what_happened": "The Council of the EU adopted its general approach (negotiating position) on the AI Act. The Council's position introduced several modifications to the Commission proposal: clarified the scope of AI system definition, adjusted the high-risk list, and included provisions on national security exclusions. Council did not include foundation model provisions, setting up a key trilogue disagreement with Parliament.",
+      "shopify_angle": "Council's exclusion of foundation/GPAI model provisions reflected industry lobbying from European AI companies. The final text would ultimately include GPAI provisions, but lighter than the Parliament's version.",
+      "tags": ["council", "general-approach", "gpai"],
+      "sources": []
+    },
+    {
+      "date": "2022-04-01",
+      "title": "Council Presidency circulates revised AI Act text — high-risk classification revised",
+      "what_happened": "The French Presidency of the Council circulated a substantially revised draft of the AI Act, proposing changes to Annex III (high-risk AI systems list) and the conformity assessment requirements. The revision narrowed the high-risk list and introduced a self-assessment pathway for some high-risk categories.",
+      "shopify_angle": "The narrowing of Annex III (high-risk list) reduces the probability that Shopify's AI-assisted credit and fraud tools would be classified as high-risk, but this remained an open question throughout negotiations.",
+      "tags": ["council", "high-risk", "annex-iii"],
+      "sources": []
+    },
+    {
+      "date": "2021-09-22",
+      "title": "Commission publishes impact assessment and legal basis detail",
+      "what_happened": "The Commission published its extended impact assessment accompanying the AI Act proposal, estimating compliance costs for SMEs and large enterprises. The assessment estimated annual compliance costs for high-risk AI system providers of €6,000–€7,500 per system, and total EU-wide market development costs of up to €4 billion.",
+      "shopify_angle": "The impact assessment did not adequately reflect the costs for platform intermediaries that deploy AI across thousands of merchant use cases — a gap in the analysis that could result in disproportionate obligations for platforms compared to single-system deployers.",
+      "tags": ["impact-assessment", "costs", "sme"],
+      "sources": []
+    },
+    {
+      "date": "2021-04-21",
+      "title": "European Commission publishes AI Act proposal",
+      "what_happened": "The European Commission published its proposal for a Regulation on Artificial Intelligence (COM/2021/206). The proposal introduces a risk-based framework: prohibited AI practices (e.g., social scoring, subliminal manipulation), high-risk AI systems requiring conformity assessment, and transparency obligations for certain AI systems. Proposed fines up to €30 million or 6% of global turnover.",
+      "shopify_angle": "Initial read: Shopify's use of AI for product recommendations and search is likely minimal-risk. Fraud detection and creditworthiness tools may fall in high-risk Annex III. The proposal gives no clear treatment of AI deployed through a marketplace — a gap that could create uncertainty for Shopify's App Store AI ecosystem.",
+      "tags": ["proposal", "commission", "legislative", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2020-02-19",
+      "title": "Commission publishes White Paper on AI — sets out regulatory options",
+      "what_happened": "The European Commission published 'A European approach to AI' white paper, setting out a framework of possible regulatory approaches to AI. The paper floated a risk-based approach as the preferred option and called for consultation. It foreshadowed high-risk categorisation based on sector (health, transport, justice) and AI application type.",
+      "shopify_angle": "The white paper signalled that e-commerce AI tools would likely fall outside the highest-risk categories, though uncertainty remained around AI used in consumer-facing credit and fraud contexts.",
+      "tags": ["white-paper", "consultation", "pre-legislative"],
+      "sources": []
+    }
+  ]
+}

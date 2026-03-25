@@ -1,0 +1,62 @@
+{
+  "id": "eu-ai-omnibus",
+  "title": "EU AI Omnibus",
+  "entries": [
+    {
+      "date": "2026-03-24",
+      "title": "AI Office publishes second draft of Art. 50 Code of Practice for AI-interactive systems",
+      "what_happened": "The EU AI Office published the second draft of the Code of Practice for Article 50 of the AI Act, covering transparency obligations for AI-interactive and generative systems. The draft sets out disclosure requirements for AI-generated content, chatbot identification obligations, and synthetic media labelling standards. The consultation is open to stakeholders. The Code will be finalised and submitted to the Commission in April 2026.",
+      "shopify_angle": "AI-powered merchant tools that interact directly with users — including conversational AI in storefronts and AI-generated product content — could fall in scope depending on how Article 50(1) is interpreted. The definition of 'AI systems intended to interact with natural persons' is the key threshold to watch. Shopify should assess which features require disclosure labelling once the final Code is adopted.",
+      "tags": ["article-50", "code-of-practice", "ai-office", "transparency", "consultation"],
+      "sources": []
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Green MEP tables amendment to explicitly regulate AI agents as distinct category",
+      "what_happened": "A Green MEP tabled an amendment in the European Parliament's committee process that would explicitly regulate AI agents — autonomous systems that take actions on behalf of users — as a distinct regulatory category, with additional disclosure and liability requirements beyond the current AI Act risk framework. The amendment does not currently have majority backing but has attracted interest from several LIBE committee members.",
+      "shopify_angle": "An explicit AI agent regulatory category would be directly material for Shopify's agentic commerce development — automated ordering, inventory management, and customer service agents. If adopted, it could impose disclosure and liability obligations beyond what the current AI Act risk-based framework requires for minimal-risk systems.",
+      "tags": ["ai-agents", "agentic-commerce", "parliament", "amendment", "greens"],
+      "sources": []
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Parliament IMCO and LIBE accelerating on AI Omnibus — early amendments tabled",
+      "what_happened": "Parliamentary work on the AI Omnibus is accelerating, with IMCO (Internal Market) and LIBE (Civil Liberties) committees tabling early draft amendments. Key battlegrounds: the scope of centralised AI Office enforcement, the timeline for high-risk AI provisions, and whether the AI legitimate interest basis should apply to all AI systems or only foundation models.",
+      "shopify_angle": "The centralised AI Office enforcement proposal is positive for Shopify — a single EU-level enforcement body is more predictable than 27 national authorities applying the AI Act differently. The scope of the AI legitimate interest basis will determine whether it covers Shopify's commercial AI applications or is restricted to research and infrastructure contexts.",
+      "tags": ["parliament", "imco", "libe", "amendments", "enforcement"],
+      "sources": []
+    },
+    {
+      "date": "2026-02-02",
+      "title": "Commission misses Article 6 guidance deadline — high-risk classification uncertainty continues",
+      "what_happened": "The European Commission missed its 2 February 2026 deadline to publish guidance on Article 6 (high-risk AI system classification) of the AI Act. Companies are left without regulatory clarity on whether their AI tools qualify as high-risk ahead of the August 2026 application date. The missed deadline is partly attributable to the Commission's parallel work on the AI Omnibus simplification, which may revise the high-risk classification framework.",
+      "shopify_angle": "The absence of Article 6 guidance creates direct compliance uncertainty for AI features used in merchant creditworthiness assessment and fraud detection contexts — the two areas most likely to trigger high-risk classification under Annex III. The AI Omnibus simplification may ultimately narrow the high-risk list, but the timeline is uncertain and August 2026 is close.",
+      "tags": ["article-6", "high-risk", "guidance", "missed-deadline", "uncertainty"],
+      "sources": []
+    },
+    {
+      "date": "2025-11-18",
+      "title": "AI Omnibus published — centralise enforcement in AI Office, codify AI legitimate interest",
+      "what_happened": "The Commission published AI Omnibus proposals as part of the Digital Omnibus package. Key provisions: centralise market surveillance and enforcement for high-risk AI systems in the EU AI Office, including for AI integrated into VLOPs under the DSA; introduce explicit AI-related legitimate interest as a GDPR legal basis for AI model development and operation; expand the AI Office's governance functions to include direct supervisory competence for cross-border and foundational AI systems.",
+      "shopify_angle": "The centralisation of AI enforcement in the AI Office replaces a fragmented national enforcement model with a single EU-level body. The AI legitimate interest basis is the most consequential provision for Shopify — it would provide a clear legal footing for developing and improving AI features using merchant and consumer interaction data, removing current reliance on ambiguous or strained legal bases.",
+      "tags": ["ai-omnibus", "proposal", "ai-office", "legitimate-interest", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2025-10-15",
+      "title": "Spain's AEPD warns agentic AI may increase GDPR exposure — Article 22 in scope",
+      "what_happened": "Spain's data protection authority (AEPD) published guidance warning that autonomous AI agents that take consequential decisions on behalf of users may be subject to Article 22 GDPR (automated decision-making restrictions) depending on the degree of human oversight. The AEPD found that agentic systems executing transactions, filtering information, or taking actions with legal or similar effects require clear disclosure and potentially the right to human review.",
+      "shopify_angle": "The AEPD guidance is directly relevant for Shopify's agentic commerce development. AI agents that autonomously process orders, manage inventory, or interact with customers on behalf of merchants may trigger Article 22 obligations if they make 'solely automated decisions' producing legal effects. Architecture for agentic features should build in transparency, human override mechanisms, and clear disclosure.",
+      "tags": ["spain", "aepd", "article-22", "agentic-ai", "gdpr", "automated-decisions"],
+      "sources": []
+    },
+    {
+      "date": "2025-04-22",
+      "title": "Ireland publishes AI Act implementation bill — distributed enforcement model confirmed",
+      "what_happened": "Ireland published its domestic bill to implement the EU AI Act, confirming a distributed enforcement model: Central Bank of Ireland for financial services AI, Health Products Regulatory Authority for medical AI, and the Data Protection Commission for AI and privacy intersections. The bill includes national discretion provisions on penalties for SMEs.",
+      "shopify_angle": "Ireland is Shopify's EU legal establishment for data protection purposes. The Irish AI Act implementation bill means Shopify's primary AI compliance interactions will be with the DPC — an authority Shopify already has an established relationship with as lead GDPR supervisory authority.",
+      "tags": ["ireland", "implementation", "enforcement-model", "dpc"],
+      "sources": []
+    }
+  ]
+}

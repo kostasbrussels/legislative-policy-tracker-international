@@ -1,0 +1,212 @@
+[
+  {
+    "id": "eu-ai-act",
+    "title": "EU AI Act",
+    "flag": "🇪🇺",
+    "category": "AI",
+    "current_state": "In force since 1 Aug 2024. Prohibited practices applied from 2 Feb 2025. GPAI model obligations apply from 2 Aug 2025. High-risk AI provisions apply from 2 Aug 2026. Commission missed its Feb 2025 deadline to publish Article 6 (high-risk classification) guidance. GPAI Code of Practice in consultation — second draft circulating.",
+    "next_milestone": "High-risk AI provisions applicable — 2 Aug 2026",
+    "last_updated": "2026-03-24",
+    "entry_count": 18
+  },
+  {
+    "id": "eu-ai-omnibus",
+    "title": "EU AI Omnibus",
+    "flag": "🇪🇺",
+    "category": "AI",
+    "current_state": "Commission proposal published November 2025 as part of the Digital Omnibus package. Proposes to centralise AI Act high-risk system enforcement in the AI Office and codify AI-related legitimate interest under GDPR. Parliament accelerating — IMCO and LIBE tabling early amendments. Green MEP proposal to explicitly regulate AI agents tabled but lacks majority. Art. 50 Code of Practice second draft in consultation.",
+    "next_milestone": "Parliament committee positions — expected Q2/Q3 2026",
+    "last_updated": "2026-03-24",
+    "entry_count": 7
+  },
+  {
+    "id": "dsa-enforcement",
+    "title": "DSA Enforcement",
+    "flag": "🇪🇺",
+    "category": "Platform regulation",
+    "current_state": "DSA fully applicable since Feb 2024. Commission conducting formal proceedings against X, TikTok, Meta, and now Shein. Generative AI integration in ranking systems is the Commission's stated 2026 enforcement priority. EP committees fighting over competence division for Digital Omnibus, which includes DSA simplification. Political preference for negotiated compliance over headline fines.",
+    "next_milestone": "Commission decision on X non-compliance — expected Q2/Q3 2026",
+    "last_updated": "2026-03-24",
+    "entry_count": 24
+  },
+  {
+    "id": "dsa-law",
+    "title": "Digital Services Act — Law & Secondary Legislation",
+    "flag": "🇪🇺",
+    "category": "Platform regulation",
+    "current_state": "DSA fully applicable since February 2024. All online platforms must comply with notice-and-action systems, trader traceability (Article 31), and random product safety checks (Article 32). Secondary legislation on VLOP audit methodology and advertising transparency database in force. Digital Omnibus (Nov 2025) proposes DSA simplification measures.",
+    "next_milestone": "Digital Omnibus DSA simplification provisions — Council/Parliament deliberations 2026-2027",
+    "last_updated": "2024-10-15",
+    "entry_count": 10
+  },
+  {
+    "id": "eu-digital-omnibus",
+    "title": "EU Digital Omnibus",
+    "flag": "🇪🇺",
+    "category": "Privacy",
+    "current_state": "Commission proposal published 18 Nov 2025. Proposes sweeping amendments to GDPR, ePrivacy Directive, AI Act, and repeals the P2B Regulation. Council in early deliberations with sharp fault lines — Austria, Croatia, France, Belgium strongly opposed; Sweden, Portugal, Poland, Estonia broadly supportive. NL and Finland proposing a 'split file' approach. Parliament ITRE rapporteur: Aura Salla (EPP, Finland). Adoption not expected before H2 2027.",
+    "next_milestone": "ITRE rapporteur report — expected Q3/Q4 2026",
+    "last_updated": "2026-03-24",
+    "entry_count": 8
+  },
+  {
+    "id": "eu-gdpr",
+    "title": "EU GDPR",
+    "flag": "🇪🇺",
+    "category": "Privacy",
+    "current_state": "Applied since 25 May 2018. Irish DPC is Shopify's lead supervisory authority under the one-stop-shop mechanism. Enforcement active — record fines against Meta, Amazon, Google, TikTok. Digital Omnibus (Nov 2025) proposes significant amendments: narrowed personal data definition, GPAI legitimate interest basis, raised breach notification threshold, streamlined DPIA obligations.",
+    "next_milestone": "Digital Omnibus ITRE rapporteur report (Salla) — expected Q3/Q4 2026",
+    "last_updated": "2026-03-20",
+    "entry_count": 18
+  },
+  {
+    "id": "dma-law",
+    "title": "EU Digital Markets Act — Law & Secondary Legislation",
+    "flag": "🇪🇺",
+    "category": "Competition",
+    "current_state": "Fully applicable since May 2023. Seven gatekeepers designated (Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft, Booking.com). Commission is sole enforcer — no national parallel enforcement. Implementing Regulation on gatekeeper notification and reporting format in force. DMA review not expected before 2027.",
+    "next_milestone": "Commission review of DMA scope — expected 2027",
+    "last_updated": "2024-01-17",
+    "entry_count": 10
+  },
+  {
+    "id": "dma-enforcement",
+    "title": "EU Digital Markets Act — Enforcement",
+    "flag": "🇪🇺",
+    "category": "Competition",
+    "current_state": "Commission issued first enforcement actions March 2025: binding specifications for Apple iOS interoperability (nine features), preliminary non-compliance findings against Google Search and Play Store. Formal non-compliance decisions expected H2 2026. Active proceedings against Apple (App Store, browser, sideloading), Meta (pay or consent model), and Microsoft (Teams tying).",
+    "next_milestone": "Commission formal non-compliance decisions on Google — expected H2 2026",
+    "last_updated": "2026-03-19",
+    "entry_count": 7
+  },
+  {
+    "id": "eu-eprivacy",
+    "title": "ePrivacy Directive & Regulation",
+    "flag": "🇪🇺",
+    "category": "Privacy",
+    "current_state": "ePrivacy Directive (2002/58/EC, amended 2009) still in force. Proposed ePrivacy Regulation (2017) indefinitely stalled in Council. Digital Omnibus (Nov 2025) proposes to supersede ePrivacy Article 5(3) with a GDPR-only regime for cookie consent — among the most contested Omnibus provisions.",
+    "next_milestone": "Digital Omnibus negotiations on ePrivacy provisions — Council working party discussions ongoing",
+    "last_updated": "2026-03-20",
+    "entry_count": 13
+  },
+  {
+    "id": "uk-online-safety-act",
+    "title": "UK Online Safety Act",
+    "flag": "🇬🇧",
+    "category": "Platform regulation",
+    "current_state": "Royal Assent October 2023. Ofcom implementing regulations and codes of practice in stages through 2024–2026. Shopify assessed as below Category 1 threshold. Crime and Policing Bill (introduced 2026) will bring AI chatbots within OSA scope. Illegal content duty now enforceable.",
+    "next_milestone": "Ofcom illegal content and child safety codes finalised — expected Q2 2026",
+    "last_updated": "2026-02-23",
+    "entry_count": 12
+  },
+  {
+    "id": "uk-data-use-access",
+    "title": "UK Data (Use and Access) Act",
+    "flag": "🇬🇧",
+    "category": "Privacy",
+    "current_state": "Royal Assent May 2025. Establishes Smart Data scheme enabling powers (extending open banking model to other sectors), digital identity trust framework, and scientific research data processing reforms. UK GDPR diverging from EU GDPR — dual compliance obligation for Shopify. UK's EU adequacy decision remains in force, subject to review.",
+    "next_milestone": "Smart Data scheme regulations — consultations expected 2026",
+    "last_updated": "2025-11-01",
+    "entry_count": 7
+  },
+  {
+    "id": "uk-dmcc-act",
+    "title": "UK Digital Markets, Competition and Consumers Act",
+    "flag": "🇬🇧",
+    "category": "Competition",
+    "current_state": "Royal Assent May 2024. Digital markets provisions (SMS regime) in force from January 2025. Consumer provisions (fake reviews, subscription disclosure, drip pricing) enforceable from December 2025. CMA has opened SMS designation investigations into Alphabet, Apple, and Meta — decisions expected Q4 2026. UK's equivalent of EU DMA, with broader consumer protection chapter.",
+    "next_milestone": "CMA SMS designation decisions — expected Q4 2026",
+    "last_updated": "2026-01-15",
+    "entry_count": 8
+  },
+  {
+    "id": "eu-vat-digital-age",
+    "title": "EU VAT in the Digital Age (ViDA)",
+    "flag": "🇪🇺",
+    "category": "Tax",
+    "current_state": "ViDA regulation adopted by Council in November 2024. Three pillars: (1) digital VAT reporting and e-invoicing mandatory from Jan 2030; (2) platform economy deemed supplier rules for accommodation and passenger transport from Jul 2028; (3) single VAT registration (OSS expansion) from Jul 2027. Implementing acts in preparation.",
+    "next_milestone": "Single VAT registration (OSS expansion) — July 2027",
+    "last_updated": "2026-03-01",
+    "entry_count": 10
+  },
+  {
+    "id": "oecd-pillar-2",
+    "title": "OECD Pillar Two — Global Minimum Tax",
+    "flag": "🌐",
+    "category": "Tax",
+    "current_state": "EU Minimum Tax Directive (2022/2523) transposed by all member states. 15% global minimum effective tax rate applies for MNEs with €750m+ revenue. Qualified Domestic Minimum Top-up Tax (QDMTT) operational in most EU jurisdictions. US has not implemented Pillar Two — creating significant UTPR tension with US Congress. OECD administrative guidance continuing.",
+    "next_milestone": "OECD Administrative Guidance on UTPR — US response clarification expected 2026",
+    "last_updated": "2026-03-01",
+    "entry_count": 10
+  },
+  {
+    "id": "eu-customs-reform",
+    "title": "EU Customs Code Reform",
+    "flag": "🇪🇺",
+    "category": "Trade",
+    "current_state": "Commission proposal published May 2023. Proposes to abolish the €150 customs duty exemption for low-value goods, introduce a flat €2 handling fee for non-EU parcels, and create an EU Customs Authority. Political negotiations ongoing — next trilogue postponed to spring 2026. Key open questions: how the flat fee operates, IOSS linkage, and liability allocation between platforms and sellers.",
+    "next_milestone": "Next political trilogue — spring 2026",
+    "last_updated": "2026-03-15",
+    "entry_count": 10
+  },
+  {
+    "id": "eu-us-trade",
+    "title": "EU–US Trade & Tech Relations",
+    "flag": "🇺🇸",
+    "category": "Trade",
+    "current_state": "No formal FTA in negotiation. Trade and Technology Council (TTC) established in 2021 but paused under Trump administration from Jan 2025. US imposing tariffs on EU goods (steel, aluminium, Section 232 measures). EU preparing countermeasures. US threatening additional tariffs in response to EU digital regulations targeting US tech companies.",
+    "next_milestone": "EU countermeasures decision on US tariffs — ongoing",
+    "last_updated": "2026-03-20",
+    "entry_count": 10
+  },
+  {
+    "id": "eu-canada-dta",
+    "title": "EU–Canada Digital Trade Agreement",
+    "flag": "🇨🇦",
+    "category": "Trade",
+    "current_state": "Negotiations formally launched at 5 March 2026 CETA Ministerial in Ottawa. First technical round held in February 2026. Agreement expected to cover: data flows, cross-border data localisation prohibitions, e-commerce facilitation, customs cooperation on small parcels, digital identity, and AI governance cooperation.",
+    "next_milestone": "First formal negotiating round — expected Q2 2026",
+    "last_updated": "2026-03-15",
+    "entry_count": 6
+  },
+  {
+    "id": "eu-digital-fairness-act",
+    "title": "EU Digital Fairness Act",
+    "flag": "🇪🇺",
+    "category": "Consumer protection",
+    "current_state": "Commission expected to publish proposal Q4 2026. Pre-legislative work underway — REFIT evaluation of CRD and UCPD concluded. Key anticipated scope: dark patterns, subscription cancellation, influencer marketing, and algorithmic price personalisation. Consumer Agenda 2030 published Feb 2026 as political signal.",
+    "next_milestone": "Commission proposal expected Q4 2026",
+    "last_updated": "2026-03-20",
+    "entry_count": 8
+  },
+  {
+    "id": "eu-consumer-enforcement",
+    "title": "EU Consumer Protection Enforcement",
+    "flag": "🇪🇺",
+    "category": "Consumer protection",
+    "current_state": "CPC network conducting coordinated enforcement across member states. 2024–2026 sweep focused on dark patterns, fake reviews, subscription traps, and misleading sustainability claims. EU Consumer Agenda 2030 published February 2026. National authorities (DGCCRF France) actively pursuing e-commerce platforms.",
+    "next_milestone": "CPC coordinated sweep results on dark patterns — expected Q2 2026",
+    "last_updated": "2026-03-20",
+    "entry_count": 10
+  },
+  {
+    "id": "accc-enforcement",
+    "title": "Australia: ACCC Consumer & Digital Enforcement",
+    "flag": "🇦🇺",
+    "category": "Consumer protection",
+    "current_state": "ACCC actively enforcing against dark patterns, subscription traps, drip pricing, and ghost stores (fake e-commerce sites). Unfair contract terms penalties strengthened to AUD 50 million from November 2023. Digital Platform Services Inquiry final report (2024) recommends mandatory codes for large platforms. Operation Ghost targeting fraudulent Shopify-style storefronts.",
+    "next_milestone": "Government response to Digital Platform Services Inquiry recommendations — pending",
+    "last_updated": "2026-03-01",
+    "entry_count": 9
+  },
+  {
+    "id": "eu-payments-regulation",
+    "title": "EU Payments Reform — PSD2, PSD3 & PSR",
+    "flag": "🇪🇺",
+    "category": "Payments",
+    "current_state": "PSD2 (2018) in force. Commission published PSD3 and PSR proposals in June 2023. Council agreed general approach November 2023; Parliament position adopted November 2024. Trilogue expected to conclude H1 2026. Key issues: open banking, SCA friction, IBAN discrimination, and payment fraud liability.",
+    "next_milestone": "Trilogue conclusion — expected H1 2026",
+    "last_updated": "2026-03-15",
+    "entry_count": 12
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "id": "dma-law",
+  "title": "EU Digital Markets Act — Law & Secondary Legislation",
+  "entries": [
+    {
+      "date": "2024-01-17",
+      "title": "Booking.com designated as gatekeeper — first travel platform under DMA",
+      "what_happened": "The Commission designated Booking.com as a gatekeeper under the DMA, making it the first travel and accommodation platform to receive the designation. Booking.com has six months to comply with gatekeeper obligations, including banning parity clauses that prevent hotels from offering better prices on their own websites.",
+      "shopify_angle": "Booking.com's designation sets a precedent for marketplace-type platforms. The ban on price parity clauses that Booking.com enforced against hotels is analogous to exclusivity pressures some merchants face — DMA's approach to this type of restriction is beneficial for merchants' ability to offer better prices through independent Shopify storefronts.",
+      "tags": ["booking-com", "designation", "gatekeeper", "parity-clauses"],
+      "sources": []
+    },
+    {
+      "date": "2023-09-06",
+      "title": "Commission designates six initial gatekeepers — Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft",
+      "what_happened": "The European Commission formally designated six companies as gatekeepers under the DMA: Alphabet (Google Search, Google Maps, Google Play, Google Shopping, YouTube, Android), Amazon (Marketplace, Advertising), Apple (App Store, iOS, Safari), ByteDance (TikTok), Meta (Facebook, Instagram, WhatsApp, Facebook Marketplace), and Microsoft (Windows, LinkedIn, Bing, Edge). Each designated gatekeeper service must comply with all DMA obligations within six months — by 6 March 2024.",
+      "shopify_angle": "Shopify is not a gatekeeper — its user numbers are below the DMA thresholds. However, Shopify's merchant ecosystem depends heavily on designated gatekeepers: Google Search (discovery), Meta (social commerce), Amazon (marketplace competition), Apple/Android (mobile apps). DMA remedies on these platforms — particularly around self-preferencing and fee transparency — benefit Shopify's merchant base.",
+      "tags": ["designation", "gatekeepers", "alphabet", "amazon", "apple", "bytedance", "meta", "microsoft", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2023-04-06",
+      "title": "Commission adopts Implementing Regulation on DMA notification and reporting format",
+      "what_happened": "The Commission adopted Commission Implementing Regulation (EU) 2023/814, setting the technical specifications and format for gatekeeper notifications under DMA Articles 3, 11, and 15. The Regulation specifies the data format for gatekeeper designation notifications, compliance reports, and annual audit submissions. It operationalises the procedural framework for the DMA's ongoing compliance architecture.",
+      "shopify_angle": "The technical reporting obligations under the Implementing Regulation are primarily for gatekeepers. For Shopify, their significance is indirect: they establish the evidence base that the Commission uses in enforcement proceedings, and the transparency reporting requirements mean Shopify and its merchants will have access to more structured data on how gatekeeper platforms operate.",
+      "tags": ["implementing-regulation", "secondary-legislation", "notification", "reporting", "procedural"],
+      "sources": []
+    },
+    {
+      "date": "2023-05-02",
+      "title": "DMA fully applicable — gatekeepers must comply with all obligations",
+      "what_happened": "The Digital Markets Act became fully applicable on 2 May 2023. Gatekeepers designated by the Commission from this date face obligations: ban on self-preferencing, mandatory data portability, interoperability requirements, ban on combining personal data across services without consent, ban on preventing users from uninstalling pre-installed apps, and transparency in ranking parameters.",
+      "shopify_angle": "DMA's transparency in ranking obligations require gatekeepers (particularly Amazon and Google) to disclose how they rank products and services. For Shopify merchants selling on Amazon or appearing in Google Shopping, this creates greater visibility into algorithmic treatment — and a basis to challenge discriminatory ranking.",
+      "tags": ["fully-applicable", "milestone", "obligations"],
+      "sources": []
+    },
+    {
+      "date": "2022-11-01",
+      "title": "DMA enters into force",
+      "what_happened": "The Digital Markets Act (Regulation (EU) 2022/1925) entered into force on 1 November 2022, 20 days after publication in the Official Journal. The DMA creates a regulatory framework for 'core platform services' provided by gatekeepers with significant market power in the EU. Fines up to 10% of global turnover, and 20% for repeat offences. For systemic violations: structural remedies including break-up.",
+      "shopify_angle": "DMA entry into force marks a new era in digital competition policy. Unlike EU competition law (antitrust), DMA creates ex ante obligations — gatekeepers must behave a certain way before causing harm, not just after. This proactive framework is better designed to address gatekeeper behaviour that damages merchant independence.",
+      "tags": ["entry-into-force", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2022-09-14",
+      "title": "DMA published in Official Journal — final text confirmed",
+      "what_happened": "Regulation (EU) 2022/1925 on contestable and fair markets in the digital sector (Digital Markets Act) was published in the Official Journal. The final text includes a provision designating the Commission as sole enforcer (no national DPA/NCA concurrent enforcement), a six-month timeline for gatekeeper compliance post-designation, and interoperability requirements for messaging services.",
+      "shopify_angle": "Centralised Commission enforcement means a single, consistent application of DMA rules across the EU — reducing the fragmentation risk that characterises GDPR enforcement. For Shopify, this is a more efficient regulatory environment than parallel national proceedings.",
+      "tags": ["publication", "official-journal", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2022-07-05",
+      "title": "Parliament adopts DMA — political agreement confirmed",
+      "what_happened": "The European Parliament adopted the Digital Markets Act by 588 votes in favour, with 11 against and 31 abstentions. The adoption follows the March 2022 political trilogue agreement. Parliament strengthened the text with: mandatory interoperability for messaging services, stronger provisions on default settings, and enhanced powers for the Commission to impose structural remedies.",
+      "shopify_angle": "Mandatory messaging interoperability (WhatsApp, iMessage) creates opportunities for merchants to reach customers across platforms without being locked into a single messaging app ecosystem — positive for Shopify's multi-channel commerce strategy.",
+      "tags": ["parliament", "adoption", "milestone", "interoperability"],
+      "sources": []
+    },
+    {
+      "date": "2022-03-24",
+      "title": "Trilogue agreement on DMA — political deal struck",
+      "what_happened": "European Parliament and Council negotiators reached political agreement on the Digital Markets Act. Key outcomes: the gatekeeper threshold was agreed (45m EU monthly users or 10,000 business users, or €7.5bn revenue threshold); the Commission has exclusive enforcement powers; structural remedies including break-up are possible for systemic violation; and messaging interoperability was included as a mandatory obligation.",
+      "shopify_angle": "The DMA's gatekeeper thresholds are set well above Shopify's scale. The interoperability provisions — particularly for messaging — are relevant for Shopify's customer communication tools and WhatsApp merchant integrations.",
+      "tags": ["trilogue", "agreement", "milestone", "threshold"],
+      "sources": []
+    },
+    {
+      "date": "2021-12-14",
+      "title": "Council adopts general approach on DMA",
+      "what_happened": "The Council of the EU adopted its general approach (negotiating position) on the DMA. The Council's main modifications: clarified the gatekeeper notification and designation process; maintained centralised Commission enforcement but added national NCA co-enforcement powers in limited circumstances; and narrowed the mandatory interoperability provisions compared to the Commission proposal.",
+      "shopify_angle": "The Council's dilution of interoperability obligations was a partial victory for gatekeepers. For Shopify, stronger interoperability would have been more beneficial — it would force platforms to allow third-party integrations and data portability that merchants could use across Shopify and gatekeeper marketplaces.",
+      "tags": ["council", "general-approach"],
+      "sources": []
+    },
+    {
+      "date": "2020-12-15",
+      "title": "European Commission publishes DMA proposal alongside DSA",
+      "what_happened": "The European Commission published the Digital Markets Act proposal (COM/2020/842) alongside the Digital Services Act proposal. The DMA targets 'gatekeepers' — companies providing core platform services with significant market power — imposing ex ante obligations rather than relying on antitrust proceedings. Proposed fines up to 10% of global turnover and structural remedies for systemic violations.",
+      "shopify_angle": "The DMA proposal directly targets the major platforms through which Shopify merchants sell and market: Apple App Store, Google Play, Amazon Marketplace, Google Search, Meta/Facebook. Effective DMA implementation would reduce the leverage these gatekeepers have over merchants — particularly around app store fees, self-preferencing in search, and forced data sharing.",
+      "tags": ["proposal", "commission", "legislative", "milestone"],
+      "sources": []
+    }
+  ]
+}

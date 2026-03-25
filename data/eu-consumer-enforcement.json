@@ -1,0 +1,86 @@
+{
+  "id": "eu-consumer-enforcement",
+  "title": "EU Consumer Protection Enforcement",
+  "entries": [
+    {
+      "date": "2026-03-20",
+      "title": "CPC coordinated sweep on dark patterns expected Q2 2026 — results awaited",
+      "what_happened": "The Consumer Protection Cooperation (CPC) network — coordinating 27 national consumer protection authorities — is expected to publish the results of its 2025-2026 coordinated sweep on dark patterns and subscription traps in Q2 2026. The sweep, announced in 2024, targeted online checkout flows, subscription sign-up and cancellation UX, and influencer marketing disclosures across major e-commerce platforms. Preliminary signals suggest a significant number of non-compliant flows were identified.",
+      "shopify_angle": "The CPC sweep targeted e-commerce checkout and subscription flows — the core of what Shopify merchants build using Shopify's platform. If the sweep results identify patterns used in Shopify-powered stores as non-compliant, national authorities may open individual enforcement actions against specific merchants. Shopify's default checkout configuration and App Store guidelines may need updating based on the findings.",
+      "tags": ["cpc", "coordinated-sweep", "dark-patterns", "subscription", "pending"],
+      "sources": []
+    },
+    {
+      "date": "2025-09-01",
+      "title": "France DGCCRF action on subscription dark patterns — major e-commerce platforms targeted",
+      "what_happened": "France's Directorate-General for Competition, Consumer Affairs and Fraud Prevention (DGCCRF) announced enforcement actions against major e-commerce platforms for subscription dark patterns: unclear auto-renewal terms, difficulty finding cancellation options, and pre-ticked boxes for recurring charges. Fines of up to 4% of French turnover are possible under the Omnibus Directive implementation.",
+      "shopify_angle": "DGCCRF enforcement actions on subscription dark patterns directly affect Shopify merchants running subscription businesses in France. Shopify's Subscriptions product and the App Store's subscription management apps need to ensure cancellation is easily accessible and that auto-renewal terms are clearly disclosed. France is one of Shopify's largest EU markets.",
+      "tags": ["france", "dgccrf", "subscriptions", "dark-patterns", "enforcement"],
+      "sources": []
+    },
+    {
+      "date": "2025-01-15",
+      "title": "CPC 2024–2026 enforcement priorities confirmed — dark patterns, fake reviews, subscription traps",
+      "what_happened": "The CPC network published its enforcement priorities for 2024-2026: coordinated investigations into dark patterns in online checkout flows; coordinated action on fake reviews and review manipulation on e-commerce platforms; enforcement of subscription cancellation rules under the Omnibus Directive implementation; and action on misleading sustainability claims ('greenwashing') in online retail. All 27 national consumer authorities committed to allocating enforcement resources to these priorities.",
+      "shopify_angle": "All four CPC priority areas affect Shopify's merchant ecosystem. Dark patterns and subscription cancellation rules are directly relevant to Shopify's checkout and subscriptions products. Fake reviews affect Shopify merchants using review apps. Greenwashing enforcement affects merchants making sustainability claims on their storefronts.",
+      "tags": ["cpc", "enforcement-priorities", "2024-2026", "fake-reviews", "greenwashing"],
+      "sources": []
+    },
+    {
+      "date": "2024-05-15",
+      "title": "Omnibus Directive price display enforcement — national authorities begin acting on discount claims",
+      "what_happened": "National consumer protection authorities across multiple EU member states began formal enforcement actions against e-commerce platforms and retailers for non-compliance with the Omnibus Directive's 30-day lowest price rule. Germany's Verbraucherzentrale and France's DGCCRF identified widespread non-compliance: merchants displaying inflated 'original prices' alongside promotional discounts without disclosing the actual prior 30-day minimum price.",
+      "shopify_angle": "The Omnibus price display rule requires Shopify merchants in the EU to show the lowest price charged in the prior 30 days before applying a promotional discount. Non-compliance is being actively enforced. Shopify's discount and promotions tools need to surface and display this baseline price — and Shopify's guidance for EU merchants on running sales needs to reflect this obligation.",
+      "tags": ["omnibus", "price-display", "discounts", "germany", "enforcement"],
+      "sources": []
+    },
+    {
+      "date": "2023-11-14",
+      "title": "CPC coordinated sweep on greenwashing — 42% of sustainability claims found misleading",
+      "what_happened": "The Consumer Protection Cooperation network published results of its coordinated sweep on sustainability claims in online retail. Of 344 claims assessed across EU e-commerce platforms, 42% were potentially misleading and 59% provided no evidence to support the claim. The sweep specifically identified: vague sustainability language ('eco-friendly', 'green', 'sustainable'); certification claims without specifying the certifying body; and carbon offset claims that did not meet substantiation standards.",
+      "shopify_angle": "The greenwashing sweep directly affects Shopify merchants making sustainability claims on their EU storefronts. Merchants using terms like 'sustainable' or 'eco-friendly' without evidence face enforcement risk. Shopify's App Store sustainability apps and any Shopify-level guidance on sustainability claims need to reflect the CPC's standards for claim substantiation.",
+      "tags": ["greenwashing", "sustainability", "cpc", "sweep", "misleading-claims"],
+      "sources": []
+    },
+    {
+      "date": "2022-09-01",
+      "title": "CPC coordinated action on airline and online travel platform pricing",
+      "what_happened": "The CPC network completed a coordinated enforcement sweep targeting airline pricing and online travel platforms for: hidden fees added late in the booking flow; misleading urgency tactics ('only 2 seats left at this price'); deceptive pre-selected add-ons; and unclear subscription renewal terms for loyalty and booking services. Multiple national authorities issued warnings and enforcement notices.",
+      "shopify_angle": "While focused on travel, the CPC's action on hidden fees and urgency tactics established enforcement norms directly applicable to e-commerce. The 'only X left' urgency pattern — widely used by Shopify merchants through App Store plugins — was specifically targeted. The precedent signals that similar tactics in general e-commerce will face enforcement under the Unfair Commercial Practices Directive.",
+      "tags": ["cpc", "airlines", "travel", "urgency-tactics", "hidden-fees"],
+      "sources": []
+    },
+    {
+      "date": "2022-05-28",
+      "title": "Omnibus Directive enters into force — enhanced consumer rights for digital markets",
+      "what_happened": "The EU Omnibus Directive (2019/2161) became fully applicable on 28 May 2022, following implementation by member states. Key new obligations for e-commerce: 30-day lowest price disclosure before promotional pricing; prohibition on fake reviews and review manipulation; mandatory transparency on how marketplace search results are ranked; and consumer rights for free digital services provided in exchange for data. Fines up to 4% of annual turnover for breach.",
+      "shopify_angle": "The Omnibus Directive created a new category of compliance obligations for Shopify as both a marketplace and a tooling provider. The review verification obligation affects how Shopify merchants collect and display product reviews. The 30-day price rule directly affects Shopify's promotional pricing features. The 4% fine structure — matching GDPR — puts consumer protection on par with data protection in terms of financial risk.",
+      "tags": ["omnibus", "in-force", "milestone", "reviews", "price-display"],
+      "sources": []
+    },
+    {
+      "date": "2021-11-10",
+      "title": "Commission Consumer Summit — CPC action on e-commerce sustainability and digital practices announced",
+      "what_happened": "The European Commission's annual Consumer Summit confirmed that the CPC network would launch coordinated enforcement actions on e-commerce sustainability claims and digital commercial practices in 2022. The summit followed the Commission's New Consumer Agenda (adopted November 2020) which set out a framework for consumer policy in the digital and green transition.",
+      "shopify_angle": "The Consumer Summit signalled increased enforcement intensity in e-commerce — a direct signal to Shopify merchants. The dual focus on sustainability claims and digital commercial practices (dark patterns, subscription traps) covers the key compliance risk areas for Shopify's EU merchant base.",
+      "tags": ["consumer-summit", "cpc", "new-consumer-agenda", "e-commerce"],
+      "sources": []
+    },
+    {
+      "date": "2020-11-13",
+      "title": "New Consumer Agenda adopted — sets consumer protection framework for digital decade",
+      "what_happened": "The European Commission adopted the New Consumer Agenda, the policy framework for EU consumer protection from 2020 to 2025. The Agenda prioritised: the green transition (sustainable consumption, greenwashing prevention); digital transformation (digital fairness, AI-driven personalisation, platform accountability); effective enforcement through the CPC network; and global consumer cooperation. The Agenda explicitly referenced e-commerce platforms as a priority enforcement area.",
+      "shopify_angle": "The New Consumer Agenda established the political framework that would lead to the Omnibus Directive's implementation, CPC enforcement sweeps, and the forthcoming Digital Fairness Act. For Shopify, the Agenda's identification of e-commerce platforms as a priority enforcement target set the direction of EU consumer protection policy for the decade.",
+      "tags": ["new-consumer-agenda", "framework", "digital-transformation", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2020-01-17",
+      "title": "CPC Regulation fully applicable — enhanced cross-border enforcement cooperation",
+      "what_happened": "Regulation (EU) 2017/2394 on consumer protection cooperation became fully applicable, replacing the 2004 CPC Regulation. The new Regulation significantly strengthened cross-border enforcement: national authorities can now request each other to take emergency measures; the Commission can coordinate sweeps and set enforcement priorities; minimum investigatory powers are harmonised; and national authorities can share evidence without separate data protection agreements. The Regulation created a binding framework for coordinated EU consumer enforcement.",
+      "shopify_angle": "The enhanced CPC Regulation means a consumer authority in any EU member state can flag a Shopify merchant's non-compliant practices and trigger enforcement across multiple markets simultaneously. The coordination mechanism is particularly relevant for Shopify as a platform: a pattern identified in one market can generate enforcement interest across the EU.",
+      "tags": ["cpc-regulation", "enforcement-cooperation", "milestone", "cross-border"],
+      "sources": []
+    }
+  ]
+}

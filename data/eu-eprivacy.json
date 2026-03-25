@@ -1,0 +1,110 @@
+{
+  "id": "eu-eprivacy",
+  "title": "ePrivacy Directive & Regulation",
+  "entries": [
+    {
+      "date": "2026-03-20",
+      "title": "Digital Omnibus ePrivacy provisions among most contested in Council",
+      "what_happened": "In Council deliberations on the Digital Omnibus, the proposed supersession of ePrivacy Article 5(3) with a GDPR-only consent regime for cookie and tracker consent is among the most politically contested provisions. Austria, Belgium, France, and Croatia oppose the weakening of cookie consent rules. Sweden, Portugal, Poland, and Estonia are more supportive of simplification. The Netherlands and Finland are proposing a 'split file' approach that would isolate ePrivacy provisions.",
+      "shopify_angle": "Shopify's internal advocacy through CCIA and Ecommerce Europe supports the Digital Omnibus approach to cookies — removing the dual GDPR/ePrivacy consent layer for analytics and session cookies would materially reduce compliance friction for Shopify merchants managing EU storefronts. The opposition from France (CNIL is Europe's most active cookie enforcer) is a real risk to this outcome.",
+      "tags": ["digital-omnibus", "cookie-reform", "council", "split-file"],
+      "sources": []
+    },
+    {
+      "date": "2025-11-18",
+      "title": "Digital Omnibus proposes to supersede ePrivacy cookie consent with GDPR regime",
+      "what_happened": "The Digital Omnibus proposal published on 18 November 2025 includes a major ePrivacy amendment: it supersedes ePrivacy Directive Article 5(3) with GDPR Article 6 as the exclusive legal framework for cookie and tracker consent. Under the new model, analytics and security cookies would not require consent if based on legitimate interest. Consent would only be required for high-risk or non-essential tracking. The proposal also mandates: six-month validity for consent refusals; single-click consent/rejection mechanisms; and EU-wide technical standards for machine-readable consent signals (browser-level).",
+      "shopify_angle": "If adopted, this would enable Shopify merchants to run analytics on their EU storefronts without cookie banners for non-marketing purposes, directly reducing conversion friction. The machine-readable consent standard would enable a browser-level consent architecture that removes the per-merchant banner burden entirely.",
+      "tags": ["digital-omnibus", "cookie-reform", "legitimate-interest", "browser-consent", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2025-07-07",
+      "title": "Denmark's pre-Omnibus non-paper: exempt analytics and session cookies from consent",
+      "what_happened": "The Danish government circulated an informal non-paper calling for cookie consent reform: no consent requirement for technical and statistical cookies; consent only for marketing, profiling, and third-party tracking. The paper proposed amending both GDPR and ePrivacy Directive to align the legal frameworks.",
+      "shopify_angle": "The Danish non-paper's framing — that ePrivacy's cookie consent rules harm user experience without proportionate privacy benefit — directly aligned with Shopify's advocacy position. The paper was circulated as Denmark held the Council Presidency, and Shopify's team monitored it as an early indicator of Digital Omnibus direction.",
+      "tags": ["denmark", "non-paper", "analytics-exemption", "pre-omnibus"],
+      "sources": []
+    },
+    {
+      "date": "2022-04-13",
+      "title": "EDPB coordinated enforcement on cookie banners — 22 DPAs launch investigations",
+      "what_happened": "The EDPB's first coordinated enforcement action targeted dark patterns in cookie consent. Investigations found widespread use of: accept buttons more prominent than reject; pre-ticked boxes; false equivalences between 'I agree' and 'learn more'; and forced scrolling through consent text. Multiple large websites received enforcement notices in 2022-2023.",
+      "shopify_angle": "Shopify's default theme cookie implementations and the App Store CMPs (Consent Management Platforms) were in scope for this enforcement wave. Shopify had to ensure its default checkout and storefront pages offered genuine, equal-prominence consent rejection. The enforcement shaped the current baseline for compliant cookie banner design in Shopify themes.",
+      "tags": ["edpb", "dark-patterns", "enforcement", "cookie-banners"],
+      "sources": []
+    },
+    {
+      "date": "2021-04-30",
+      "title": "IAB TCF framework found invalid by Belgian DPA — consent string architecture challenged",
+      "what_happened": "Belgium's Data Protection Authority ruled that the IAB Europe Transparency and Consent Framework (TCF) — the industry's main cookie consent management architecture — was incompatible with GDPR. The ruling found that TCF consent strings constitute personal data, IAB Europe is a joint data controller, and the legitimate interest legal basis cannot override user objections in the advertising context.",
+      "shopify_angle": "The TCF framework underpins most Shopify app-store CMPs and many merchant advertising consent workflows. The IAB ruling forced a major rethink of consent architecture across the ad tech ecosystem. Shopify merchants relying on TCF-based consent tools faced compliance uncertainty until TCF v2.2 was released in 2023.",
+      "tags": ["iab", "tcf", "consent-framework", "belgian-dpa", "adtech"],
+      "sources": []
+    },
+    {
+      "date": "2020-10-01",
+      "title": "EDPB adopts guidelines on consent — high bar confirmed for cookie consent",
+      "what_happened": "The EDPB adopted revised guidelines on consent under GDPR (05/2020), clarifying the standard for valid consent. Key positions: scrolling or continued browsing does not constitute valid consent; consent must be granular per purpose; legitimate interest cannot be used to override explicit refusal; and deceptive design making rejection harder than acceptance invalidates consent.",
+      "shopify_angle": "The EDPB consent guidelines set the standard that Shopify merchants and Shopify's own platform must meet. Pre-ticked marketing opt-ins in Shopify checkout flows, for example, are incompatible with GDPR consent requirements under these guidelines.",
+      "tags": ["edpb", "consent-guidelines", "scrolling", "granularity"],
+      "sources": []
+    },
+    {
+      "date": "2019-10-01",
+      "title": "CJEU Planet49 ruling — no pre-ticked consent boxes, cookies require active opt-in",
+      "what_happened": "The Court of Justice of the EU ruled in Planet49 GmbH v Bundesverband der Verbraucherzentralen that: (1) pre-ticked consent checkboxes do not constitute valid GDPR or ePrivacy consent; (2) the duration of cookies and whether third parties have access must be disclosed; and (3) this applies regardless of whether the cookie accesses personal data. The ruling clarified the interaction between the 2009 ePrivacy amendment and GDPR.",
+      "shopify_angle": "Planet49 confirmed that Shopify merchants cannot use pre-ticked boxes for marketing consent in checkout flows. It is one of the foundational rulings shaping Shopify's checkout consent implementation.",
+      "tags": ["cjeu", "planet49", "consent", "pre-ticked", "ruling"],
+      "sources": []
+    },
+    {
+      "date": "2017-01-10",
+      "title": "Commission proposes ePrivacy Regulation — to replace 2002 Directive",
+      "what_happened": "The European Commission proposed a regulation to replace the 2009 ePrivacy Directive (COM/2017/010). The proposed regulation would apply to electronic communications services (including messaging apps and VoIP), extend cookie consent rules, and align with GDPR standards. The proposal has been stuck in Council negotiations ever since, with no political agreement — primarily due to disagreements on legitimate interest for tracking and enforcement allocation.",
+      "shopify_angle": "The ePrivacy Regulation's indefinite stall in Council has left the current dual-layer regime (ePrivacy Directive + GDPR) in place — creating fragmentation and uncertainty for merchants. The Digital Omnibus (2025) is now the primary vehicle to resolve this, bypassing the standalone ePrivacy Regulation entirely.",
+      "tags": ["eprivacy-regulation", "proposal", "commission", "stalled"],
+      "sources": []
+    },
+    {
+      "date": "2009-11-25",
+      "title": "ePrivacy Directive amended — 'cookie consent' requirement introduced",
+      "what_happened": "Directive 2009/136/EC amended the 2002 ePrivacy Directive, introducing Article 5(3) requiring 'clear and comprehensive information' and 'consent' before storing or accessing information on a user's terminal equipment — i.e., cookies and similar tracking technologies. This amendment created the EU cookie consent requirement that has been in place ever since.",
+      "shopify_angle": "The 2009 amendment is the origin of cookie banners. Its vague wording — particularly on what constitutes 'consent' and what counts as 'strictly necessary' — created years of fragmented national implementation. This fragmentation, and the compliance burden it creates for merchants operating across EU member states, is the core problem the Digital Omnibus seeks to fix.",
+      "tags": ["amendment", "cookie-consent", "article-5-3", "milestone"],
+      "sources": []
+    },
+    {
+      "date": "2002-07-12",
+      "title": "ePrivacy Directive adopted — first EU electronic communications privacy framework",
+      "what_happened": "Directive 2002/58/EC (ePrivacy Directive) was adopted, creating a sector-specific privacy framework for electronic communications. It covered: confidentiality of communications, traffic data retention, caller ID, unsolicited commercial communications (spam), and basic rules on terminal equipment access (later amended to become the cookie consent provision).",
+      "shopify_angle": "The 2002 ePrivacy Directive is the legal ancestor of all cookie and email marketing consent requirements applicable to Shopify merchants. Its email marketing provisions (opt-in for B2C, opt-out for B2B) remain in force and govern Shopify Email's compliance approach across EU markets.",
+      "tags": ["directive", "adoption", "milestone", "spam", "electronic-communications"],
+      "sources": []
+    },
+    {
+      "date": "2024-02-01",
+      "title": "French CNIL updates cookie guidelines — stricter enforcement of 'reject all' placement",
+      "what_happened": "The CNIL updated its cookie enforcement priorities and guidance, confirming it would pursue websites where the 'refuse all' option was less prominently displayed than 'accept all'. The CNIL also confirmed it considers 'legitimate interest' an invalid basis for analytics trackers that involve cross-site data sharing.",
+      "shopify_angle": "The CNIL's strict approach to cookie enforcement is the highest-bar standard Shopify merchants need to meet in the EU. CNIL enforcement creates a de facto EU standard because France's major retail market means most Shopify merchants targeting French consumers need CNIL-compliant cookie banners.",
+      "tags": ["cnil", "enforcement", "reject-all", "legitimate-interest", "france"],
+      "sources": []
+    },
+    {
+      "date": "2023-03-30",
+      "title": "CNIL fines TikTok €5 million for making cookie rejection harder than acceptance",
+      "what_happened": "France's CNIL fined TikTok €5 million for requiring multiple clicks to refuse cookies while accepting required a single click. The fine confirmed the CNIL's position that unequal prominence between accept and refuse options is a GDPR/ePrivacy violation.",
+      "shopify_angle": "The TikTok cookie fine reinforces the design standard Shopify themes and checkout flows must meet for French (and by implication EU) merchants: refusal must be as easy as acceptance, with equal visual prominence.",
+      "tags": ["cnil", "tiktok", "cookie-fine", "ux", "reject-button"],
+      "sources": []
+    },
+    {
+      "date": "2023-01-13",
+      "title": "CNIL fines Google and Facebook for cookie rejection difficulty — €150m and €60m",
+      "what_happened": "The CNIL fined Google €150 million and Facebook €60 million for making it harder to refuse cookies than to accept them. The CNIL found that both companies required multiple clicks and additional pages to refuse tracking, while acceptance was a single button — constituting a breach of the freely-given consent requirement.",
+      "shopify_angle": "These fines set the legal standard for cookie UX in France and signal EU-wide enforcement direction. Shopify's default cookie consent implementation and CMP app partners must ensure the rejection pathway is no harder than acceptance. Any Shopify theme or integration that follows the Google/Facebook model risks merchant regulatory exposure.",
+      "tags": ["google", "facebook", "cnil", "cookie-fine", "reject-easier"],
+      "sources": []
+    }
+  ]
+}

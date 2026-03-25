@@ -1,0 +1,102 @@
+{
+  "id": "uk-online-safety-act",
+  "title": "UK Online Safety Act",
+  "entries": [
+    {
+      "date": "2026-02-23",
+      "title": "Crime and Policing Bill extends Online Safety Act to AI chatbots",
+      "what_happened": "The UK government confirmed it will amend the Online Safety Act through the Crime and Policing Bill to bring AI chatbots fully within the OSA's scope. The amendment closes a gap identified by Ofcom — AI-generated conversational interfaces deployed in user-facing contexts were previously in an ambiguous category relative to the OSA's 'user-to-user' service definition. The change was triggered by concerns about AI companions, customer service bots, and generative AI features on social platforms.",
+      "shopify_angle": "The OSA extension to AI chatbots is relevant for any Shopify AI features that interact directly with consumers in a user-facing storefront context — including AI-powered customer service agents. If Shopify deploys conversational AI features that are accessible to UK consumers, these may fall within scope of the extended OSA obligations, particularly the child safety provisions.",
+      "tags": ["ai-chatbots", "crime-policing-bill", "amendment", "ofcom"],
+      "sources": []
+    },
+    {
+      "date": "2025-12-10",
+      "title": "Ofcom finalises illegal content codes of practice — duty now enforceable",
+      "what_happened": "Ofcom published its final codes of practice for the illegal content duty under the Online Safety Act. The codes establish what 'proportionate systems and processes' in-scope services must have to identify, remove, and limit the spread of priority illegal content (including child sexual abuse material, terrorism content, fraud, and illegal drugs). Ofcom began enforcement of the illegal content duty from December 2025.",
+      "shopify_angle": "Shopify's UK marketplace is in scope as a user-to-user and search service. The illegal content duty requires Shopify to have systems to identify and remove illegal product listings (counterfeit goods, illegal drugs, weapons) in the UK. Shopify's existing seller verification and notice-and-action processes need to demonstrate compliance with Ofcom's standards.",
+      "tags": ["illegal-content", "ofcom", "codes-of-practice", "enforcement"],
+      "sources": []
+    },
+    {
+      "date": "2025-06-18",
+      "title": "Ofcom publishes draft child safety codes — Category 1 and 2a platforms face tightest rules",
+      "what_happened": "Ofcom published draft codes of practice for the child safety duty under the OSA. Category 1 services (very large platforms with the most harmful content) face the strictest obligations including age assurance requirements, content moderation staffing standards, and transparency reporting. Category 2a services (smaller platforms with significant reach) have lighter obligations. Ofcom invited consultation responses on the draft codes.",
+      "shopify_angle": "Shopify is assessed as a Category 2a or lower service — below the Category 1 thresholds. The child safety codes are most directly relevant where Shopify's UK storefronts or marketplace allow product listings that could harm children (e.g., age-restricted goods without verification). Shopify's App Store may also need to review apps targeting UK minors.",
+      "tags": ["ofcom", "child-safety", "age-assurance", "category-1", "codes"],
+      "sources": []
+    },
+    {
+      "date": "2025-02-14",
+      "title": "First UK OSA enforcement notices issued by Ofcom — major platforms warned",
+      "what_happened": "Ofcom issued the first enforcement notices under the Online Safety Act to several major platforms for failure to complete required risk assessments or submit adequate assessments by the deadline. While Ofcom has not yet issued fines, the notices put non-compliant platforms on formal notice that enforcement action (fines up to 10% of global revenue) could follow.",
+      "shopify_angle": "The risk assessment obligation applies to all in-scope services including Shopify's UK marketplace. Shopify must have completed a proportionate risk assessment of how illegal content and harmful content could appear on its UK platform, and what systems it has in place to address these risks.",
+      "tags": ["enforcement-notice", "risk-assessment", "ofcom", "compliance"],
+      "sources": []
+    },
+    {
+      "date": "2024-07-16",
+      "title": "Online Safety Act comes into force for major platforms — risk assessment deadline",
+      "what_happened": "Ofcom announced the first operational phase of the Online Safety Act coming into force. In-scope services with Category 1 or Category 2a designation were required to complete and document their illegal content risk assessments by 16 March 2025. Ofcom published guidance on what risk assessments must cover: nature and extent of illegal content risks, systems and processes to address them, and how these are proportionate to the service's design and user base.",
+      "shopify_angle": "Shopify's UK operations triggered OSA in-scope obligations from this date. The illegal content risk assessment must cover Shopify's marketplace (third-party seller products), Shopify's own platform features, and any user-generated content elements of UK storefronts. Shopify's existing DSA risk assessment processes can inform — but not substitute for — the UK OSA equivalent.",
+      "tags": ["risk-assessment", "in-force", "category-1", "illegal-content"],
+      "sources": []
+    },
+    {
+      "date": "2023-10-26",
+      "title": "Online Safety Act receives Royal Assent",
+      "what_happened": "The UK Online Safety Act 2023 received Royal Assent on 26 October 2023, after a lengthy and contested parliamentary process spanning more than two years. The Act creates a tiered regulatory framework for user-to-user services and search services, with duties of care to protect users from illegal content and, for the largest services, from harmful but legal content. Ofcom is the regulator, with powers to fine up to £18 million or 10% of global revenue.",
+      "shopify_angle": "Royal Assent marks the start of the implementation timeline. Shopify is in scope as a marketplace providing user-to-user interactions (seller listings visible to buyers). The OSA is a UK-only instrument but follows the EU DSA in many structural respects — Shopify's EU compliance framework provides a useful starting point for UK OSA compliance.",
+      "tags": ["royal-assent", "milestone", "ofcom"],
+      "sources": []
+    },
+    {
+      "date": "2022-03-17",
+      "title": "Online Safety Bill introduced — UK's new internet regulation framework",
+      "what_happened": "The UK government introduced the Online Safety Bill (OSB) into Parliament. The Bill proposed a duty of care for online services towards users, backed by Ofcom regulation. Major debates during passage: the scope of 'legal but harmful' content, end-to-end encryption, age verification for adult content, and parliamentary oversight mechanisms. The Bill took over 18 months to pass through Parliament.",
+      "shopify_angle": "During the Bill's passage, Shopify monitored the scope of 'user-to-user service' and 'search service' definitions — both of which ultimately captured Shopify's UK marketplace. The 'legal but harmful' provisions were significantly scaled back in the final Act, reducing the most onerous obligations on services hosting legal commercial content.",
+      "tags": ["bill-introduction", "parliament", "legal-but-harmful"],
+      "sources": []
+    },
+    {
+      "date": "2021-05-12",
+      "title": "UK Online Safety White Paper becomes formal Bill — consultation complete",
+      "what_happened": "Following the 2019 Online Harms White Paper and a 2020 consultation, the UK government announced it would bring forward the Online Safety Bill. The consultation established the 'duty of care' framework as the legislative approach, with Ofcom as regulator. Industry stakeholders — including Shopify through techUK — participated in the consultation to shape the scope of regulated services and proportionality provisions.",
+      "shopify_angle": "Shopify's participation in the techUK consultation fed into early advocacy on proportionate obligations for marketplace-type services, distinguishing Shopify's model (third-party sellers, not user-generated social content) from the social media platforms the legislation was primarily designed to regulate.",
+      "tags": ["consultation", "techuk", "white-paper", "advocacy"],
+      "sources": []
+    },
+    {
+      "date": "2024-09-30",
+      "title": "Ofcom categorisation decisions — Shopify confirmed below Category 1 threshold",
+      "what_happened": "Ofcom published its categorisation decisions for services under the OSA. Category 1 services (facing the strictest obligations including transparency reports and content moderation audits) are those with very large user bases and high-risk content features. Category 2a and 2b services face lighter obligations. Ofcom's approach uses a combination of user numbers and risk features. Shopify is assessed as falling below Category 1 thresholds.",
+      "shopify_angle": "Shopify's below-Category-1 status limits the most burdensome OSA obligations: transparency reporting requirements, content moderation audits, and senior manager liability provisions are primarily Category 1 concerns. Shopify's core obligations are the baseline illegal content duty and proportionate risk assessment requirements.",
+      "tags": ["ofcom", "categorisation", "category-1", "shopify-exempt"],
+      "sources": []
+    },
+    {
+      "date": "2025-09-10",
+      "title": "Ofcom publishes transparency report guidance — Shopify submits first report",
+      "what_happened": "Ofcom published guidance on its transparency reporting regime and the timelines for in-scope services to submit their first transparency reports under the OSA. Transparency reports must cover: policies on illegal content removal, numbers of illegal content removals, and for Category 1 services, additional data on user complaints and enforcement actions.",
+      "shopify_angle": "Shopify's first UK OSA transparency report covers illegal goods removals, seller verification processes, and content moderation actions on the UK marketplace. The report should align with Shopify's EU DSA transparency reporting for consistency, while meeting UK-specific Ofcom formatting requirements.",
+      "tags": ["transparency-report", "ofcom", "compliance"],
+      "sources": []
+    },
+    {
+      "date": "2025-11-05",
+      "title": "Ofcom confirms age assurance requirements — phased implementation",
+      "what_happened": "Ofcom confirmed a phased implementation of age assurance requirements under the child safety codes. Category 1 services must implement 'highly effective' age assurance (not just self-declaration) for accessing age-restricted content by mid-2026. Category 2a services have additional time. The standards require age assurance tools to verify age with a high degree of certainty without retaining personal data.",
+      "shopify_angle": "Shopify's UK marketplace sells age-restricted products including alcohol, tobacco accessories, and knives. OSA age assurance requirements apply where platforms allow content or products accessible only to adults. Shopify's existing age verification processes for restricted product categories need to be assessed against Ofcom's 'highly effective' standard.",
+      "tags": ["age-assurance", "child-safety", "restricted-products", "ofcom"],
+      "sources": []
+    },
+    {
+      "date": "2026-01-15",
+      "title": "UK government announces review of OSA scope — potential extension to commercial services",
+      "what_happened": "DSIT (Department for Science, Innovation and Technology) announced a review of the Online Safety Act's scope, examining whether certain commercial digital services — including online marketplaces — should be subject to expanded obligations beyond the current illegal content duty. The review was prompted by concerns that the current framework does not adequately address fraud facilitated through commercial platforms.",
+      "shopify_angle": "An expanded OSA scope that brings marketplaces under broader obligations (not just illegal content but fraud facilitation) would materially increase Shopify's UK compliance burden. Shopify's techUK relationships are the key channel for engaging with this review. The UK's OSA expansion trajectory is one to watch alongside the EU's Digital Fairness Act development.",
+      "tags": ["scope-review", "commercial-services", "fraud", "dsit"],
+      "sources": []
+    }
+  ]
+}
