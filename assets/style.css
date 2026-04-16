@@ -145,6 +145,44 @@ body {
 .pill:hover { border-color: var(--accent); color: var(--accent); }
 .pill.active { background: var(--accent); color: white; border-color: var(--accent); }
 
+/* ── Disclaimer banner ──────────────────────────────────── */
+.disclaimer-banner {
+  background: #fffbeb;
+  border-bottom: 2px solid #f59e0b;
+  padding: 14px 0;
+}
+
+.disclaimer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.disclaimer-icon {
+  font-size: 18px;
+  flex-shrink: 0;
+  line-height: 1.5;
+  color: #b45309;
+}
+
+.disclaimer-body { flex: 1; }
+
+.disclaimer-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #92400e;
+  margin-bottom: 4px;
+}
+
+.disclaimer-text {
+  font-size: 12.5px;
+  color: #78350f;
+  line-height: 1.6;
+}
+
 /* ── Main ───────────────────────────────────────────────── */
 main {
   max-width: 1200px;

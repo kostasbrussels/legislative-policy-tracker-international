@@ -6,8 +6,13 @@
       "date": "2025-11-01",
       "title": "Data (Use and Access) Act — key provisions coming into force in phases",
       "what_happened": "Following Royal Assent in May 2025, the UK government published the commencement schedule for the Data (Use and Access) Act. Key provisions entering into force: digital identity trust framework (establishing an accreditation scheme for digital ID providers); Smart Data schemes enabling rules (the 'open banking for other sectors' mechanism); and scientific research data processing reforms. Automated decision-making reforms and the reformed ICO enforcement powers are subject to separate statutory instruments.",
-      "shopify_angle": "The Smart Data scheme enabling powers are directly relevant to Shopify. The Act allows the government to mandate data sharing in commercial sectors — extending the open banking model to retail, loyalty, and insurance data. If Smart Data schemes are extended to e-commerce transaction data, it could affect how Shopify merchants' customer data is shared with competing services at the consumer's request.",
-      "tags": ["commencement", "smart-data", "digital-identity", "automated-decisions"],
+      "shopify_angle": "The Smart Data scheme enabling powers are worth watching for Shopify. The Act allows the government to mandate data sharing in commercial sectors — extending the open banking model to retail, loyalty, and insurance data. If Smart Data schemes are extended to e-commerce transaction data, it could affect how Shopify merchants' customer data is shared with competing services at the consumer's request.",
+      "tags": [
+        "commencement",
+        "smart-data",
+        "digital-identity",
+        "automated-decisions"
+      ],
       "sources": []
     },
     {
@@ -15,15 +20,27 @@
       "title": "Data (Use and Access) Act receives Royal Assent",
       "what_happened": "The UK Data (Use and Access) Act received Royal Assent on 8 May 2025. The Act replaces the failed Data Protection and Digital Information (DPDI) Bill abandoned before the 2024 general election. Key measures: reforms to UK GDPR's legitimate interests basis (new 'recognised legitimate interests' list); Smart Data schemes giving government powers to mandate cross-sector data sharing; digital identity trust framework; scientific research exemptions; and updated ICO enforcement and governance powers. The UK's post-Brexit data protection framework is now substantively diverging from EU GDPR.",
       "shopify_angle": "UK GDPR divergence from EU GDPR creates a dual-compliance obligation for Shopify. Shopify processes data for UK merchants and their customers under UK GDPR (post-Brexit), and EU merchants under EU GDPR. As the two regimes diverge further, Shopify's data processing architecture may need to accommodate different legal bases, different rights, and different enforcement standards for UK and EU data subjects.",
-      "tags": ["royal-assent", "milestone", "uk-gdpr", "divergence", "smart-data"],
+      "tags": [
+        "royal-assent",
+        "milestone",
+        "uk-gdpr",
+        "divergence",
+        "smart-data"
+      ],
       "sources": []
     },
     {
       "date": "2024-10-23",
       "title": "Data (Use and Access) Bill introduced — post-DPDI reboot under Starmer government",
       "what_happened": "The new Labour government introduced the Data (Use and Access) Bill, a revised version of the previous DPDI Bill that had been dropped before the July 2024 general election. The new Bill retained the core Smart Data and digital identity provisions but reframed some data protection reforms — particularly around automated decision-making — to stay closer to EU GDPR and protect the UK's EU adequacy decision. The Bill dropped the DPDI's most controversial proposed changes to the ICO's governance structure.",
-      "shopify_angle": "The new government's decision to stay closer to EU GDPR standards — rather than maximally diverge — reduces the risk of the UK losing its EU adequacy decision. Shopify's UK-EU data transfers currently rely on the UK adequacy decision. If the UK were to lose adequacy, Shopify would need to put in place SCCs or BCRs for UK-EU transfers, adding compliance complexity.",
-      "tags": ["introduction", "starmer", "adequacy", "gdpr-alignment", "automated-decisions"],
+      "shopify_angle": "The new government's decision to stay closer to EU GDPR standards — rather than maximally diverge — reduces the risk of the UK losing its EU adequacy decision. Shopify's UK-EU data transfers currently rely on the UK adequacy decision. If the UK were to lose adequacy, this could signal that Shopify would need to consider put in place SCCs or BCRs for UK-EU transfers, adding compliance complexity.",
+      "tags": [
+        "introduction",
+        "starmer",
+        "adequacy",
+        "gdpr-alignment",
+        "automated-decisions"
+      ],
       "sources": []
     },
     {
@@ -31,7 +48,13 @@
       "title": "DPDI Bill abandoned — pre-election dissolution kills previous legislation",
       "what_happened": "The previous Data Protection and Digital Information (DPDI) Bill — introduced by Rishi Sunak's government in March 2023 — was abandoned as Parliament was dissolved for the July 2024 general election. The Bill had proposed significant divergence from EU GDPR, including: a new 'legitimate interests' list eliminating the balancing test; reduced subject access request timelines for businesses; changes to the ICO's independence; and a new approach to cookie consent. The Bill was controversial with privacy advocates but supported by industry.",
       "shopify_angle": "The DPDI Bill's abandonment meant a reset to UK GDPR baseline. For Shopify, the most impactful abandoned proposal was the reduced SAR compliance burden and the expanded legitimate interests provisions — both of which would have reduced operational compliance overhead for Shopify's UK operations. These provisions reappeared in modified form in the Data (Use and Access) Bill.",
-      "tags": ["dpdi", "abandoned", "dissolution", "election", "uk-gdpr"],
+      "tags": [
+        "dpdi",
+        "abandoned",
+        "dissolution",
+        "election",
+        "uk-gdpr"
+      ],
       "sources": []
     },
     {
@@ -39,15 +62,27 @@
       "title": "ICO publishes updated UK international transfer guidance — UK IDTA in force",
       "what_happened": "The UK Information Commissioner's Office updated its guidance on international data transfers, following the UK International Data Transfer Agreement (IDTA) and addendum to EU SCCs entering into force. The UK IDTA is the UK-specific replacement for EU Standard Contractual Clauses for transfers out of the UK. UK businesses exporting personal data (including to EU controllers) must use UK IDTA or the addendum, not EU SCCs.",
       "shopify_angle": "Shopify's data transfers between its UK and EU entities — and from UK to its Canadian and US parent entities — require UK IDTA or the SCCs addendum in addition to EU GDPR transfer mechanisms. The separate UK and EU transfer frameworks create additional documentation and review overhead for Shopify's legal and privacy teams.",
-      "tags": ["idta", "international-transfers", "ico", "uk-gdpr", "scc"],
+      "tags": [
+        "idta",
+        "international-transfers",
+        "ico",
+        "uk-gdpr",
+        "scc"
+      ],
       "sources": []
     },
     {
       "date": "2023-02-28",
       "title": "EU grants UK adequacy decision — extended for four years",
       "what_happened": "The European Commission adopted an adequacy decision for the UK under GDPR Article 45, confirming that the UK provides an equivalent level of data protection to the EU. The UK adequacy decision enables personal data to flow from the EU to the UK without additional safeguards. The decision is subject to review every four years and can be revoked if the UK's data protection framework materially diverges from EU standards.",
-      "shopify_angle": "The UK adequacy decision is foundational to Shopify's UK-EU data architecture. Shopify's Irish entity (EU data controller) transfers data to Shopify's UK operations under adequacy — no SCCs required. If the UK loses adequacy following post-DPDI/DUA reforms, Shopify would need to establish UK IDTA-based transfer frameworks for UK-Ireland data flows.",
-      "tags": ["adequacy", "eu-uk", "gdpr", "data-flows", "milestone"],
+      "shopify_angle": "The UK adequacy decision is foundational to Shopify's UK-EU data architecture. Shopify's Irish entity (EU data controller) transfers data to Shopify's UK operations under adequacy — no SCCs required. If the UK loses adequacy following post-DPDI/DUA reforms, Shopify would may need to consider establishing UK IDTA-based transfer frameworks for UK-Ireland data flows.",
+      "tags": [
+        "adequacy",
+        "eu-uk",
+        "gdpr",
+        "data-flows",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -55,7 +90,13 @@
       "title": "UK GDPR and Data Protection Act 2018 — post-Brexit framework confirmed",
       "what_happened": "Following Brexit, the UK's data protection framework is governed by the UK GDPR (a retained EU law version of GDPR) and the Data Protection Act 2018. The UK ICO became the sole national supervisory authority — replacing the one-stop-shop mechanism. UK data protection rules are substantively identical to EU GDPR at this stage, enabling the adequacy pathway. The UK government published its National Data Strategy, signalling intent to use post-Brexit freedoms to reform data rules.",
       "shopify_angle": "Brexit created a dual-track data protection obligation for Shopify: EU GDPR for EU merchants and their customers (Irish DPC as lead authority), and UK GDPR for UK merchants and their customers (ICO as sole authority). Shopify's UK operations require a separate legal basis and compliance framework from its EU operations — effectively doubling the privacy compliance overhead for the UK market.",
-      "tags": ["uk-gdpr", "post-brexit", "ico", "data-protection-act", "milestone"],
+      "tags": [
+        "uk-gdpr",
+        "post-brexit",
+        "ico",
+        "data-protection-act",
+        "milestone"
+      ],
       "sources": []
     }
   ]

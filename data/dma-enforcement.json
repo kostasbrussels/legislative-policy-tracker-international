@@ -6,8 +6,14 @@
       "date": "2026-03-19",
       "title": "Commission confirms ongoing monitoring of Apple and Google — formal decisions expected H2 2026",
       "what_happened": "Following the March 2025 enforcement actions, the Commission confirmed it is closely monitoring Apple's compliance with the iOS interoperability specifications and preparing a formal non-compliance assessment of Google's Search and Play Store practices. Formal non-compliance decisions — which can carry fines up to 10% of global turnover — are expected in H2 2026. The Commission is also reviewing Microsoft's Bing and Edge DMA compliance.",
-      "shopify_angle": "DMA enforcement against Google Play Store steering restrictions is directly relevant to Shopify's mobile commerce apps. If the Commission's findings restrict Google's ability to impose transaction fees for in-app purchases made after initial Play Store engagement, it could reduce costs for merchants selling through Android apps built on Shopify.",
-      "tags": ["apple", "google", "non-compliance", "enforcement", "monitoring"],
+      "shopify_angle": "DMA enforcement against Google Play Store steering restrictions is worth watching for Shopify's mobile commerce apps. If the Commission's findings restrict Google's ability to impose transaction fees for in-app purchases made after initial Play Store engagement, it could reduce costs for merchants selling through Android apps built on Shopify.",
+      "tags": [
+        "apple",
+        "google",
+        "non-compliance",
+        "enforcement",
+        "monitoring"
+      ],
       "sources": []
     },
     {
@@ -15,15 +21,27 @@
       "title": "Commission issues first DMA enforcement actions — Apple specifications, Google preliminary findings",
       "what_happened": "The European Commission issued its first formal enforcement actions under the DMA. For Apple: binding specifications under Article 6(7) requiring Apple to open nine iOS connectivity features to third-party devices (including NFC, peer-to-peer WiFi, device pairing, notification mirroring). For Google: preliminary non-compliance findings on self-preferencing in Search (favouring Google Shopping, Travel, Finance) and developer steering restrictions on Google Play. Apple criticised the specifications as threatening user privacy.",
       "shopify_angle": "Apple's interoperability specifications open iOS to third-party connected devices — relevant for Shopify's Point of Sale ecosystem (card readers, barcode scanners). Google's Play Store steering restrictions, if remedied, could reduce app developer fees for merchants using Shopify's Android apps.",
-      "tags": ["apple", "google", "specifications", "preliminary-findings", "milestone"],
+      "tags": [
+        "apple",
+        "google",
+        "specifications",
+        "preliminary-findings",
+        "milestone"
+      ],
       "sources": []
     },
     {
       "date": "2024-06-24",
       "title": "Commission preliminary findings against Apple App Store — iOS browser rules",
       "what_happened": "The Commission issued preliminary findings that Apple violated DMA obligations by preventing app developers from freely steering users to third-party offers (Article 5(4)) and by maintaining restrictive conditions for browsers other than Safari on iOS. Apple's implementation of browser choice and alternative app distribution was found to be technically compliant but practically ineffective.",
-      "shopify_angle": "Browser competition on iOS directly affects Shopify's merchant experience — if alternative browsers can be set as default and compete fairly, it reduces Apple's control over how merchants and consumers interact with Shopify storefronts on mobile.",
-      "tags": ["apple", "app-store", "browser", "preliminary-findings", "ios"],
+      "shopify_angle": "Browser competition on iOS is relevant for Shopify's merchant experience — if alternative browsers can be set as default and compete fairly, it reduces Apple's control over how merchants and consumers interact with Shopify storefronts on mobile.",
+      "tags": [
+        "apple",
+        "app-store",
+        "browser",
+        "preliminary-findings",
+        "ios"
+      ],
       "sources": []
     },
     {
@@ -31,7 +49,14 @@
       "title": "Commission opens investigation into Microsoft tied conduct — Bing, Edge, and Teams",
       "what_happened": "The Commission opened a formal DMA investigation into Microsoft's conduct relating to the tying of Bing (Search), Edge (Browser), and Teams (Messaging) to Windows. The investigation focuses on whether Microsoft uses its gatekeeper status in Windows to artificially entrench its other services rather than competing on merit.",
       "shopify_angle": "Microsoft's B2B dominance in enterprise software means Shopify's enterprise merchant integrations often run through Microsoft Azure and 365 infrastructure. DMA remedies on Microsoft's tying practices could open the enterprise environment to more competitive alternatives for merchants.",
-      "tags": ["microsoft", "bing", "edge", "teams", "tying", "investigation"],
+      "tags": [
+        "microsoft",
+        "bing",
+        "edge",
+        "teams",
+        "tying",
+        "investigation"
+      ],
       "sources": []
     },
     {
@@ -39,7 +64,13 @@
       "title": "Apple opens App Store to sideloading in EU — Core Technology Fee challenged",
       "what_happened": "Apple enabled alternative app marketplaces and sideloading on iOS in the EU for the first time, as required under DMA. Apple introduced a 'Core Technology Fee' of €0.50 per install above 1m downloads — a new fee structure that drew immediate criticism from app developers and the Commission as a potential violation of the spirit of DMA obligations.",
       "shopify_angle": "Apple's Core Technology Fee creates a new cost for Shopify's iOS app at scale. If the fee is determined to be a DMA circumvention, it could be remedied. In the short term, Shopify's merchant-facing iOS apps need to factor in this cost model for the EU market.",
-      "tags": ["apple", "sideloading", "core-technology-fee", "compliance", "app-store"],
+      "tags": [
+        "apple",
+        "sideloading",
+        "core-technology-fee",
+        "compliance",
+        "app-store"
+      ],
       "sources": []
     },
     {
@@ -47,7 +78,13 @@
       "title": "Commission opens non-compliance proceedings against Apple (iOS, App Store, Safari) and Meta",
       "what_happened": "The Commission opened formal non-compliance proceedings against Apple for its App Store interoperability measures, iOS sideloading rules, and Safari browser choice screen implementation. Separately, Meta was targeted for its 'pay or consent' advertising model on Facebook and Instagram, which the Commission believes constitutes a violation of DMA obligations requiring genuine user choice about data use.",
       "shopify_angle": "Apple's App Store restrictions directly affect Shopify's mobile merchant tools and the Shopify App Store ecosystem. If Apple's mandatory third-party payment processing requirements are remedied, it would reduce fees for Shopify merchants selling digital goods through iOS apps. Meta's 'pay or consent' case may affect Shopify's merchant ad integrations if the model is ultimately prohibited.",
-      "tags": ["apple", "meta", "app-store", "sideloading", "non-compliance"],
+      "tags": [
+        "apple",
+        "meta",
+        "app-store",
+        "sideloading",
+        "non-compliance"
+      ],
       "sources": []
     },
     {
@@ -55,7 +92,12 @@
       "title": "Commission opens investigation into Apple's compliance with interoperability obligations",
       "what_happened": "The Commission opened its first investigation under DMA Article 6(7) to examine Apple's process for handling interoperability requests from third-party developers and hardware manufacturers. Multiple companies had complained that Apple's process was opaque, slow, and imposed unreasonable conditions.",
       "shopify_angle": "Shopify's POS hardware ecosystem (card readers, barcode scanners, receipt printers) depends on robust iOS interoperability. Apple's opaque API access process has historically created friction for hardware partners that build Shopify-compatible devices — a Commission remedy here directly benefits Shopify's physical retail product.",
-      "tags": ["apple", "interoperability", "investigation", "article-67"],
+      "tags": [
+        "apple",
+        "interoperability",
+        "investigation",
+        "article-67"
+      ],
       "sources": []
     }
   ]

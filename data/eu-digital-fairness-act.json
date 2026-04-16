@@ -6,8 +6,13 @@
       "date": "2026-02-28",
       "title": "Consumer Agenda 2030 published — political framework for Digital Fairness Act",
       "what_happened": "The European Commission published the Consumer Agenda 2030 — a non-binding political roadmap for EU consumer policy to 2030. The Agenda explicitly identifies the Digital Fairness Act as a priority initiative for 2026, confirming its expected Q4 2026 proposal date. Key anticipated elements: mandatory single-click subscription cancellation; prohibition of dark patterns in checkout and consent flows; rules on influencer marketing and paid endorsements; and restrictions on algorithmic price personalisation.",
-      "shopify_angle": "Dark patterns in checkout flows and subscription cancellation are directly relevant to Shopify's merchant tooling. Shopify's checkout is used by millions of merchants globally — any EU rule mandating specific cancellation or checkout UX patterns would need to be reflected in Shopify's default checkout configuration for EU merchants. The influencer marketing provisions may affect Shopify Collabs (influencer commerce product).",
-      "tags": ["consumer-agenda-2030", "political-framework", "dark-patterns", "subscription-cancellation"],
+      "shopify_angle": "Dark patterns in checkout flows and subscription cancellation are worth watching for Shopify's merchant tooling. Shopify's checkout is used by millions of merchants globally — any EU rule mandating specific cancellation or checkout UX patterns would need to be reflected in Shopify's default checkout configuration for EU merchants. The influencer marketing provisions may affect Shopify Collabs (influencer commerce product).",
+      "tags": [
+        "consumer-agenda-2030",
+        "political-framework",
+        "dark-patterns",
+        "subscription-cancellation"
+      ],
       "sources": []
     },
     {
@@ -15,7 +20,12 @@
       "title": "Digital Fairness Act included in Commission Work Programme 2026 — Q4 proposal",
       "what_happened": "The European Commission's Work Programme 2026 confirmed the Digital Fairness Act as a planned proposal for Q4 2026. The accompanying annex described the DFA as targeting: unfair commercial practices in online markets not adequately addressed by the existing Unfair Commercial Practices Directive; dark patterns; subscription economy consumer protection; and transparency in algorithmic pricing. A public consultation is expected to open in Q1-Q2 2026.",
       "shopify_angle": "The Digital Fairness Act will update the rules that govern how Shopify merchants present prices, offers, and terms to EU consumers. The algorithmic pricing transparency provision — requiring disclosure when prices are personalised to individual consumers — would affect Shopify merchants using dynamic pricing apps, and potentially Shopify's own pricing features.",
-      "tags": ["work-programme", "q4-2026", "algorithmic-pricing", "confirmed"],
+      "tags": [
+        "work-programme",
+        "q4-2026",
+        "algorithmic-pricing",
+        "confirmed"
+      ],
       "sources": []
     },
     {
@@ -23,7 +33,13 @@
       "title": "Commission study on dark patterns and digital fairness — evidence base for DFA",
       "what_happened": "The European Commission published a study on dark patterns in online consumer interfaces, finding that over 75% of websites tested used at least one dark pattern, and 27% used three or more. The study covered: interface design patterns that create urgency (countdown timers, false scarcity), obstruction patterns (hidden unsubscribe options, complex cancellation flows), and nagging patterns (repeated consent prompts). The study explicitly informed the planned Digital Fairness Act.",
       "shopify_angle": "The Commission study tested e-commerce checkout flows — directly affecting Shopify merchants. Countdown timers, urgency messaging ('only 2 left in stock' if not accurate), and difficult cancellation are used widely by Shopify App Store apps. The DFA proposal will likely restrict several patterns that are currently common in Shopify merchant stores.",
-      "tags": ["dark-patterns", "study", "checkout", "evidence-base", "urgency-tactics"],
+      "tags": [
+        "dark-patterns",
+        "study",
+        "checkout",
+        "evidence-base",
+        "urgency-tactics"
+      ],
       "sources": []
     },
     {
@@ -31,7 +47,12 @@
       "title": "Commission consultation on influencer marketing and digital commercial practices",
       "what_happened": "The European Commission launched a public consultation on digital fairness in commercial practices, covering: influencer marketing and paid endorsements (disclosure requirements); subscription economy practices (cancellation, auto-renewal, dark patterns); algorithmic price personalisation (individual consumer profiling for pricing); and loyalty programmes. The consultation gathered evidence ahead of the Digital Fairness Act proposal.",
       "shopify_angle": "The consultation's influencer marketing provisions are relevant for Shopify Collabs — Shopify's influencer commerce product that connects merchants with content creators. Any EU rule mandating explicit disclosure of commercial relationships in influencer content would need to be reflected in how Shopify Collabs structures affiliate and sponsorship arrangements.",
-      "tags": ["consultation", "influencer-marketing", "subscription", "algorithmic-pricing"],
+      "tags": [
+        "consultation",
+        "influencer-marketing",
+        "subscription",
+        "algorithmic-pricing"
+      ],
       "sources": []
     },
     {
@@ -39,7 +60,13 @@
       "title": "Commission publishes REFIT evaluation of Unfair Commercial Practices Directive — digital gaps identified",
       "what_happened": "The European Commission published its REFIT evaluation of the Unfair Commercial Practices Directive (UCPD) assessing its fitness for the digital economy. Key findings: the UCPD does not adequately address dark patterns in digital interfaces; algorithmic price personalisation is not covered; influencer marketing disclosure is inconsistently enforced; and online reviews manipulation is an emerging problem not well-captured by existing rules. The evaluation explicitly recommended targeted new legislation.",
       "shopify_angle": "The REFIT evaluation confirmed that existing EU consumer protection rules — which Shopify merchants must comply with — have significant digital gaps. The gaps identified (dark patterns, algorithmic pricing, fake reviews) are all relevant to practices used on Shopify-powered storefronts. The forthcoming Digital Fairness Act will address these gaps, requiring changes to how Shopify merchants configure their stores.",
-      "tags": ["refit", "ucpd", "dark-patterns", "influencer", "reviews"],
+      "tags": [
+        "refit",
+        "ucpd",
+        "dark-patterns",
+        "influencer",
+        "reviews"
+      ],
       "sources": []
     },
     {
@@ -47,7 +74,13 @@
       "title": "Omnibus Directive becomes applicable — price display rules and review verification",
       "what_happened": "The Omnibus Directive (EU 2019/2161 — modernising consumer protection for the digital age) became fully applicable on 28 May 2022. Key new obligations: mandatory display of the lowest price in the prior 30 days before a promotional discount; prohibition on paid fake reviews; transparency obligations for online marketplaces on how search results are ranked; and enhanced consumer rights for free digital services. National implementing legislation was required across all 27 member states.",
       "shopify_angle": "The Omnibus Directive's price display rule — requiring disclosure of the 30-day lowest price before a sale — directly affects how Shopify merchants run promotions and discounts in the EU. Shopify's discount and sales tools need to surface the 30-day baseline price to comply. The review transparency obligations affect Shopify merchants using third-party review apps, who must verify the reviews are from genuine purchasers.",
-      "tags": ["omnibus-directive", "price-display", "fake-reviews", "in-force", "milestone"],
+      "tags": [
+        "omnibus-directive",
+        "price-display",
+        "fake-reviews",
+        "in-force",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -55,15 +88,26 @@
       "title": "Omnibus Directive adopted — first modernisation of EU consumer law for digital markets",
       "what_happened": "The EU adopted the Modernisation Directive (2019/2161), commonly known as the 'Omnibus Directive', updating four major consumer directives: the Consumer Rights Directive, Unfair Commercial Practices Directive, Unfair Contract Terms Directive, and the Price Indication Directive. The Omnibus Directive introduced: rules on digital services provided in exchange for data (not just money); transparency obligations for online marketplaces; and enhanced enforcement powers and fines up to 4% of turnover.",
       "shopify_angle": "The Omnibus Directive's 4% turnover fine structure — mirroring GDPR — signals the Commission's intent to enforce consumer protection rules with the same severity as data protection. For Shopify, the transparency obligations for online marketplaces (ranking parameters, whether sellers are professional or private) introduced new disclosure requirements for Shopify's marketplace features.",
-      "tags": ["omnibus-directive", "consumer-rights", "marketplace-transparency", "milestone"],
+      "tags": [
+        "omnibus-directive",
+        "consumer-rights",
+        "marketplace-transparency",
+        "milestone"
+      ],
       "sources": []
     },
     {
       "date": "2027-01-01",
       "title": "Digital Fairness Act expected to apply — estimated implementation date",
       "what_happened": "Based on the Commission's Q4 2026 proposal timeline and a standard EU legislative cycle of 18-24 months, the Digital Fairness Act is expected to apply no earlier than 2028-2029. Scope of expected obligations: prohibition of dark patterns in checkout and subscription flows; mandatory single-click cancellation for subscription services; disclosure requirements for algorithmic price personalisation; and influencer marketing transparency rules applicable across EU-facing digital services.",
-      "shopify_angle": "The Digital Fairness Act will require Shopify to update its default checkout configuration, subscription management tools, and App Store guidelines for EU merchants. The most operationally significant provision is likely the mandatory subscription cancellation mechanism — Shopify's subscription and recurring billing products (Shopify Subscriptions) will need to offer a compliant single-click cancellation path for EU consumers.",
-      "tags": ["implementation", "projected", "subscription-cancellation", "checkout", "influencer"],
+      "shopify_angle": "The Digital Fairness Act may raise questions for Shopify about whether to update its default checkout configuration, subscription management tools, and App Store guidelines for EU merchants. The most operationally significant provision is likely the mandatory subscription cancellation mechanism — Shopify's subscription and recurring billing products (Shopify Subscriptions) will need to offer a compliant single-click cancellation path for EU consumers.",
+      "tags": [
+        "implementation",
+        "projected",
+        "subscription-cancellation",
+        "checkout",
+        "influencer"
+      ],
       "sources": []
     }
   ]

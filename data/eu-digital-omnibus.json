@@ -6,8 +6,15 @@
       "date": "2026-03-24",
       "title": "EP committees contesting competence division — Omnibus timeline fluid",
       "what_happened": "European Parliament committees are still contesting competence division over the Digital Omnibus. The fight between IMCO (lead on digital market rules), LIBE (data protection), and ITRE (technology and industry) will determine the shape and pace of the entire package — including DSA/DMA simplification and GDPR amendments. The competence allocation determines which committee's rapporteur leads the file and which opinions carry weight.",
-      "shopify_angle": "The competence outcome will directly affect how the Omnibus provisions on DSA proportionality, cookie reform, and AI legitimate interest are handled. If LIBE leads on data protection provisions, the bar for simplification will be higher. If ITRE prevails, industry simplification arguments are more likely to be heard in the rapporteur's report.",
-      "tags": ["parliament", "competence", "timeline", "itre", "libe", "imco"],
+      "shopify_angle": "The competence outcome may be relevant for how the Omnibus provisions on DSA proportionality, cookie reform, and AI legitimate interest are handled. If LIBE leads on data protection provisions, the bar for simplification will be higher. If ITRE prevails, industry simplification arguments are more likely to be heard in the rapporteur's report.",
+      "tags": [
+        "parliament",
+        "competence",
+        "timeline",
+        "itre",
+        "libe",
+        "imco"
+      ],
       "sources": []
     },
     {
@@ -15,7 +22,13 @@
       "title": "European Parliament ITRE appoints Aura Salla (EPP, Finland) as Digital Omnibus rapporteur",
       "what_happened": "The European Parliament's ITRE committee appointed MEP Aura Salla (European People's Party, Finland) as rapporteur for the Digital Omnibus. Salla is a former Meta EU affairs director with direct experience of the compliance obligations the Omnibus seeks to simplify. Growing consensus in ITRE on delaying the most burdensome AI requirements, though there is risk of unrelated provisions being attached to the file during committee deliberations.",
       "shopify_angle": "Salla's appointment is significant because the rapporteur sets the direction of the Parliament's report. Her tech policy background means the ITRE report is likely to take practical compliance burden seriously. The risk is that the file becomes a vehicle for broader demands as other committees seek to add provisions.",
-      "tags": ["parliament", "itre", "rapporteur", "salla", "epp"],
+      "tags": [
+        "parliament",
+        "itre",
+        "rapporteur",
+        "salla",
+        "epp"
+      ],
       "sources": []
     },
     {
@@ -23,7 +36,12 @@
       "title": "Council fault lines harden — split file approach proposed by Netherlands and Finland",
       "what_happened": "First Member State reactions in the Council of the EU show clear political fault lines. Sweden, Portugal, Poland, and Estonia are broadly supportive of the Omnibus simplification agenda. Austria, Croatia, France, and Belgium are strongly opposed — particularly to the narrowed personal data definition, the AI legitimate interest basis, and cookie/ePrivacy changes. The Netherlands and Finland are proposing a 'split file' approach to isolate the most contentious provisions and allow faster progress on non-controversial simplifications.",
       "shopify_angle": "A split file outcome could produce faster progress on less contested provisions — DPIA streamlining, the extended breach notification deadline, ENISA single reporting point — while the cookie reform and personal data definition changes take longer. Whether the most commercially significant simplifications (AI legitimate interest, ePrivacy) survive intact will depend on whether France and Belgium's opposition can be overcome in Council.",
-      "tags": ["council", "split-file", "fault-lines", "opposition"],
+      "tags": [
+        "council",
+        "split-file",
+        "fault-lines",
+        "opposition"
+      ],
       "sources": []
     },
     {
@@ -31,7 +49,15 @@
       "title": "Commission publishes Digital Omnibus proposal — GDPR, ePrivacy, AI Act, P2B",
       "what_happened": "The European Commission published the Digital Omnibus package. Key provisions: (1) GDPR — narrowed personal data definition, AI legitimate interest basis, exemptions from information obligations for low-risk processing, raised breach notification threshold from 72 to 96 hours, EDPB to produce EU-level DPIA lists; (2) ePrivacy — Article 5(3) superseded by GDPR, analytics and security cookies can rely on legitimate interest, single-click consent/rejection mandated; (3) AI Act — centralise high-risk enforcement in AI Office; (4) Repeal of Platform-to-Business (P2B) Regulation; (5) ENISA single-entry point for incident reporting across GDPR, NIS2, and DORA.",
       "shopify_angle": "The AI legitimate interest basis removes ambiguity about the lawful basis for developing AI features using merchant and consumer interaction data. The ePrivacy simplification directly reduces cookie compliance burden for merchants running EU storefronts. P2B repeal removes a duplicative layer that overlapped with the DSA. The 96-hour breach notification window reduces the risk of non-compliance when incidents span multiple national DPA timelines.",
-      "tags": ["proposal", "commission", "milestone", "gdpr", "eprivacy", "ai-act", "p2b"],
+      "tags": [
+        "proposal",
+        "commission",
+        "milestone",
+        "gdpr",
+        "eprivacy",
+        "ai-act",
+        "p2b"
+      ],
       "sources": []
     },
     {
@@ -39,7 +65,13 @@
       "title": "Denmark circulates non-paper on GDPR and ePrivacy simplification ahead of Omnibus proposal",
       "what_happened": "The Danish government (incoming Council Presidency) circulated an informal non-paper proposing to simplify EU data protection rules: no consent requirement for technical and statistical cookies; consent only for marketing, profiling, and third-party tracking; minimum thresholds for data access rights; batched breach notifications for minor incidents; DPIA relief for SMEs. The paper has no legal status but signals political appetite for simplification among at least some Member States.",
       "shopify_angle": "The Danish non-paper outlined positions that substantially aligned with what the Commission would propose in November 2025. Its circulation confirmed that cookie analytics exemption and SME compliance relief were politically viable asks, not just industry wishlist items.",
-      "tags": ["denmark", "non-paper", "cookies", "simplification", "pre-omnibus"],
+      "tags": [
+        "denmark",
+        "non-paper",
+        "cookies",
+        "simplification",
+        "pre-omnibus"
+      ],
       "sources": []
     },
     {
@@ -47,7 +79,11 @@
       "title": "Commission pre-proposal consultation on Digital Omnibus opens",
       "what_happened": "The European Commission opened a pre-proposal consultation on the Digital Omnibus simplification package, inviting industry, civil society, member states, and other stakeholders to submit views. The consultation covered proposed changes to GDPR, ePrivacy, AI Act, Data Act, and P2B Regulation. Industry associations and digital economy stakeholders submitted positions across all the covered texts.",
       "shopify_angle": "The consultation is the primary formal input mechanism for the Omnibus before the proposal is published. Shopify's key asks for the consultation: exclude SaaS platforms from 'data processing services' obligations under the Data Act, remove payment terminals from 'connected product' scope, streamline GDPR documentation requirements for SME merchants, and simplify cookie consent.",
-      "tags": ["consultation", "pre-proposal", "stakeholders"],
+      "tags": [
+        "consultation",
+        "pre-proposal",
+        "stakeholders"
+      ],
       "sources": []
     },
     {
@@ -55,7 +91,12 @@
       "title": "Draghi competitiveness report identifies digital regulatory overlap as barrier to EU growth",
       "what_happened": "Mario Draghi's landmark report on EU competitiveness recommended significant simplification of EU digital regulation as a condition for restoring European tech competitiveness. The report specifically identified overlapping compliance obligations across GDPR, ePrivacy, AI Act, NIS2, and DORA as a structural barrier to digital investment and SME growth.",
       "shopify_angle": "The Draghi report provided the political mandate for the Digital Omnibus. It reframed digital regulatory simplification from an industry preference into a mainstream economic policy priority — making it easier to advance simplification arguments in Commission and Council discussions.",
-      "tags": ["draghi", "competitiveness", "simplification", "political-mandate"],
+      "tags": [
+        "draghi",
+        "competitiveness",
+        "simplification",
+        "political-mandate"
+      ],
       "sources": []
     },
     {
@@ -63,7 +104,12 @@
       "title": "Von der Leyen II Commission mandate includes 25% SME burden reduction — Omnibus in scope",
       "what_happened": "The new European Commission published its political guidelines committing to a 25% reduction in administrative burdens on SMEs and identifying digital regulation simplification as a priority. Executive VP Henna Virkkunen (Tech Sovereignty) and Commissioner Michael McGrath (Democracy, Justice, and Rule of Law) were tasked with developing the Digital Omnibus.",
       "shopify_angle": "The 25% burden reduction commitment created a clear political target for the Omnibus. Any simplification framed around merchant and SME compliance costs — cookie consent, DPIA requirements, breach notification timelines — fits directly within the Commission's stated mandate.",
-      "tags": ["commission", "von-der-leyen", "simplification-mandate", "virkkunen"],
+      "tags": [
+        "commission",
+        "von-der-leyen",
+        "simplification-mandate",
+        "virkkunen"
+      ],
       "sources": []
     }
   ]

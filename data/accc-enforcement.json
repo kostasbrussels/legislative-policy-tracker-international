@@ -6,48 +6,84 @@
       "date": "2026-03-01",
       "title": "ACCC digital platforms enforcement priorities 2026 — dark patterns and subscription traps",
       "what_happened": "The ACCC published its digital platform enforcement priorities for 2026, identifying: dark patterns in subscription sign-up and cancellation flows; misleading pricing practices (drip pricing, false scarcity messaging); fake or incentivised reviews; and 'ghost stores' (websites that appear to offer products but collect payments without delivering). The ACCC noted that enforcement against ghost stores and subscription traps had accelerated significantly following the 2023 strengthening of unfair contract terms penalties.",
-      "shopify_angle": "ACCC enforcement against dark patterns, subscription traps, and fake reviews applies to Shopify merchants operating in Australia. ACCC investigation of ghost stores — which frequently operate via Shopify-hosted storefronts — creates pressure for Shopify to have robust merchant verification and consumer complaint mechanisms for Australian sales. The ACCC has previously engaged with platform providers on trust and safety obligations.",
-      "tags": ["accc", "enforcement-priorities", "dark-patterns", "ghost-stores", "subscriptions"],
+      "shopify_angle": "ACCC enforcement against dark patterns, subscription traps, and fake reviews applies to Shopify merchants operating in Australia. ACCC investigation of ghost stores — which frequently operate via Shopify-hosted storefronts — signals potential policy attention on Shopify regarding have robust merchant verification and consumer complaint mechanisms for Australian sales. The ACCC has previously engaged with platform providers on trust and safety obligations.",
+      "tags": [
+        "accc",
+        "enforcement-priorities",
+        "dark-patterns",
+        "ghost-stores",
+        "subscriptions"
+      ],
       "sources": []
     },
     {
       "date": "2025-06-15",
       "title": "ACCC action against subscription and recurring charge dark patterns",
       "what_happened": "The ACCC commenced proceedings against multiple online retailers for subscription dark patterns: pre-ticked boxes for recurring charges, unclear auto-renewal disclosures, and cancellation flows designed to prevent consumers from exercising their rights. The ACCC relied on the Australian Consumer Law's misleading or deceptive conduct provisions and the strengthened unfair contract terms regime. Penalties sought ranged from AUD 500,000 to AUD 50 million per respondent.",
-      "shopify_angle": "ACCC subscription enforcement directly affects Shopify merchants running subscription businesses in Australia. Shopify's Subscriptions product and third-party subscription apps in the App Store need to support ACL-compliant cancellation flows and auto-renewal disclosures. The penalty scale — up to AUD 50 million — makes non-compliance a material risk for larger Shopify merchants.",
-      "tags": ["accc", "subscriptions", "auto-renewal", "proceedings", "penalties"],
+      "shopify_angle": "ACCC subscription enforcement is relevant for Shopify merchants running subscription businesses in Australia. Shopify's Subscriptions product and third-party subscription apps in the App Store need to support ACL-compliant cancellation flows and auto-renewal disclosures. The penalty scale — up to AUD 50 million — makes non-compliance a material risk for larger Shopify merchants.",
+      "tags": [
+        "accc",
+        "subscriptions",
+        "auto-renewal",
+        "proceedings",
+        "penalties"
+      ],
       "sources": []
     },
     {
       "date": "2024-11-01",
       "title": "ACCC ghost store crackdown — Operation Ghost targets fake e-commerce sites",
       "what_happened": "The ACCC launched Operation Ghost, a coordinated campaign targeting fake online stores that collect payments without intending to deliver goods. The ACCC identified over 600 websites in operation, many hosted on international platforms, using professional Shopify-style storefronts, stolen brand imagery, and artificially discounted luxury goods to defraud Australian consumers. The ACCC sought cooperation from domain registrars, hosting providers, and payment processors to identify and shut down operators.",
-      "shopify_angle": "Operation Ghost's findings — that many ghost stores use professional e-commerce platforms including Shopify — creates pressure for Shopify to improve merchant verification for Australian-facing stores. The ACCC's engagement with payment processors (Visa, Mastercard, PayPal) to flag suspicious merchants is the primary mechanism for disrupting ghost stores — underscoring the importance of Shopify's own trust and safety screening.",
-      "tags": ["ghost-stores", "accc", "operation-ghost", "fraud", "merchant-verification"],
+      "shopify_angle": "Operation Ghost's findings — that many ghost stores use professional e-commerce platforms including Shopify — signals potential policy attention on Shopify regarding improve merchant verification for Australian-facing stores. The ACCC's engagement with payment processors (Visa, Mastercard, PayPal) to flag suspicious merchants is the primary mechanism for disrupting ghost stores — underscoring the importance of Shopify's own trust and safety screening.",
+      "tags": [
+        "ghost-stores",
+        "accc",
+        "operation-ghost",
+        "fraud",
+        "merchant-verification"
+      ],
       "sources": []
     },
     {
       "date": "2024-07-09",
       "title": "ACCC Digital Platform Services Inquiry final report — algorithmic harms and platform liability",
       "what_happened": "The ACCC published the final report of its five-year Digital Platform Services Inquiry, making recommendations for: a mandatory service-specific code regime for large digital platforms (similar to the UK DMCC SMS approach); an ombudsman scheme for small business complaints against platforms; algorithmic transparency obligations; and strengthened merger clearance for digital acquisitions. The government's response is pending, with some recommendations requiring legislation.",
-      "shopify_angle": "The ACCC's recommendation for a small business complaints ombudsman for digital platforms is directly relevant to Shopify merchants. If implemented, Australian merchants experiencing arbitrary account suspension, fee disputes, or policy changes with Shopify would have a formal escalation pathway. The algorithmic transparency obligations would apply to how Shopify's algorithms affect merchant visibility.",
-      "tags": ["accc", "digital-platforms-inquiry", "final-report", "ombudsman", "algorithmic-transparency"],
+      "shopify_angle": "The ACCC's recommendation for a small business complaints ombudsman for digital platforms is worth watching for Shopify merchants. If implemented, Australian merchants experiencing arbitrary account suspension, fee disputes, or policy changes with Shopify would have a formal escalation pathway. The algorithmic transparency obligations would apply to how Shopify's algorithms affect merchant visibility.",
+      "tags": [
+        "accc",
+        "digital-platforms-inquiry",
+        "final-report",
+        "ombudsman",
+        "algorithmic-transparency"
+      ],
       "sources": []
     },
     {
       "date": "2024-01-01",
       "title": "Strengthened unfair contract terms regime — penalties up to AUD 50 million",
       "what_happened": "The Treasury Laws Amendment (More Competition, Better Prices) Act 2022 introduced substantially higher penalties for unfair contract terms from 9 November 2023, and extended the regime's application. Unfair terms in consumer and small business contracts are now voidable with penalties up to the greater of: AUD 50 million, three times the value of the benefit obtained, or 30% of adjusted turnover. The ACCC confirmed it would use the strengthened powers actively in 2024.",
-      "shopify_angle": "Shopify's merchant terms of service and the standard terms embedded in Shopify's payment processing and shipping agreements are subject to Australia's unfair contract terms regime. The AUD 50 million penalty ceiling significantly raises the stakes for terms that limit Shopify's liability, permit unilateral contract changes without notice, or impose disproportionate obligations on merchants. Shopify's legal team needs to ensure AU-specific terms are reviewed against the UCT regime.",
-      "tags": ["unfair-contract-terms", "penalties", "aud-50m", "acl", "milestone"],
+      "shopify_angle": "Shopify's merchant terms of service and the standard terms embedded in Shopify's payment processing and shipping agreements are subject to Australia's unfair contract terms regime. The AUD 50 million penalty ceiling significantly raises the stakes for terms that limit Shopify's liability, permit unilateral contract changes without notice, or impose disproportionate obligations on merchants. Worth watching whether Shopify will may need to consider ensureing AU-specific terms are reviewed against the UCT regime.",
+      "tags": [
+        "unfair-contract-terms",
+        "penalties",
+        "aud-50m",
+        "acl",
+        "milestone"
+      ],
       "sources": []
     },
     {
       "date": "2023-08-01",
       "title": "ACCC scam website sweep — online marketplace platforms targeted",
       "what_happened": "The ACCC launched a coordinated sweep of scam websites targeting Australian consumers, focusing on marketplaces and social commerce platforms. The sweep identified: fake brand stores using legitimate e-commerce platforms; investment scams using e-commerce checkout flows; and fraudulent liquidation sales. The ACCC issued guidance to consumers on identifying fake stores and called on platforms to improve pre-listing verification and consumer complaint mechanisms.",
-      "shopify_angle": "The ACCC's identification of legitimate e-commerce platforms as hosting vectors for scam stores creates direct pressure on Shopify's trust and safety practices in Australia. The ACCC's call for improved pre-listing verification aligns with pressure from other regulators (DSA Article 31 in the EU) — Shopify's merchant verification infrastructure is increasingly a regulatory risk management tool, not just an operational one.",
-      "tags": ["accc", "scam-websites", "fake-stores", "sweep", "trust-safety"],
+      "shopify_angle": "The ACCC's identification of legitimate e-commerce platforms as hosting vectors for scam stores signals potential policy attention on Shopify's trust and safety practices in Australia. The ACCC's call for improved pre-listing verification aligns with pressure from other regulators (DSA Article 31 in the EU) — Shopify's merchant verification infrastructure is increasingly a policy monitoring tool, not just an operational one.",
+      "tags": [
+        "accc",
+        "scam-websites",
+        "fake-stores",
+        "sweep",
+        "trust-safety"
+      ],
       "sources": []
     },
     {
@@ -55,15 +91,27 @@
       "title": "ACCC action against Meta for fake cryptocurrency ads — platform liability precedent",
       "what_happened": "The ACCC commenced proceedings against Meta for allowing scam cryptocurrency advertisements on Facebook and Instagram that used the likeness of Australian public figures without their consent. The ACCC alleged Meta was liable as the publisher of the advertisements. The Federal Court case, decided in 2022-2024, tested the extent of platform liability for third-party advertising content — with implications for all platforms hosting merchant advertising.",
       "shopify_angle": "The ACCC's Meta case established that platforms hosting third-party advertising can face liability for misleading content even when it is submitted by advertisers. For Shopify merchants using Meta advertising integrations, the case reinforces the importance of accurate ad content. For Shopify itself, the case informs how Shopify's advertising tools and App Store apps are governed — platforms cannot disclaim all responsibility for the content they facilitate.",
-      "tags": ["meta", "facebook", "cryptocurrency", "accc", "platform-liability"],
+      "tags": [
+        "meta",
+        "facebook",
+        "cryptocurrency",
+        "accc",
+        "platform-liability"
+      ],
       "sources": []
     },
     {
       "date": "2021-09-16",
       "title": "ACCC Digital Platform Services Inquiry interim report — small business terms of service",
       "what_happened": "The ACCC published the third interim report of its Digital Platform Services Inquiry, examining online marketplaces. The report found that marketplace platforms (Amazon Marketplace, eBay, Catch, and others) imposed unfair terms on sellers: unilateral suspension rights without adequate explanation; wide data use rights over seller data; and restrictions on sellers contacting their own customers. The ACCC recommended mandatory industry codes for platform-seller relationships.",
-      "shopify_angle": "The ACCC's findings on marketplace platform terms — despite focusing on marketplaces like Amazon and eBay — are directly relevant to how Shopify's merchant terms of service are structured. Shopify's Merchant Agreement's provisions on account suspension, data use, and contact restrictions need to be benchmarked against the ACCC's fairness standards for Australian merchants.",
-      "tags": ["accc", "marketplace", "seller-terms", "suspension", "data-use"],
+      "shopify_angle": "The ACCC's findings on marketplace platform terms — despite focusing on marketplaces like Amazon and eBay — are relevant context for how Shopify's merchant terms of service are structured. Shopify's Merchant Agreement's provisions on account suspension, data use, and contact restrictions need to be benchmarked against the ACCC's fairness standards for Australian merchants.",
+      "tags": [
+        "accc",
+        "marketplace",
+        "seller-terms",
+        "suspension",
+        "data-use"
+      ],
       "sources": []
     },
     {
@@ -71,7 +119,13 @@
       "title": "ACCC Digital Platform Services Inquiry — scam and fraud advertising report",
       "what_happened": "The ACCC published its second interim report in the Digital Platform Services Inquiry, focusing on scam and fraudulent advertising on digital platforms. The report found Australian consumers lost AUD 175 million to online scams facilitated by digital platforms in 2019. The ACCC called for platforms to: implement stronger advertiser verification; proactively scan for known scam content; and provide more effective consumer reporting mechanisms. The report led to voluntary commitments from Google, Meta, and others.",
       "shopify_angle": "The ACCC's focus on scam advertising directly affects how Shopify App Store advertising integrations (Meta Ads, Google Ads) are governed in Australia. Merchants using Shopify's advertising tools to drive traffic need those integrations to meet Australian scam prevention standards. Shopify's role as the point-of-sale for scam-advertised products means it faces both platform liability and payment facilitation risks.",
-      "tags": ["accc", "scam", "fraud", "advertising", "digital-platforms"],
+      "tags": [
+        "accc",
+        "scam",
+        "fraud",
+        "advertising",
+        "digital-platforms"
+      ],
       "sources": []
     }
   ]

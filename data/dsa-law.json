@@ -7,7 +7,13 @@
       "title": "Commission adopts Delegated Regulation on independent audit methodology for VLOPs",
       "what_happened": "The Commission adopted a Delegated Regulation establishing the methodology and standards for independent audits of Very Large Online Platforms under DSA Article 37. The regulation specifies audit scope (systemic risk assessment, mitigation measures, transparency reporting accuracy), auditor independence requirements, and the timeline for annual audit cycles.",
       "shopify_angle": "Shopify is not subject to Article 37 audits (below VLOP threshold). However, the audit methodology sets the benchmark for what 'adequate' systemic risk assessment looks like — relevant context as the Commission's enforcement posture evolves and non-VLOP marketplace expectations are shaped by VLOP standards.",
-      "tags": ["vlop", "audit", "delegated-regulation", "article-37", "secondary-legislation"],
+      "tags": [
+        "vlop",
+        "audit",
+        "delegated-regulation",
+        "article-37",
+        "secondary-legislation"
+      ],
       "sources": []
     },
     {
@@ -15,7 +21,12 @@
       "title": "Commission adopts Implementing Regulation on DSA transparency database for advertising",
       "what_happened": "The Commission adopted an Implementing Regulation establishing the technical specifications and access procedures for the DSA public advertising transparency database (Article 39). VLOPs must populate the database with information on each online advertisement: who displayed it, on whose behalf, what targeting parameters were used, and the number of users reached per demographic segment.",
       "shopify_angle": "Shopify's advertising product integrations (Meta Ads, Google Ads, TikTok Ads) connect merchants to platforms that must comply with Article 39 transparency obligations. The database creates a public record of targeting criteria used on VLOPs — a transparency layer that could affect how merchants configure audience targeting for EU campaigns.",
-      "tags": ["advertising", "transparency-database", "article-39", "implementing-regulation"],
+      "tags": [
+        "advertising",
+        "transparency-database",
+        "article-39",
+        "implementing-regulation"
+      ],
       "sources": []
     },
     {
@@ -23,7 +34,12 @@
       "title": "DSA fully applicable to all platforms and intermediary services",
       "what_happened": "The Digital Services Act became fully applicable to all in-scope online platforms and intermediary services on 17 February 2024. All platforms must now comply with: transparent terms of service, notice-and-action systems for illegal content, complaint and redress mechanisms, and annual transparency reporting. Online marketplaces face additional obligations: trader identity verification (Article 31), random checks on illegal products (Article 32), and notice procedures for illegal product listings.",
       "shopify_angle": "Shopify's EU marketplace is now fully in scope under DSA. Article 31 (traceability of traders) is the key operational obligation: Shopify must collect, verify, and display professional seller identity information. Article 32 (random product checks) requires Shopify to have a process for spot-checking listings against relevant EU product safety databases.",
-      "tags": ["full-applicability", "milestone", "article-31", "marketplaces"],
+      "tags": [
+        "full-applicability",
+        "milestone",
+        "article-31",
+        "marketplaces"
+      ],
       "sources": []
     },
     {
@@ -31,7 +47,12 @@
       "title": "Commission adopts Delegated Regulation on researcher data access under DSA Article 40",
       "what_happened": "The Commission adopted a Delegated Regulation specifying the conditions and procedures under which vetted researchers can access VLOP and VLOSE data under DSA Article 40. Researchers affiliated with EU member state public interest organisations can apply for access to non-public data to study systemic risks, content moderation outcomes, and algorithmic effects.",
       "shopify_angle": "Article 40 researcher access does not apply to Shopify as a non-VLOP. However, research data from VLOP studies (Amazon Marketplace data, Meta social commerce data) will produce publicly available findings about online marketplace practices — creating a new evidence base that regulators may use to extend equivalent obligations beyond VLOPs.",
-      "tags": ["researcher-access", "article-40", "delegated-regulation", "data-access"],
+      "tags": [
+        "researcher-access",
+        "article-40",
+        "delegated-regulation",
+        "data-access"
+      ],
       "sources": []
     },
     {
@@ -39,7 +60,12 @@
       "title": "DSA obligations apply to VLOPs and VLOSEs — first wave of compliance deadline",
       "what_happened": "DSA obligations entered into force for the 19 designated Very Large Online Platforms and Very Large Online Search Engines on 25 August 2023. Obligations include: annual systemic risk assessments (Article 34), risk mitigation measures (Article 35), annual independent audits (Article 37), transparency reports (Article 42), data access for researchers (Article 40), and crisis protocols (Article 48).",
       "shopify_angle": "Shopify is not a VLOP and is therefore not in the first compliance wave. The VLOP obligations set market norms: Amazon Marketplace's compliance with Article 31 (trader traceability), Article 32 (random checks), and Article 42 (transparency reports) establishes the baseline against which non-VLOP marketplace practices will increasingly be compared.",
-      "tags": ["vlop", "obligations", "milestone", "compliance"],
+      "tags": [
+        "vlop",
+        "obligations",
+        "milestone",
+        "compliance"
+      ],
       "sources": []
     },
     {
@@ -47,7 +73,12 @@
       "title": "Commission designates 19 VLOPs and VLOSEs",
       "what_happened": "The Commission formally designated 19 services as VLOPs or VLOSEs under DSA Article 33, based on having over 45 million average monthly active EU users. Designated services include Amazon Store, Booking.com, Facebook, Google Search, Instagram, TikTok, YouTube, and others. Each designated service has four months to comply with all VLOP/VLOSE obligations from the date of designation.",
       "shopify_angle": "Shopify is not designated. Amazon Store's designation as a VLOP means Amazon's marketplace is subject to the full VLOP compliance regime — creating a compliance floor that indirectly shapes expectations for all online marketplaces.",
-      "tags": ["designation", "vlop", "vlose", "milestone"],
+      "tags": [
+        "designation",
+        "vlop",
+        "vlose",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -55,7 +86,11 @@
       "title": "DSA enters into force",
       "what_happened": "The Digital Services Act (Regulation (EU) 2022/2065) entered into force on 16 November 2022. The Act creates a directly applicable EU framework for all online intermediary services, structured in four tiers: intermediary services, hosting services, online platforms, and VLOPs/VLOSEs. The Act replaces the liability framework of the 2000 e-Commerce Directive for content liability (while preserving the horizontal immunity shield for hosting services that act promptly on notice).",
       "shopify_angle": "DSA's preservation of the e-Commerce Directive liability shield is important for Shopify: as long as Shopify acts expeditiously on notice-and-action requests for illegal products, it retains immunity from liability for third-party seller content. Article 31's trader traceability obligation is the key new compliance burden — requiring Know Your Business verification for all professional sellers on the Shopify platform.",
-      "tags": ["entry-into-force", "milestone", "liability-shield"],
+      "tags": [
+        "entry-into-force",
+        "milestone",
+        "liability-shield"
+      ],
       "sources": []
     },
     {
@@ -63,15 +98,23 @@
       "title": "DSA published in Official Journal — final text",
       "what_happened": "Regulation (EU) 2022/2065 was published in the EU Official Journal. The final text confirms: four-tier structure; VLOP designation threshold at 45 million average monthly EU users; fines up to 6% of global annual turnover for non-compliance; periodic penalty payments up to 5% of average daily global turnover for ongoing violation; and structural remedies as a last resort for systemic infringements.",
       "shopify_angle": "The final DSA text is clearer than the proposal on marketplace-specific obligations. Article 31 (traceability of traders) and Article 32 (random product safety checks) apply to all online marketplaces regardless of size. These two provisions require the most concrete operational implementation from Shopify's EU marketplace.",
-      "tags": ["publication", "official-journal", "milestone"],
+      "tags": [
+        "publication",
+        "official-journal",
+        "milestone"
+      ],
       "sources": []
     },
     {
       "date": "2022-04-23",
       "title": "Political agreement on DSA — trilogue concludes",
       "what_happened": "European Parliament and Council negotiators reached political agreement on the DSA. Outcomes: VLOP threshold at 45 million EU users; mandatory 'recommender system' opt-out for users (no profiling by default); Parliament secured stronger researcher data access and targeted advertising limits for minors; binding crisis response protocol; joint supervision of cross-border enforcement.",
-      "shopify_angle": "The final Article 31 trader traceability requirement — applying to all online marketplaces — is the most operationally significant outcome for Shopify. The requirement to verify and display professional seller identity was strengthened in Parliament's position and survived trilogue largely intact.",
-      "tags": ["trilogue", "agreement", "milestone"],
+      "shopify_angle": "The final Article 31 trader traceability requirement — applying to all online marketplaces — is the development worth monitoring for Shopify. The requirement to verify and display professional seller identity was strengthened in Parliament's position and survived trilogue largely intact.",
+      "tags": [
+        "trilogue",
+        "agreement",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -79,7 +122,12 @@
       "title": "European Commission publishes DSA proposal",
       "what_happened": "The Commission published the Digital Services Act proposal (COM/2020/825) alongside the Digital Markets Act. The DSA proposed a single set of horizontal rules for online intermediary services, updating the 2000 e-Commerce Directive. Tiered obligations based on platform size and role; fines up to 6% of global turnover; centralised Commission enforcement for VLOPs; national Digital Services Coordinators for all other services.",
       "shopify_angle": "At proposal stage, Shopify's marketplace model falls in scope as an 'online platform' hosting third-party sellers. The two-tier structure — general platform obligations vs VLOP — is well-suited to Shopify's position: compliance requirements without the full VLOP surveillance regime.",
-      "tags": ["proposal", "commission", "legislative", "milestone"],
+      "tags": [
+        "proposal",
+        "commission",
+        "legislative",
+        "milestone"
+      ],
       "sources": []
     }
   ]

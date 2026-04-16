@@ -7,7 +7,12 @@
       "title": "Digital Omnibus moves GDPR amendments into active legislative process",
       "what_happened": "The Digital Omnibus proposal (published November 2025) is now in active legislative deliberation in both Council and Parliament. GDPR-related amendments are among the most contested provisions. Council members are pushing back on the narrowed definition of personal data and the new AI-related legitimate interest basis. Parliament's ITRE rapporteur Aura Salla (EPP, Finland) is considered sympathetic to industry simplification. Adoption not expected before H2 2027.",
       "shopify_angle": "The proposed GDPR amendments — particularly the narrowed personal data definition, streamlined DPIA obligations, and extended 96-hour breach notification window — would reduce Shopify's compliance overhead across EU markets. However, opposition from France, Belgium, and Austria means the final text may be significantly watered down.",
-      "tags": ["digital-omnibus", "amendment", "gdpr-reform", "parliament"],
+      "tags": [
+        "digital-omnibus",
+        "amendment",
+        "gdpr-reform",
+        "parliament"
+      ],
       "sources": []
     },
     {
@@ -15,7 +20,13 @@
       "title": "Digital Omnibus published — proposed GDPR and ePrivacy amendments detailed",
       "what_happened": "The European Commission published the Digital Omnibus package, including detailed proposed amendments to the GDPR: narrowed personal data definition (information is personal only if the identifier is 'reasonably likely' to be used); AI-related legitimate interest as an explicit legal basis; exemptions from information obligations for low-risk processing; raised breach notification threshold (from 72 to 96 hours); and EDPB to produce EU-level DPIA lists replacing national lists. Cookie consent reform is the most politically charged element.",
       "shopify_angle": "The AI legitimate interest basis is the most consequential GDPR amendment for Shopify — it removes current ambiguity about the lawful basis for developing AI features using merchant and consumer interaction data. The streamlined breach notification deadline (72 → 96 hours) reduces the risk of being non-compliant when incidents span multiple national DPA timelines simultaneously.",
-      "tags": ["digital-omnibus", "gdpr-reform", "ai-legitimate-interest", "cookie-reform", "breach-notification"],
+      "tags": [
+        "digital-omnibus",
+        "gdpr-reform",
+        "ai-legitimate-interest",
+        "cookie-reform",
+        "breach-notification"
+      ],
       "sources": []
     },
     {
@@ -23,7 +34,13 @@
       "title": "Denmark's informal non-paper: ease GDPR and cookie obligations",
       "what_happened": "The Danish government (then holding the rotating Council Presidency) circulated an informal non-paper proposing to simplify EU data protection rules ahead of the Digital Omnibus proposal. Key suggestions: no consent requirement for technical and analytics cookies; minimum thresholds for data access and transparency rights; batched breach notifications for minor incidents; DPIA relief for SMEs and mid-caps.",
       "shopify_angle": "The Danish proposals substantially aligned with what the Commission would later propose in the Digital Omnibus. The non-paper confirmed that cookie analytics exemption and SME GDPR relief were politically viable — not just industry asks — ahead of the formal proposal.",
-      "tags": ["denmark", "non-paper", "cookies", "simplification", "pre-omnibus"],
+      "tags": [
+        "denmark",
+        "non-paper",
+        "cookies",
+        "simplification",
+        "pre-omnibus"
+      ],
       "sources": []
     },
     {
@@ -31,7 +48,13 @@
       "title": "Irish DPC fines Meta €1.2 billion — largest GDPR fine to date",
       "what_happened": "The Irish Data Protection Commission issued a €1.2 billion fine against Meta Platforms Ireland for transferring EU user data to the US without adequate safeguards, following the Schrems II ruling that invalidated Privacy Shield. The DPC acted under the one-stop-shop mechanism with binding decisions from multiple EU DPAs. The fine exceeded all previous GDPR enforcement combined.",
       "shopify_angle": "Shopify's US-EU data transfers are governed by Standard Contractual Clauses and rely on the DPF framework (adopted July 2023). The Meta fine demonstrates that data transfer compliance is an active enforcement area — not a theoretical risk. Shopify's legal team maintains SCCs and DPF reliance; a future US presidential rollback of DPF would reopen this as a live compliance risk.",
-      "tags": ["meta", "fine", "data-transfers", "schrems", "irish-dpc"],
+      "tags": [
+        "meta",
+        "fine",
+        "data-transfers",
+        "schrems",
+        "irish-dpc"
+      ],
       "sources": []
     },
     {
@@ -39,7 +62,13 @@
       "title": "EU-US Data Privacy Framework adopted — replaces Privacy Shield",
       "what_happened": "The European Commission adopted its adequacy decision for the EU-US Data Privacy Framework (DPF), replacing the invalidated Privacy Shield. The DPF creates a mechanism for US companies certified under the programme to receive EU personal data. The DPF was immediately challenged by privacy groups (led by Schrems/noyb) who announced plans to challenge before the CJEU.",
       "shopify_angle": "Shopify relies on DPF as a transfer mechanism for EU personal data flowing to Shopify Inc. servers in the US. The DPF provides current legal cover but faces legal challenge risk. If invalidated by CJEU (Schrems III), Shopify would revert to SCCs and potentially face localisation pressure.",
-      "tags": ["dpf", "data-transfers", "us-eu", "adequacy", "schrems"],
+      "tags": [
+        "dpf",
+        "data-transfers",
+        "us-eu",
+        "adequacy",
+        "schrems"
+      ],
       "sources": []
     },
     {
@@ -47,7 +76,13 @@
       "title": "Irish DPC fines Instagram €405 million over children's data",
       "what_happened": "The Irish DPC issued a €405 million fine against Instagram (Meta) for exposing children's phone numbers and email addresses through business account defaults. The investigation followed complaints by activist Damien Kierans. The fine was issued following a binding decision by the EDPB overruling the DPC's initial lower fine proposal.",
       "shopify_angle": "Shopify merchants operating Instagram Shops must understand that Meta's GDPR exposure affects their data-sharing integrations. The case also reinforces that children's data is a priority enforcement area — relevant for any Shopify features targeting younger demographics.",
-      "tags": ["instagram", "meta", "children", "fine", "edpb"],
+      "tags": [
+        "instagram",
+        "meta",
+        "children",
+        "fine",
+        "edpb"
+      ],
       "sources": []
     },
     {
@@ -55,7 +90,13 @@
       "title": "Google Analytics declared illegal in France, Austria, Italy — national DPA campaign",
       "what_happened": "The French CNIL, following an Austrian DSB ruling, found that the use of Google Analytics on French websites constituted an illegal transfer of personal data to the US under GDPR, since Google is subject to US surveillance laws that provide no equivalent EU protection. Italy's Garante followed. The rulings created immediate compliance uncertainty for websites using GA tracking.",
       "shopify_angle": "Shopify merchants using Google Analytics across EU storefronts faced direct compliance risk from these rulings. Shopify's own analytics products and any third-party analytics integrations in the App Store required review. The rulings were a major driver of merchant demand for EU-hosted or privacy-first analytics alternatives.",
-      "tags": ["google-analytics", "data-transfers", "france", "austria", "tracking"],
+      "tags": [
+        "google-analytics",
+        "data-transfers",
+        "france",
+        "austria",
+        "tracking"
+      ],
       "sources": []
     },
     {
@@ -63,7 +104,13 @@
       "title": "Amazon fined €746 million by Luxembourg DPA — GDPR's largest fine at the time",
       "what_happened": "Luxembourg's CNPD issued a €746 million fine against Amazon Europe Core for using personal data for advertising purposes without valid legal basis. The fine was the largest ever issued under GDPR at that time. Amazon disputed the decision and appealed. The case was brought under the one-stop-shop mechanism with Luxembourg as Amazon's EU establishment.",
       "shopify_angle": "Amazon is Shopify's primary marketplace competitor for EU merchants. The GDPR fine — targeting advertising data practices — creates context for Shopify's own advertising integrations and data use policies. Shopify's compliance approach (privacy-first architecture, Shop data practices) is partly differentiated from Amazon's model.",
-      "tags": ["amazon", "fine", "advertising", "luxembourg", "record-fine"],
+      "tags": [
+        "amazon",
+        "fine",
+        "advertising",
+        "luxembourg",
+        "record-fine"
+      ],
       "sources": []
     },
     {
@@ -71,7 +118,13 @@
       "title": "EDPB adopts guidelines on targeting of social media users",
       "what_happened": "The European Data Protection Board adopted final guidelines (05/2022) on the targeting of social media users through interest-based advertising. The guidelines clarify controller/processor relationships in social advertising, consent requirements, and obligations of platforms (social networks) vs advertisers (including merchants). The guidelines reinforce that merchants using custom audiences bear joint-controller obligations.",
       "shopify_angle": "Shopify merchants running Meta Pixel, TikTok Pixel, or Google Ads targeting on their storefronts are joint controllers under these guidelines. Shopify's marketing ecosystem (email, social integrations) must support merchants in meeting their GDPR obligations as joint controllers.",
-      "tags": ["edpb", "targeting", "advertising", "joint-controller", "social-media"],
+      "tags": [
+        "edpb",
+        "targeting",
+        "advertising",
+        "joint-controller",
+        "social-media"
+      ],
       "sources": []
     },
     {
@@ -79,7 +132,13 @@
       "title": "Schrems II: CJEU invalidates Privacy Shield",
       "what_happened": "The Court of Justice of the EU ruled in Data Protection Commissioner v Facebook Ireland (Schrems II) that the EU-US Privacy Shield was invalid as it did not provide equivalent protection to EU GDPR. The ruling meant companies could no longer rely on Privacy Shield for US data transfers. Standard Contractual Clauses (SCCs) remain valid but require case-by-case transfer impact assessments.",
       "shopify_angle": "Privacy Shield invalidation immediately affected Shopify's US-EU data transfers. Shopify had to transition to SCCs as the primary transfer mechanism and conduct transfer impact assessments for US-based sub-processors. This remains a live compliance risk — the replacement DPF is being challenged in court.",
-      "tags": ["schrems-ii", "privacy-shield", "data-transfers", "cjeu", "milestone"],
+      "tags": [
+        "schrems-ii",
+        "privacy-shield",
+        "data-transfers",
+        "cjeu",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -87,7 +146,13 @@
       "title": "French CNIL fines Google €50 million — first major GDPR fine",
       "what_happened": "France's CNIL issued a €50 million fine against Google LLC for lack of transparency, inadequate information, and lack of valid consent for ad personalisation. It was the first major fine issued under the GDPR and established that the 'one-stop-shop' mechanism does not apply where a company does not have its main EU establishment in one member state.",
       "shopify_angle": "The Google/CNIL case established early GDPR enforcement norms around consent quality and transparency obligations. Shopify's consent mechanisms and cookie practices should meet the CNIL standard — which remains one of the more activist EU DPAs in scope.",
-      "tags": ["google", "cnil", "consent", "transparency", "first-fine"],
+      "tags": [
+        "google",
+        "cnil",
+        "consent",
+        "transparency",
+        "first-fine"
+      ],
       "sources": []
     },
     {
@@ -95,7 +160,12 @@
       "title": "GDPR becomes applicable — Day 1 of enforcement",
       "what_happened": "The General Data Protection Regulation became applicable across all EU member states on 25 May 2018, two years after entry into force in 2016. Thousands of companies updated privacy policies, cookie banners proliferated, and national DPAs received a surge of complaints. The GDPR replaced the 1995 Data Protection Directive with directly applicable EU law.",
       "shopify_angle": "Shopify designated its Irish entity (Shopify International Limited) as the data controller for EU merchants and their customer data, establishing Ireland as its lead supervisory authority jurisdiction. This decision has long-term implications for GDPR enforcement risk concentration — the Irish DPC has been under significant pressure from other EU DPAs and the EDPB.",
-      "tags": ["applicable", "milestone", "day-one", "compliance"],
+      "tags": [
+        "applicable",
+        "milestone",
+        "day-one",
+        "compliance"
+      ],
       "sources": []
     },
     {
@@ -103,7 +173,11 @@
       "title": "GDPR adopted — replaces 1995 Data Protection Directive",
       "what_happened": "Regulation (EU) 2016/679 was adopted by the European Parliament and Council. The GDPR replaces the 1995 Data Protection Directive with a directly applicable regulation requiring no national transposition. It introduces: data subject rights (access, erasure, portability), data breach notification (72 hours), DPIA requirements, the one-stop-shop mechanism, and fines up to €20 million or 4% of global annual turnover.",
       "shopify_angle": "GDPR's extraterritorial scope means it applies to any company processing EU residents' data, regardless of where the company is established. Shopify — a Canadian-headquartered company — is in scope for all EU merchants and their customers.",
-      "tags": ["adoption", "milestone", "legislative"],
+      "tags": [
+        "adoption",
+        "milestone",
+        "legislative"
+      ],
       "sources": []
     },
     {
@@ -111,7 +185,12 @@
       "title": "European Commission proposes GDPR — replacing 1995 Directive",
       "what_happened": "The European Commission published its proposal for the General Data Protection Regulation (COM/2012/011), alongside a proposal for a directive governing data protection in law enforcement. The GDPR proposal introduced the one-stop-shop mechanism, the 'right to be forgotten', and the turnover-based fine structure. The proposal was immediately controversial with industry and governments.",
       "shopify_angle": "At proposal stage, Shopify was a smaller company — but the GDPR's eventual scope would become the most significant ongoing compliance obligation for Shopify's EU operations. The trajectory from 2012 proposal to 2018 application took six years, with lobbying from major US tech companies shaping key provisions.",
-      "tags": ["proposal", "commission", "pre-legislative", "milestone"],
+      "tags": [
+        "proposal",
+        "commission",
+        "pre-legislative",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -119,7 +198,13 @@
       "title": "TikTok fined €345 million by Irish DPC over children's data",
       "what_happened": "Ireland's DPC fined TikTok €345 million for multiple violations of GDPR relating to children's data: default public account settings for minors, Family Pairing feature design allowing adults to enable direct messages, and inadequate age verification. The fine was issued following a binding EDPB decision requiring the DPC to increase the sanction.",
       "shopify_angle": "TikTok's children's data fine is relevant context for Shopify's TikTok Shop integration. Shopify's joint-controller relationship with TikTok means Shopify's merchants may bear residual obligations for data processed through TikTok ad pixels and Shop integrations.",
-      "tags": ["tiktok", "children", "fine", "irish-dpc", "edpb"],
+      "tags": [
+        "tiktok",
+        "children",
+        "fine",
+        "irish-dpc",
+        "edpb"
+      ],
       "sources": []
     },
     {
@@ -127,23 +212,39 @@
       "title": "Meta fined €390 million by Irish DPC over Facebook and Instagram legal basis for ads",
       "what_happened": "The Irish DPC fined Meta €390 million for relying on 'necessary for contract performance' as the legal basis for behavioural advertising on Facebook and Instagram — a legal basis the EDPB ruled was invalid. Meta had argued that agreeing to its Terms of Service constituted consent to ad personalisation. The EDPB overruled the DPC's initial draft decision.",
       "shopify_angle": "The ruling that 'necessity for contract' cannot be used as a legal basis for ad personalisation is highly relevant for Shopify's merchant email marketing and Facebook/Instagram integrations. Shopify's own terms-based approach to data use for merchant analytics and ads must be grounded in valid consent or legitimate interest — not contract performance.",
-      "tags": ["meta", "advertising", "legal-basis", "contract-performance", "edpb"],
+      "tags": [
+        "meta",
+        "advertising",
+        "legal-basis",
+        "contract-performance",
+        "edpb"
+      ],
       "sources": []
     },
     {
       "date": "2025-03-13",
       "title": "EDPB publishes guidelines on AI and GDPR — training data and models",
       "what_happened": "The European Data Protection Board published Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models. The opinion addresses: when AI models are trained on publicly available personal data; whether a trained model can constitute personal data; and requirements for legitimate interest as a legal basis for AI training.",
-      "shopify_angle": "The EDPB's opinion on AI model training data directly affects Shopify's development of AI features using merchant and consumer interaction data. Shopify's privacy team must assess whether AI training on historical order, product, and behavioural data qualifies for legitimate interest or requires another legal basis under the EDPB framework.",
-      "tags": ["edpb", "ai-training", "legitimate-interest", "opinion"],
+      "shopify_angle": "The EDPB's opinion on AI model training data is relevant for Shopify's development of AI features using merchant and consumer interaction data. Shopify's privacy team must assess whether AI training on historical order, product, and behavioural data qualifies for legitimate interest or requires another legal basis under the EDPB framework.",
+      "tags": [
+        "edpb",
+        "ai-training",
+        "legitimate-interest",
+        "opinion"
+      ],
       "sources": []
     },
     {
       "date": "2022-04-13",
       "title": "EDPB launches coordinated enforcement on cookie compliance — 22 DPAs investigating",
       "what_happened": "The European Data Protection Board launched a coordinated enforcement action, with 22 national DPAs simultaneously opening investigations into the use of cookie banners on websites. The action targeted dark patterns in cookie consent — pre-ticked boxes, confusing reject options, and 'accept all' buttons made more prominent than refuse options. Multiple large-scale investigations followed.",
-      "shopify_angle": "The coordinated enforcement action directly affects Shopify merchants operating EU storefronts. Shopify's default theme cookie banner implementation and the App Store consent management apps (CMPs) are in scope. Shopify should ensure default implementations allow a genuine, equal-prominence rejection option.",
-      "tags": ["cookie-banners", "coordinated-enforcement", "dark-patterns", "edpb"],
+      "shopify_angle": "The coordinated enforcement action is relevant for Shopify merchants operating EU storefronts. Shopify's default theme cookie banner implementation and the App Store consent management apps (CMPs) are in scope. This is worth monitoring as policy momentum in this area develops.",
+      "tags": [
+        "cookie-banners",
+        "coordinated-enforcement",
+        "dark-patterns",
+        "edpb"
+      ],
       "sources": []
     }
   ]

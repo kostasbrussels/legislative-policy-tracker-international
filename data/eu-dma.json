@@ -6,8 +6,14 @@
       "date": "2026-03-19",
       "title": "Commission confirms ongoing monitoring of Apple and Google — decisions expected H2 2026",
       "what_happened": "Following the March 2025 enforcement actions, the Commission confirmed it is closely monitoring Apple's compliance with the iOS interoperability specifications and preparing a formal non-compliance assessment of Google's Search and Play Store practices. Formal non-compliance decisions — which can carry fines up to 10% of global turnover — are expected in H2 2026. The Commission is also reviewing Microsoft's Bing and Edge DMA compliance.",
-      "shopify_angle": "DMA enforcement against Google Play Store steering restrictions is directly relevant to Shopify's mobile commerce apps. If the Commission's findings restrict Google's ability to impose transaction fees for in-app purchases made after initial Play Store engagement, it could reduce costs for merchants selling through Android apps built on Shopify.",
-      "tags": ["apple", "google", "non-compliance", "enforcement", "monitoring"],
+      "shopify_angle": "DMA enforcement against Google Play Store steering restrictions is worth watching for Shopify's mobile commerce apps. If the Commission's findings restrict Google's ability to impose transaction fees for in-app purchases made after initial Play Store engagement, it could reduce costs for merchants selling through Android apps built on Shopify.",
+      "tags": [
+        "apple",
+        "google",
+        "non-compliance",
+        "enforcement",
+        "monitoring"
+      ],
       "sources": []
     },
     {
@@ -15,7 +21,13 @@
       "title": "Commission issues first DMA enforcement actions — Apple specifications, Google preliminary findings",
       "what_happened": "The European Commission issued its first formal enforcement actions under the DMA. For Apple: binding specifications under Article 6(7) requiring Apple to open nine iOS connectivity features to third-party devices (including NFC, peer-to-peer WiFi, device pairing, notification mirroring). For Google: preliminary non-compliance findings on self-preferencing in Search (favouring Google Shopping, Travel, Finance) and developer steering restrictions on Google Play. Apple criticised the specifications as threatening user privacy.",
       "shopify_angle": "Apple's interoperability specifications open iOS to third-party connected devices — relevant for Shopify's Point of Sale ecosystem (card readers, barcode scanners). Google's Play Store steering restrictions, if remedied, could reduce app developer fees for merchants using Shopify's Android apps. Kostas shared a detailed briefing note on these actions with Ilya Grigorik (Shopify Engineering).",
-      "tags": ["apple", "google", "specifications", "preliminary-findings", "milestone"],
+      "tags": [
+        "apple",
+        "google",
+        "specifications",
+        "preliminary-findings",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -23,7 +35,13 @@
       "title": "Commission opens non-compliance proceedings against Apple (iOS, App Store, Safari) and Meta (Facebook, Instagram)",
       "what_happened": "The Commission opened formal non-compliance proceedings against Apple for its App Store interoperability measures, iOS sideloading rules, and Safari browser choice screen implementation. Separately, Meta was targeted for its 'pay or consent' advertising model on Facebook and Instagram, which the Commission believes constitutes a violation of DMA obligations requiring genuine user choice about data use.",
       "shopify_angle": "Apple's App Store restrictions directly affect Shopify's mobile merchant tools and the Shopify App Store ecosystem. If Apple's mandatory third-party payment processing requirements are remedied, it would reduce fees for Shopify merchants selling digital goods through iOS apps. Meta's 'pay or consent' case may affect Shopify's merchant ad integrations if the model is ultimately prohibited.",
-      "tags": ["apple", "meta", "app-store", "sideloading", "non-compliance"],
+      "tags": [
+        "apple",
+        "meta",
+        "app-store",
+        "sideloading",
+        "non-compliance"
+      ],
       "sources": []
     },
     {
@@ -31,7 +49,12 @@
       "title": "Booking.com designated as gatekeeper — first travel platform under DMA",
       "what_happened": "The Commission designated Booking.com as a gatekeeper under the DMA, making it the first travel and accommodation platform to receive the designation. Booking.com has six months to comply with gatekeeper obligations, including banning parity clauses that prevent hotels from offering better prices on their own websites.",
       "shopify_angle": "Booking.com's designation sets a precedent for marketplace-type platforms. The ban on price parity clauses that Booking.com enforced against hotels is analogous to revenue-sharing and exclusivity pressures some merchants face — DMA's approach to this type of restriction is beneficial for merchants' ability to offer better prices through independent Shopify storefronts.",
-      "tags": ["booking-com", "designation", "gatekeeper", "parity-clauses"],
+      "tags": [
+        "booking-com",
+        "designation",
+        "gatekeeper",
+        "parity-clauses"
+      ],
       "sources": []
     },
     {
@@ -39,7 +62,17 @@
       "title": "Commission designates six initial gatekeepers — Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft",
       "what_happened": "The European Commission formally designated six companies as gatekeepers under the DMA: Alphabet (Google Search, Google Maps, Google Play, Google Shopping, YouTube, Android), Amazon (Marketplace, Advertising), Apple (App Store, iOS, Safari), ByteDance (TikTok), Meta (Facebook, Instagram, WhatsApp, Facebook Marketplace), and Microsoft (Windows, LinkedIn, Bing, Edge). Each designated gatekeeper service must comply with all DMA obligations within six months — by 6 March 2024.",
       "shopify_angle": "Shopify is not a gatekeeper — its user numbers are below the DMA thresholds. However, Shopify's merchant ecosystem depends heavily on designated gatekeepers: Google Search (discovery), Meta (social commerce), Amazon (marketplace competition), Apple/Android (mobile apps). DMA remedies on these platforms — particularly around self-preferencing and fee transparency — benefit Shopify's merchant base.",
-      "tags": ["designation", "gatekeepers", "alphabet", "amazon", "apple", "bytedance", "meta", "microsoft", "milestone"],
+      "tags": [
+        "designation",
+        "gatekeepers",
+        "alphabet",
+        "amazon",
+        "apple",
+        "bytedance",
+        "meta",
+        "microsoft",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -47,7 +80,11 @@
       "title": "DMA fully applicable — gatekeepers must comply with all obligations",
       "what_happened": "The Digital Markets Act became fully applicable on 2 May 2023. Gatekeepers designated by the Commission from this date face obligations: ban on self-preferencing, mandatory data portability, interoperability requirements, ban on combining personal data across services without consent, ban on preventing users from uninstalling pre-installed apps, and transparency in ranking parameters.",
       "shopify_angle": "DMA's transparency in ranking obligations require gatekeepers (particularly Amazon and Google) to disclose how they rank products and services. For Shopify merchants selling on Amazon or appearing in Google Shopping, this creates greater visibility into algorithmic treatment — and a basis to challenge discriminatory ranking.",
-      "tags": ["fully-applicable", "milestone", "obligations"],
+      "tags": [
+        "fully-applicable",
+        "milestone",
+        "obligations"
+      ],
       "sources": []
     },
     {
@@ -55,7 +92,10 @@
       "title": "DMA enters into force",
       "what_happened": "The Digital Markets Act (Regulation (EU) 2022/1925) entered into force on 1 November 2022, 20 days after publication in the Official Journal. The DMA creates a regulatory framework for 'core platform services' provided by gatekeepers with significant market power in the EU. Fines up to 10% of global turnover, and 20% for repeat offences. For systemic violations: structural remedies including break-up.",
       "shopify_angle": "DMA entry into force marks a new era in digital competition policy. Unlike EU competition law (antitrust), DMA creates ex ante obligations — gatekeepers must behave a certain way before causing harm, not just after. This proactive framework is better designed to address gatekeeper behaviour that damages merchant independence.",
-      "tags": ["entry-into-force", "milestone"],
+      "tags": [
+        "entry-into-force",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -63,7 +103,11 @@
       "title": "DMA published in Official Journal — final text confirmed",
       "what_happened": "Regulation (EU) 2022/1925 on contestable and fair markets in the digital sector (Digital Markets Act) was published in the Official Journal. The final text includes a provision designating the Commission as sole enforcer (no national DPA/NCA concurrent enforcement), a six-month timeline for gatekeeper compliance post-designation, and interoperability requirements for messaging services.",
       "shopify_angle": "Centralised Commission enforcement means a single, consistent application of DMA rules across the EU — reducing the fragmentation risk that characterises GDPR enforcement. For Shopify, this is a more efficient regulatory environment than parallel national proceedings.",
-      "tags": ["publication", "official-journal", "milestone"],
+      "tags": [
+        "publication",
+        "official-journal",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -71,7 +115,12 @@
       "title": "Parliament adopts DMA — political agreement confirmed",
       "what_happened": "The European Parliament adopted the Digital Markets Act by 588 votes in favour, with 11 against and 31 abstentions. The adoption follows the March 2022 political trilogue agreement. Parliament strengthened the text with: mandatory interoperability for messaging services, stronger provisions on default settings, and enhanced powers for the Commission to impose structural remedies.",
       "shopify_angle": "Mandatory messaging interoperability (WhatsApp, iMessage) creates opportunities for merchants to reach customers across platforms without being locked into a single messaging app ecosystem — positive for Shopify's multi-channel commerce strategy.",
-      "tags": ["parliament", "adoption", "milestone", "interoperability"],
+      "tags": [
+        "parliament",
+        "adoption",
+        "milestone",
+        "interoperability"
+      ],
       "sources": []
     },
     {
@@ -79,7 +128,12 @@
       "title": "Trilogue agreement on DMA — political deal struck",
       "what_happened": "European Parliament and Council negotiators reached political agreement on the Digital Markets Act. Key outcomes: the gatekeeper threshold was agreed (45m EU monthly users or 10,000 business users, or €7.5bn revenue threshold); the Commission has exclusive enforcement powers; structural remedies including break-up are possible for systemic violation; and messaging interoperability was included as a mandatory obligation.",
       "shopify_angle": "The DMA's gatekeeper thresholds are set well above Shopify's scale. The interoperability provisions — particularly for messaging — are relevant for Shopify's customer communication tools and WhatsApp merchant integrations.",
-      "tags": ["trilogue", "agreement", "milestone", "threshold"],
+      "tags": [
+        "trilogue",
+        "agreement",
+        "milestone",
+        "threshold"
+      ],
       "sources": []
     },
     {
@@ -87,7 +141,12 @@
       "title": "European Commission publishes DMA proposal alongside DSA",
       "what_happened": "The European Commission published the Digital Markets Act proposal (COM/2020/842) alongside the Digital Services Act proposal. The DMA targets 'gatekeepers' — companies providing core platform services with significant market power — imposing ex ante obligations rather than relying on antitrust proceedings. Proposed fines up to 10% of global turnover and structural remedies for systemic violations.",
       "shopify_angle": "The DMA proposal directly targets the major platforms through which Shopify merchants sell and market: Apple App Store, Google Play, Amazon Marketplace, Google Search, Meta/Facebook. Effective DMA implementation would reduce the leverage these gatekeepers have over merchants — particularly around app store fees, self-preferencing in search, and forced data sharing.",
-      "tags": ["proposal", "commission", "legislative", "milestone"],
+      "tags": [
+        "proposal",
+        "commission",
+        "legislative",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -95,15 +154,24 @@
       "title": "Council adopts general approach on DMA",
       "what_happened": "The Council of the EU adopted its general approach (negotiating position) on the DMA. The Council's main modifications: clarified the gatekeeper notification and designation process; maintained centralised Commission enforcement but added national NCA co-enforcement powers in limited circumstances; and narrowed the mandatory interoperability provisions compared to the Commission proposal.",
       "shopify_angle": "The Council's dilution of interoperability obligations was a partial industry victory for gatekeepers. For Shopify, stronger interoperability would have been more beneficial — it would force platforms to allow third-party integrations and data portability that merchants could use across Shopify and gatekeeper marketplaces.",
-      "tags": ["council", "general-approach"],
+      "tags": [
+        "council",
+        "general-approach"
+      ],
       "sources": []
     },
     {
       "date": "2024-06-24",
       "title": "Commission preliminary findings against Apple App Store — iOS browser rules",
       "what_happened": "The Commission issued preliminary findings that Apple violated DMA obligations by preventing app developers from freely steering users to third-party offers (Article 5(4)) and by maintaining restrictive conditions for browsers other than Safari on iOS. Apple's implementation of browser choice and alternative app distribution was found to be technically compliant but practically ineffective.",
-      "shopify_angle": "Browser competition on iOS directly affects Shopify's merchant experience — if alternative browsers can be set as default and compete fairly, it reduces Apple's control over how merchants and consumers interact with Shopify storefronts on mobile.",
-      "tags": ["apple", "app-store", "browser", "preliminary-findings", "ios"],
+      "shopify_angle": "Browser competition on iOS is relevant for Shopify's merchant experience — if alternative browsers can be set as default and compete fairly, it reduces Apple's control over how merchants and consumers interact with Shopify storefronts on mobile.",
+      "tags": [
+        "apple",
+        "app-store",
+        "browser",
+        "preliminary-findings",
+        "ios"
+      ],
       "sources": []
     },
     {
@@ -111,7 +179,14 @@
       "title": "Commission opens investigation into Microsoft tied conduct — Bing, Edge, and Teams",
       "what_happened": "The Commission opened a formal DMA investigation into Microsoft's conduct relating to the tying of Bing (Search), Edge (Browser), and Teams (Messaging) to Windows. The investigation focuses on whether Microsoft uses its gatekeeper status in Windows to artificially entrench its other services rather than competing on merit.",
       "shopify_angle": "Microsoft's B2B dominance in enterprise software means Shopify's enterprise merchant integrations often run through Microsoft Azure and 365 infrastructure. DMA remedies on Microsoft's tying practices could open the enterprise environment to more competitive alternatives for merchants.",
-      "tags": ["microsoft", "bing", "edge", "teams", "tying", "investigation"],
+      "tags": [
+        "microsoft",
+        "bing",
+        "edge",
+        "teams",
+        "tying",
+        "investigation"
+      ],
       "sources": []
     },
     {
@@ -119,7 +194,13 @@
       "title": "Apple opens App Store to sideloading in EU — first DMA compliance measure",
       "what_happened": "Apple enabled alternative app marketplaces and sideloading on iOS in the EU for the first time, as required under DMA. Apple introduced a 'Core Technology Fee' of €0.50 per install above 1m downloads — a new fee structure that drew immediate criticism from app developers and the Commission as a potential violation of the spirit of DMA obligations.",
       "shopify_angle": "Apple's Core Technology Fee creates a new cost for Shopify's iOS app at scale. If the fee is determined to be a DMA circumvention, it could be remedied. In the short term, Shopify's merchant-facing iOS apps need to factor in this cost model for the EU market.",
-      "tags": ["apple", "sideloading", "core-technology-fee", "compliance", "app-store"],
+      "tags": [
+        "apple",
+        "sideloading",
+        "core-technology-fee",
+        "compliance",
+        "app-store"
+      ],
       "sources": []
     },
     {
@@ -127,7 +208,12 @@
       "title": "Commission opens investigation into Apple's compliance with interoperability obligations",
       "what_happened": "The Commission opened its first investigation under DMA Article 6(7) to examine Apple's process for handling interoperability requests from third-party developers and hardware manufacturers. Multiple companies had complained that Apple's process was opaque, slow, and imposed unreasonable conditions.",
       "shopify_angle": "Shopify's POS hardware ecosystem (card readers, barcode scanners, receipt printers) depends on robust iOS interoperability. Apple's opaque API access process has historically created friction for hardware partners that build Shopify-compatible devices — a Commission remedy here directly benefits Shopify's physical retail product.",
-      "tags": ["apple", "interoperability", "investigation", "article-67"],
+      "tags": [
+        "apple",
+        "interoperability",
+        "investigation",
+        "article-67"
+      ],
       "sources": []
     }
   ]

@@ -6,16 +6,29 @@
       "date": "2026-03-15",
       "title": "PSD3/PSR trilogue expected to conclude H1 2026 — open banking and SCA liability key issues",
       "what_happened": "Trilogue negotiations on PSD3 and the Payment Services Regulation (PSR) are ongoing with conclusion expected in H1 2026. Key unresolved issues: the scope of open banking data access (whether non-financial data can be shared under open finance provisions); liability allocation for authorised push payment (APP) fraud; SCA exemption thresholds for low-value transactions; and the treatment of technical service providers (TSPs) under the licensing framework.",
-      "shopify_angle": "The SCA exemption threshold is directly relevant to Shopify's checkout conversion rates. Current SCA requirements create friction in EU checkout flows — a higher transaction value threshold (or broader exemptions) would reduce abandoned carts for merchants. The APP fraud liability provisions determine whether merchants or payment service providers bear liability when a merchant's customer is tricked into an authorised transfer.",
-      "tags": ["trilogue", "psd3", "psr", "open-banking", "sca", "pending"],
+      "shopify_angle": "The SCA exemption threshold is worth watching for Shopify's checkout conversion rates. Current SCA requirements create friction in EU checkout flows — a higher transaction value threshold (or broader exemptions) would reduce abandoned carts for merchants. The APP fraud liability provisions determine whether merchants or payment service providers bear liability when a merchant's customer is tricked into an authorised transfer.",
+      "tags": [
+        "trilogue",
+        "psd3",
+        "psr",
+        "open-banking",
+        "sca",
+        "pending"
+      ],
       "sources": []
     },
     {
       "date": "2024-11-14",
       "title": "Parliament adopts position on PSD3 and PSR — stronger consumer fraud protection, IBAN discrimination ban",
       "what_happened": "The European Parliament adopted its position on PSD3 and the PSR. Parliament strengthened: mandatory reimbursement of authorised push payment fraud victims; a ban on IBAN discrimination (requiring payers to accept IBANs from any EU member state); open banking access rights for third-party providers; and mandatory disclosure of currency conversion rates in real time for cross-border payments. Parliament's position was broadly consumer-friendly and more prescriptive than the Council's approach.",
-      "shopify_angle": "The IBAN discrimination ban is directly relevant to Shopify merchants accepting SEPA bank transfers — it prevents payment service providers or payment processors from refusing to process payments based on the country of the IBAN. The fraud reimbursement rules affect the risk allocation between Shopify's payment processing infrastructure and merchants for disputed payments.",
-      "tags": ["parliament", "position", "iban-discrimination", "fraud-reimbursement", "psd3"],
+      "shopify_angle": "The IBAN discrimination ban is worth watching for Shopify merchants accepting SEPA bank transfers — it prevents payment service providers or payment processors from refusing to process payments based on the country of the IBAN. The fraud reimbursement rules affect the risk allocation between Shopify's payment processing infrastructure and merchants for disputed payments.",
+      "tags": [
+        "parliament",
+        "position",
+        "iban-discrimination",
+        "fraud-reimbursement",
+        "psd3"
+      ],
       "sources": []
     },
     {
@@ -23,7 +36,13 @@
       "title": "Parliament ECON committee report on PSD3 and PSR — open banking access in focus",
       "what_happened": "The Parliament's Economic and Monetary Affairs (ECON) committee published its report on PSD3 and the PSR. The report called for: stronger open banking data access rights for authorised third-party providers (TPPs); removal of frictions that banks create for TPPs accessing customer account data; liability for payment service providers when SCA is unavailable at checkout; and extension of PSR to cover buy-now-pay-later (BNPL) services.",
       "shopify_angle": "The ECON report's push for stronger open banking access rights benefits Shopify Payments and any Shopify-integrated open banking solution. If banks are required to provide frictionless API access to account data, Shopify's pay-by-bank or open banking checkout features become more viable in the EU. BNPL extension under PSR affects Shopify Capital and any instalment payment integrations.",
-      "tags": ["econ", "open-banking", "tpp-access", "bnpl", "report"],
+      "tags": [
+        "econ",
+        "open-banking",
+        "tpp-access",
+        "bnpl",
+        "report"
+      ],
       "sources": []
     },
     {
@@ -31,23 +50,42 @@
       "title": "Council agrees general approach on PSD3 and PSR",
       "what_happened": "The Council of the EU agreed its general approach on both PSD3 and the PSR. Key Council positions: maintain the existing SCA framework broadly (resisting Parliament's push for stronger merchant exemptions); require open banking API access but allow banks to impose reasonable security conditions; allow BNPL providers a transition period before PSR obligations apply; and establish a central register of licensed payment service providers at EBA level.",
       "shopify_angle": "The Council's broadly conservative approach to SCA reform means the friction in EU checkout flows is unlikely to be dramatically reduced in the short term. This is commercially significant for Shopify merchants — SCA abandonment rates remain a live problem. The EBA central register of licensed PSPs will improve Shopify Payments' ability to verify payment provider credentials across EU markets.",
-      "tags": ["council", "general-approach", "sca", "psd3", "psr"],
+      "tags": [
+        "council",
+        "general-approach",
+        "sca",
+        "psd3",
+        "psr"
+      ],
       "sources": []
     },
     {
       "date": "2023-06-28",
       "title": "Commission publishes PSD3 proposal and Payment Services Regulation",
       "what_happened": "The European Commission published its proposed revision of the EU payment services framework: a recast Payment Services Directive (PSD3) covering licensing, and a new Payment Services Regulation (PSR) that replaces the payment services provisions of PSD2 with directly applicable EU law. Key proposals: stronger open banking rights for third-party providers; SCA refinements to reduce checkout friction; ban on IBAN discrimination; mandatory fraud data sharing between payment service providers; and extension of scope to new payment instruments.",
-      "shopify_angle": "PSD3/PSR will directly affect Shopify Payments' operating framework in the EU. The open banking provisions could support a pay-by-bank checkout option for Shopify merchants. SCA refinements — particularly around transaction risk analysis exemptions — could reduce checkout abandonment. The fraud data sharing obligation requires Shopify to participate in inter-PSP data sharing for fraud prevention.",
-      "tags": ["proposal", "commission", "psd3", "psr", "open-banking", "milestone"],
+      "shopify_angle": "PSD3/PSR may be relevant for Shopify Payments' operating framework in the EU. The open banking provisions could support a pay-by-bank checkout option for Shopify merchants. SCA refinements — particularly around transaction risk analysis exemptions — could reduce checkout abandonment. The fraud data sharing obligation requires Shopify to participate in inter-PSP data sharing for fraud prevention.",
+      "tags": [
+        "proposal",
+        "commission",
+        "psd3",
+        "psr",
+        "open-banking",
+        "milestone"
+      ],
       "sources": []
     },
     {
       "date": "2022-10-01",
       "title": "Commission publishes PSD2 review findings — open banking gaps and SCA friction identified",
       "what_happened": "The European Commission published its review of PSD2, assessing the Directive's four years of application. Key findings: open banking had not achieved the expected competition in account information and payment initiation services due to bank-created frictions; SCA had reduced fraud but significantly increased checkout abandonment rates in e-commerce; and the emergence of new payment instruments (crypto assets, BNPL, digital wallets) required regulatory scope updates. The review directly informed the PSD3/PSR proposals.",
-      "shopify_angle": "The Commission's finding that SCA increased checkout abandonment rates validated what Shopify merchants had been experiencing since 2021. The review cited e-commerce conversion rate declines of 10-30% attributable to SCA friction. This evidence base was a key driver of the SCA refinement provisions in PSD3 — directly relevant to Shopify's EU merchants' conversion economics.",
-      "tags": ["psd2-review", "sca", "open-banking", "abandonment", "refit"],
+      "shopify_angle": "The Commission's finding that SCA increased checkout abandonment rates validated what Shopify merchants had been experiencing since 2021. The review cited e-commerce conversion rate declines of 10-30% attributable to SCA friction. This evidence base was a key driver of the SCA refinement provisions in PSD3 — worth watching for Shopify's EU merchants' conversion economics.",
+      "tags": [
+        "psd2-review",
+        "sca",
+        "open-banking",
+        "abandonment",
+        "refit"
+      ],
       "sources": []
     },
     {
@@ -55,7 +93,13 @@
       "title": "Final SCA enforcement deadline — all EU merchants required to comply",
       "what_happened": "The final deadline for Strong Customer Authentication compliance for e-commerce transactions passed on 31 December 2021, following multiple extensions. From this date, all payment service providers in the EU are required to apply SCA (two-factor authentication) to online card payments, except where an exemption applies (transaction risk analysis, low-value transactions under €30, recurring transactions). National competent authorities confirmed they would begin enforcement.",
       "shopify_angle": "SCA's full application is the single biggest EU regulatory impact on Shopify's checkout conversion rates. Shopify merchants selling to EU consumers need 3DS2-compliant checkout flows. Shopify Payments and integrated third-party PSPs must support all SCA exemption pathways to minimise authentication friction. The impact varies by member state and PSP implementation quality.",
-      "tags": ["sca", "enforcement", "3ds2", "final-deadline", "milestone"],
+      "tags": [
+        "sca",
+        "enforcement",
+        "3ds2",
+        "final-deadline",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -63,7 +107,13 @@
       "title": "EBA extends SCA deadline for e-commerce — COVID and technical readiness cited",
       "what_happened": "The European Banking Authority published an opinion allowing national competent authorities to grant an additional extension to the SCA deadline for card-not-present e-commerce transactions until 31 December 2021. The extension followed earlier delays (originally September 2019, extended to December 2020, then March 2021). The EBA cited COVID-19 disruption and uneven 3DS2 technical readiness across PSPs as justification.",
       "shopify_angle": "The repeated SCA extensions gave Shopify additional time to build and test 3DS2 integration across Shopify Payments and the full range of third-party payment providers in the App Store. Shopify used the extension period to develop its SCA compliance infrastructure and publish merchant guidance on payment provider readiness.",
-      "tags": ["sca", "extension", "eba", "covid", "3ds2"],
+      "tags": [
+        "sca",
+        "extension",
+        "eba",
+        "covid",
+        "3ds2"
+      ],
       "sources": []
     },
     {
@@ -71,7 +121,13 @@
       "title": "EBA SCA Regulatory Technical Standards apply — first e-commerce deadline",
       "what_happened": "The EBA's Regulatory Technical Standards on Strong Customer Authentication (Commission Delegated Regulation 2018/389) became applicable on 14 September 2019. The RTS set out the technical requirements for SCA: two of three authentication factors (knowledge, possession, inherence); transaction binding; and the exemptions framework (transaction risk analysis, low-value, whitelisting). The September 2019 deadline applied immediately to online banking; national authorities granted 18-month extensions for e-commerce.",
       "shopify_angle": "The SCA RTS' application to online payments required Shopify to assess the 3DS2 readiness of all payment service providers integrated with Shopify Payments and the App Store. The transaction risk analysis exemption — which allows PSPs to skip SCA for low-risk transactions — is particularly valuable for Shopify merchants with high transaction volumes and good fraud performance.",
-      "tags": ["sca", "rts", "eba", "transaction-risk-analysis", "exemptions"],
+      "tags": [
+        "sca",
+        "rts",
+        "eba",
+        "transaction-risk-analysis",
+        "exemptions"
+      ],
       "sources": []
     },
     {
@@ -79,7 +135,13 @@
       "title": "PSD2 applies — open banking and SCA requirements enter into force",
       "what_happened": "The revised Payment Services Directive (PSD2, Directive 2015/2366) became applicable on 13 January 2018. PSD2 introduced: mandatory account data access for authorised third-party providers (AISP/PISP); the SCA framework (with implementation standards still being developed by EBA); prohibition on payment surcharging for consumer cards; and enhanced liability rules for unauthorised transactions. SCA application was deferred pending EBA RTS finalisation.",
       "shopify_angle": "PSD2's application created the open banking framework that underpins Shopify's EU payment ecosystem. The prohibition on payment surcharging means Shopify merchants cannot pass card fees directly to consumers for Visa/Mastercard transactions — a cost that remains embedded in merchant pricing. The open banking provisions enabled the third-party payment integrations in Shopify's EU App Store.",
-      "tags": ["psd2", "in-force", "open-banking", "sca", "milestone"],
+      "tags": [
+        "psd2",
+        "in-force",
+        "open-banking",
+        "sca",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -87,7 +149,13 @@
       "title": "PSD2 adopted — mandate for open banking and stronger payment security",
       "what_happened": "The European Parliament and Council adopted the revised Payment Services Directive (PSD2, Directive 2015/2366). PSD2 replaced the 2007 PSD1 and introduced: a licensing framework for payment initiation service providers and account information service providers; the mandate for banks to open customer account data to authorised third parties (open banking); strong customer authentication requirements; and enhanced consumer rights for payment disputes. Member states had until January 2018 to transpose.",
       "shopify_angle": "PSD2's adoption laid the regulatory foundation for the open banking ecosystem that modern payment apps in Shopify's EU App Store depend on. The AISP/PISP licensing framework created legitimate, regulated alternatives to card payments that Shopify merchants can access through integrated third-party payment providers.",
-      "tags": ["psd2", "adoption", "open-banking", "milestone", "aisp-pisp"],
+      "tags": [
+        "psd2",
+        "adoption",
+        "open-banking",
+        "milestone",
+        "aisp-pisp"
+      ],
       "sources": []
     },
     {
@@ -95,7 +163,13 @@
       "title": "Shopify Payments European expansion — PSD2 licensing framework context",
       "what_happened": "As PSD3/PSR trilogue negotiations continue, the existing PSD2 licensing framework governs how Shopify Payments operates in EU markets. Shopify Payments operates under PSD2 as a payment institution under Irish authorisation, with passporting rights across EU member states. The transition to PSD3/PSR will require Shopify Payments to update its operating licence and compliance framework — the timeline depends on trilogue conclusion and implementation deadlines, expected no earlier than 2027.",
       "shopify_angle": "Shopify Payments' EU authorisation under PSD2 provides the legal foundation for its EU payment processing operations. The PSD3/PSR transition — which replaces PSD2 with a directly applicable regulation — will require regulatory engagement by Shopify with the Central Bank of Ireland and potentially with EBA on the new technical standards for SCA and open banking access.",
-      "tags": ["shopify-payments", "psd2", "ireland", "authorisation", "passporting"],
+      "tags": [
+        "shopify-payments",
+        "psd2",
+        "ireland",
+        "authorisation",
+        "passporting"
+      ],
       "sources": []
     }
   ]

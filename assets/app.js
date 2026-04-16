@@ -249,7 +249,7 @@ function timelineEntryHtml(entry) {
         <p class="entry-what">${escHtml(entry.what_happened)}</p>
         ${entry.shopify_angle ? `
           <div class="entry-shopify">
-            <div class="entry-shopify-label">Shopify angle</div>
+            <div class="entry-shopify-label">Policy signal</div>
             ${escHtml(entry.shopify_angle)}
           </div>
         ` : ''}

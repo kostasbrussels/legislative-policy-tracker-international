@@ -6,8 +6,13 @@
       "date": "2026-03-15",
       "title": "Next trilogue postponed to spring 2026 — liability allocation still unresolved",
       "what_happened": "The next political trilogue on the EU Customs Reform package has been postponed to spring 2026, with the Council Presidency citing unresolved disagreements on the liability allocation model between platforms and sellers, and the technical implementation of the flat handling fee. Key open questions include whether the €2 fee applies per parcel or per item, how IOSS linkage works under the new regime, and whether the EU Customs Authority will have direct enforcement powers over non-EU platforms.",
-      "shopify_angle": "The liability allocation question is critical for Shopify. If the final text makes platforms (not sellers) liable for customs duty collection on non-EU parcels, Shopify would need to build customs collection infrastructure for the EU market — analogous to the VAT facilitation model introduced in 2021. A per-parcel flat fee is more manageable than a per-item fee for merchants shipping multiple SKUs.",
-      "tags": ["trilogue", "liability", "eu-customs-authority", "pending"],
+      "shopify_angle": "The liability allocation question is a key development to monitor for Shopify. If the final text makes platforms (not sellers) liable for customs duty collection on non-EU parcels, Shopify would may need to consider building customs collection infrastructure for the EU market — analogous to the VAT facilitation model introduced in 2021. A per-parcel flat fee is more manageable than a per-item fee for merchants shipping multiple SKUs.",
+      "tags": [
+        "trilogue",
+        "liability",
+        "eu-customs-authority",
+        "pending"
+      ],
       "sources": []
     },
     {
@@ -15,15 +20,27 @@
       "title": "France introduces unilateral €2 levy on non-EU low-value parcels ahead of EU reform",
       "what_happened": "France began applying a €2 handling fee on non-EU parcels valued under €150, effective 1 March 2026 — ahead of the EU-wide customs reform. The unilateral French measure was enabled by a domestic finance law provision. Belgium and the Netherlands are not applying equivalent levies, creating rerouting pressure across EU entry points. The Commission confirmed the French measure is compatible with EU customs union rules as a domestic administrative fee.",
       "shopify_angle": "Merchants shipping low-value goods into France from outside the EU now face a €2 per-parcel cost. For merchants using cross-border logistics into France, this affects landed cost calculations. The divergence between France and neighbouring markets creates short-term routing arbitrage — merchants may consolidate French deliveries through Belgian or Dutch entry points, increasing logistics complexity.",
-      "tags": ["france", "levy", "parcels", "unilateral", "in-force"],
+      "tags": [
+        "france",
+        "levy",
+        "parcels",
+        "unilateral",
+        "in-force"
+      ],
       "sources": []
     },
     {
       "date": "2025-01-15",
       "title": "Parliament rapporteur positions harden on platform liability and de minimis abolition",
       "what_happened": "Parliament's IMCO rapporteur (Anna Cavazzini, Greens) and INTA rapporteur published positions advocating for: full abolition of the €150 customs duty exemption (not just reduction); direct platform liability for customs duty on sales by non-EU sellers; and a tighter timeline for the EU Customs Authority to become operational. The platform liability position is significantly stronger than the Commission proposal, which envisioned a shared responsibility model.",
-      "shopify_angle": "The IMCO push for full platform liability would create a stronger compliance obligation for Shopify than the Commission's shared model. If Parliament's position prevails in trilogue, Shopify would need to build customs duty calculation and remittance infrastructure for all non-EU seller shipments to the EU — extending the VAT facilitation model to customs.",
-      "tags": ["parliament", "rapporteur", "liability", "imco", "inta"],
+      "shopify_angle": "The IMCO push for full platform liability would create a stronger compliance obligation for Shopify than the Commission's shared model. If Parliament's position prevails in trilogue, Shopify would may need to consider building customs duty calculation and remittance infrastructure for all non-EU seller shipments to the EU — extending the VAT facilitation model to customs.",
+      "tags": [
+        "parliament",
+        "rapporteur",
+        "liability",
+        "imco",
+        "inta"
+      ],
       "sources": []
     },
     {
@@ -31,7 +48,12 @@
       "title": "Council general approach agreed — phased de minimis abolition, optional handling fee",
       "what_happened": "The Council of the EU agreed its general approach on the Customs Reform package. Key positions: abolish the €150 customs duty threshold in phases (immediate for goods subject to anti-dumping duties, full abolition from 2028 for all); member states can optionally apply a flat handling fee up to €3 per parcel; EU Customs Authority to be operational by 2031; platform liability as secondary, not primary, with seller as primary responsible party.",
       "shopify_angle": "The Council's preference for seller-as-primary-liable model is more favourable for Shopify than Parliament's platform liability position. However, the optional handling fee — which individual member states can set up to €3 — creates EU-wide fragmentation in landed costs, complicating Shopify's merchant-facing pricing tools.",
-      "tags": ["council", "general-approach", "de-minimis", "handling-fee"],
+      "tags": [
+        "council",
+        "general-approach",
+        "de-minimis",
+        "handling-fee"
+      ],
       "sources": []
     },
     {
@@ -39,15 +61,27 @@
       "title": "Commission proposes €2 flat handling fee amendment — response to Temu/Shein volumes",
       "what_happened": "The Commission published an amendment to the Customs Reform proposal introducing a flat €2 handling fee on all non-EU parcels below €150, in addition to the original de minimis abolition. The amendment was explicitly motivated by the surge in low-value parcel volumes from Chinese platforms (Temu, Shein), estimated at over 4 billion parcels per year entering the EU. The fee is intended to cover customs processing costs and create a minimum financial barrier.",
       "shopify_angle": "The €2 fee applies to non-EU parcels, primarily affecting merchants using Asian-based fulfilment. EU-based merchants and Shopify's EU-registered sellers are not directly in scope. However, the competitive pressure the fee is intended to address — Temu/Shein low-price advantage — benefits EU-based merchants on Shopify's platform who compete against those imports.",
-      "tags": ["handling-fee", "temu", "shein", "amendment", "low-value-goods"],
+      "tags": [
+        "handling-fee",
+        "temu",
+        "shein",
+        "amendment",
+        "low-value-goods"
+      ],
       "sources": []
     },
     {
       "date": "2023-11-15",
       "title": "Parliament IMCO and INTA begin committee review — e-commerce platform liability in focus",
       "what_happened": "The Parliament's IMCO and INTA committees began their review of the Customs Reform proposal. The central political debate is around e-commerce platform liability: whether online marketplaces should be required to collect and remit customs duties on behalf of their third-party sellers, mirroring the VAT facilitation model introduced under the 2021 e-commerce VAT package. The Commission proposal envisages a 'deemed importer' model for platforms facilitating customs-dutiable imports.",
-      "shopify_angle": "The 'deemed importer' debate is directly relevant to Shopify's platform model. Under the proposed model, Shopify could be required to collect customs duties from merchants and remit them to EU customs authorities — a significant operational build, but one that could also provide a competitive advantage by simplifying cross-border compliance for Shopify merchants.",
-      "tags": ["parliament", "imco", "inta", "deemed-importer", "platform-liability"],
+      "shopify_angle": "The 'deemed importer' debate is worth watching for Shopify's platform model. Under the proposed model, Shopify could be required to collect customs duties from merchants and remit them to EU customs authorities — a significant operational build, but one that could also provide a competitive advantage by simplifying cross-border compliance for Shopify merchants.",
+      "tags": [
+        "parliament",
+        "imco",
+        "inta",
+        "deemed-importer",
+        "platform-liability"
+      ],
       "sources": []
     },
     {
@@ -55,7 +89,13 @@
       "title": "Commission publishes EU Customs Reform proposal — abolish €150 threshold, create EU Customs Authority",
       "what_happened": "The European Commission published its proposal for a comprehensive reform of the EU Customs Union (COM/2023/258). Key measures: abolish the €150 customs duty exemption for low-value goods; introduce a new 'trust and check' trader status; create an EU Customs Authority to replace the current national-only enforcement model; new data requirements for e-commerce shipments (full product description, HS code, value); and a platform collection model for customs duty on sales by non-EU sellers.",
       "shopify_angle": "Abolishing the €150 customs duty threshold ends the cost advantage that non-EU merchants have over EU-based sellers. For Shopify, the platform collection model is the key operational question: if Shopify is required to collect and remit customs duties on non-EU seller shipments to EU consumers, it extends Shopify's role from VAT facilitator to customs duty facilitator — with significant infrastructure implications.",
-      "tags": ["proposal", "commission", "de-minimis", "eu-customs-authority", "milestone"],
+      "tags": [
+        "proposal",
+        "commission",
+        "de-minimis",
+        "eu-customs-authority",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -63,7 +103,13 @@
       "title": "Political momentum builds for customs reform — low-value parcel surge from Asia drives urgency",
       "what_happened": "The European Commission and several member states signalled increased urgency for customs reform in response to the rapidly growing volume of low-value parcel imports from Chinese platforms. Temu launched in the EU in 2022; Shein had been operating since 2020. Commission estimates put the number of low-value parcels at over 2 billion per year, with the majority claiming the €150 customs duty exemption. The Commission's REFIT evaluation of the Union Customs Code confirmed the exemption was creating unfair competition.",
       "shopify_angle": "The political framing of customs reform as a response to Chinese e-commerce platforms — rather than a general trade efficiency measure — is relevant for Shopify's advocacy position. Shopify's EU merchant base competes directly with low-cost imports; abolishing the €150 exemption would level the competitive playing field for EU-based merchants.",
-      "tags": ["temu", "shein", "low-value-goods", "competition", "political-momentum"],
+      "tags": [
+        "temu",
+        "shein",
+        "low-value-goods",
+        "competition",
+        "political-momentum"
+      ],
       "sources": []
     },
     {
@@ -71,7 +117,12 @@
       "title": "EU abolishes €22 VAT import exemption — first action on low-value imports",
       "what_happened": "The EU VAT e-commerce package abolished the €22 VAT exemption for low-value imports from non-EU countries, effective 1 July 2021. All goods entering the EU from outside — regardless of value — are now subject to VAT. Platforms facilitating sales by non-EU sellers of goods under €150 to EU consumers are deemed the VAT supplier. The €150 customs duty exemption was not changed at this stage.",
       "shopify_angle": "The 2021 VAT reform made Shopify the deemed VAT supplier for qualifying non-EU merchant sales to EU consumers — requiring Shopify to build IOSS infrastructure and register for import VAT. The customs duty exemption (€150) remained in place, creating an anomaly: Shopify collected VAT but not customs duty on the same parcel. The Customs Reform addresses this gap.",
-      "tags": ["vat-exemption", "ioss", "marketplace-facilitation", "milestone"],
+      "tags": [
+        "vat-exemption",
+        "ioss",
+        "marketplace-facilitation",
+        "milestone"
+      ],
       "sources": []
     },
     {
@@ -79,7 +130,12 @@
       "title": "WTO moratorium on electronic transmissions renewed — digital trade customs context",
       "what_happened": "WTO members renewed the moratorium on imposing customs duties on electronic transmissions for a further two-year period at the Buenos Aires Ministerial. The moratorium — first agreed in 1998 — prevents WTO members from applying customs duties on digitally delivered products (software, streaming, digital services). The EU supports the moratorium's permanence; some developing countries seek its expiry.",
       "shopify_angle": "The WTO moratorium on digital transmissions protects Shopify's digital services exports (SaaS subscriptions, app sales) from customs duty exposure. If the moratorium expires, Shopify's software-as-a-service products delivered digitally across borders could become subject to customs duties in markets that elect to apply them.",
-      "tags": ["wto", "digital-transmissions", "moratorium", "e-commerce"],
+      "tags": [
+        "wto",
+        "digital-transmissions",
+        "moratorium",
+        "e-commerce"
+      ],
       "sources": []
     }
   ]
